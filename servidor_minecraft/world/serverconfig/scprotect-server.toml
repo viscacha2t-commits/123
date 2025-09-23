@@ -1,0 +1,23 @@
+
+[SCP-096]
+	#Toggle SCP-096 being triggered by other entities
+	"SCP-096 React To Other Entities" = false
+	#Blocks that 096 can destroy
+	Destroyables = []
+
+["Reality Scanner"]
+	#List of SCPs that Reality Scanner will not spawn
+	"Blacklisted SCPs" = ["rebel", "scp_3199_egg", "scp_049_2", "scp_019_2"]
+
+["Pink Candy"]
+	#Toggle pink candy being obtainable from SCP-330 (PLEASE TURN MOBGRIEFING OFF)
+	"Pink candy from 330" = false
+
+["SCP-063 Breaking Bedrock"]
+	#Toggle SCP-063 breaking bedrock
+	"Breaking Bedrock With SCP-063" = false
+
+["Doors Temp Open"]
+	#Toggle doors staying open or automatically closing
+	"Doors Temp Open" = true
+
