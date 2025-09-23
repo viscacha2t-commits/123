@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f0c98691b1be33d9bef68fa9b4a63801"
+	name: "COLIGAMES#f0c98691"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

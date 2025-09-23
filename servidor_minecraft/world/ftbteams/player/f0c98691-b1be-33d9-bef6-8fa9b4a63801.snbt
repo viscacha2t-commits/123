@@ -1,0 +1,17 @@
+{
+	id: "f0c98691-b1be-33d9-bef6-8fa9b4a63801"
+	type: "player"
+	player_name: "COLIGAMES"
+	ranks: {
+		f0c98691-b1be-33d9-bef6-8fa9b4a63801: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "COLIGAMES"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CEFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

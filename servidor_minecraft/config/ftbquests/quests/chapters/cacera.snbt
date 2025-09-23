@@ -1,0 +1,1478 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cacera"
+	group: ""
+	id: "06E98C2982AB5FFE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			hide_lock_icon: true
+			id: "7DC6048A0C32D898"
+			rewards: [
+				{
+					count: 10
+					id: "43CC1CD36D1EBD61"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1F3757D0E432B902"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "easy_npc:zombie_spawn_egg"
+				id: "2A82B97A233AF285"
+				title: "Kill Zombies"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "1CB5D3181200442D"
+			rewards: [
+				{
+					count: 10
+					id: "7A90B651A5954DE2"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "134ADA7D7349081F"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "19EE348CDD3DBF53"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "1FBD5C7D78B8CBA2"
+			rewards: [
+				{
+					count: 10
+					id: "7683F2D3300A933E"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5C3C11C6B78741D8"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "6B0FD4B5A9E2B260"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "1734F14E44577251"
+			rewards: [
+				{
+					count: 10
+					id: "42E6712ECB83D2CE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "773A327C52D7D652"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "spartanweaponry:enderman_head"
+				id: "1A4046D35A7FC8F5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "6814FF5A8323090B"
+			rewards: [
+				{
+					count: 10
+					id: "09D4E0D0DB4EC6D0"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5EFC5505D4FEEA48"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "spartanweaponry:spider_head"
+				id: "528E5D4361E5EDBF"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "0DC65FC74D894F2C"
+			rewards: [
+				{
+					count: 10
+					id: "5929C554F2F583F4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "18DA3D0083DC61D8"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "25706C62ABCA2DD6"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "15C00EE504E6D63D"
+			rewards: [
+				{
+					count: 10
+					id: "05B1C44BD9CD22F0"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "10785AB89EB2D001"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: "spartanweaponry:drowned_head"
+				id: "5B7279E9BF7AFFAB"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "6ADC1BD16D20F2BE"
+			rewards: [
+				{
+					count: 64
+					id: "790A043B78CC8D81"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "487762C707793E52"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				icon: "easy_npc:zombie_villager_spawn_egg"
+				id: "6DA92B18DF52CED9"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "00D4A00BD1E836AE"
+			rewards: [
+				{
+					count: 10
+					id: "2F295AE3A61F2784"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "46F1DECBD9010A8F"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: "spartanweaponry:blaze_head"
+				id: "396755B3C8E0C600"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "54E25C1674BE3524"
+			rewards: [
+				{
+					count: 10
+					id: "6EF2A934424A7080"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "129A457C96D4C312"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: "spartanweaponry:witch_head"
+				id: "78FE384DBF456639"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "604F6BD371C7E0F3"
+			rewards: [
+				{
+					count: 10
+					id: "57FBB181E5CEFCE1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "391C29A8C08017E3"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				icon: "minecraft:magma_cream"
+				id: "57B732544580D497"
+				type: "kill"
+				value: 50L
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "502B10E57F465D2E"
+			rewards: [
+				{
+					count: 10
+					id: "1DDF7ECAA1DB5730"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "189F1839EAF16347"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:stray"
+				icon: {
+					Count: 1
+					id: "minecraft:tipped_arrow"
+					tag: {
+						Potion: "minecraft:long_slowness"
+					}
+				}
+				id: "597256C54EC3AAE0"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Esqueleto de las nieves"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "5A0A0CD880DB5BF3"
+			rewards: [
+				{
+					count: 10
+					id: "5A76431AE473D054"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "77899F0BA762BCF2"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: "easy_npc:wither_skeleton_spawn_egg"
+				id: "21DF92DEA852FA45"
+				type: "kill"
+				value: 50L
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "1D3C25E3AD7DD8FE"
+			rewards: [
+				{
+					count: 10
+					id: "7B80E22A48CED395"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6D927300DE59F556"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ghast"
+				icon: "minecraft:ghast_tear"
+				id: "4B4AFAE6815A52D4"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "01963A46D6B3BBEC"
+			rewards: [
+				{
+					count: 10
+					id: "2933DC0AEABEE07E"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "55E0F639C6886C0D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ravager"
+				icon: "minecraft:ravager_spawn_egg"
+				id: "63E9A27D30585A82"
+				type: "kill"
+				value: 15L
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "4D73D84AA4A2AE1B"
+			rewards: [
+				{
+					count: 10
+					id: "2E79534E17FD2CC8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "797ED4ECFD2B1D05"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "minecraft:endermite"
+				icon: "minecraft:endermite_spawn_egg"
+				id: "6DD9D3F36348532B"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "51F60401E7B51406"
+			rewards: [
+				{
+					count: 10
+					id: "08703DD58491194B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "63A0F14C5E080609"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "minecraft:phantom_membrane"
+				id: "31328C3FC825D8F7"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "0C04C25868F68409"
+			rewards: [
+				{
+					count: 10
+					id: "78E39D2C0FC873E7"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "3A3C21BF2898FD75"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "minecraft:guardian"
+				icon: "minecraft:prismarine_shard"
+				id: "54A5F075FA6A4100"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "45B88766E71FEA1B"
+			rewards: [
+				{
+					count: 10
+					id: "57ED3E13B09FFF4D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "23F1DE740B1D46D3"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: "minecraft:sponge"
+				id: "2B91BF3E954C8B5B"
+				type: "kill"
+				value: 25L
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "5B3FE694E8961F1E"
+			rewards: [
+				{
+					count: 10
+					id: "2CE22A8C1DBB5AA9"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1F5548100CA3FECF"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				entity: "minecraft:silverfish"
+				icon: "minecraft:silverfish_spawn_egg"
+				id: "5D51A6A0BBCC6DBB"
+				type: "kill"
+				value: 25L
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			id: "6AE2155281AAEA0D"
+			rewards: [
+				{
+					count: 10
+					id: "65D14934ADAF93C3"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4972B50E50ABBF90"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:piglin_brute"
+					icon: "easy_npc:piglin_brute_spawn_egg"
+					id: "08C14D4217DC1489"
+					type: "kill"
+					value: 15L
+				}
+				{
+					entity: "minecraft:piglin"
+					icon: "minecraft:piglin_head"
+					id: "3894449D49E11EA2"
+					type: "kill"
+					value: 25L
+				}
+			]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "63A2E614A316A34C"
+			rewards: [
+				{
+					count: 10
+					id: "4148B937EA7118B8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "2B64D65D32189242"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:hoglin"
+				icon: "minecraft:cooked_porkchop"
+				id: "7794CEF1F42E0161"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "186E99ABD32EB7E9"
+			rewards: [
+				{
+					count: 10
+					id: "59BF3074E857ACDE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "018EF4D551BE14B1"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:pillager"
+				icon: {
+					Count: 1
+					id: "minecraft:crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "197AAC68BA88B98C"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "6041086E4504E177"
+			rewards: [
+				{
+					count: 10
+					id: "6FBBACA7DA66F031"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "39B4DAADBB206FCE"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:shulker"
+				icon: "minecraft:shulker_shell"
+				id: "776E6EA76BDE790A"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "3D2C3F5EA1AC49F4"
+			rewards: [
+				{
+					count: 10
+					id: "18F288563915965B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "31D0BA625E6B607D"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:slime"
+				icon: "minecraft:slime_ball"
+				id: "68BED40743F99085"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "65B32C458B7F25C1"
+			rewards: [
+				{
+					count: 10
+					id: "3A78EF86C331FFE7"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "624FD75D3012BACA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [{
+				entity: "minecraft:vex"
+				icon: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "240CD3FC75EDED17"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "588E14BED70E7B40"
+			rewards: [
+				{
+					count: 10
+					id: "6986469663D37F9D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "01823E5F783A30A2"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:vindicator"
+				icon: "easy_npc:vindicator_spawn_egg"
+				id: "1D56139A3A7D5586"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "7FE0CF19A0A45237"
+			rewards: [
+				{
+					count: 32
+					id: "72F54EF2A995039B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "095D95469E82401C"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: "minecraft:sculk_shrieker"
+				id: "60454735E91A8D00"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			can_repeat: true
+			id: "4016CE6916F4ECE1"
+			rewards: [
+				{
+					count: 10
+					id: "5767089FE2328858"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "48AB525149231DA6"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zoglin"
+				icon: "minecraft:zoglin_spawn_egg"
+				id: "279F877BC35CC39B"
+				type: "kill"
+				value: 25L
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "2D799FC99481C03F"
+			rewards: [
+				{
+					count: 10
+					id: "17055BCE37C9BCC4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "10C13D0908561CDE"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				entity: "minecraft:husk"
+				icon: "minecraft:husk_spawn_egg"
+				id: "245F7C2A62094D45"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "79D22065A18A9E7C"
+			rewards: [
+				{
+					count: 32
+					id: "0BEAB5B2128B5D43"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "78760F2C41A475ED"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "4CC798FF2CDCC523"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: false
+			id: "0EE26EFBBBD6F717"
+			rewards: [
+				{
+					count: 32
+					id: "78DB342A2E72BFF2"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "644A3F81730E5229"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "minecraft:wither_rose"
+				id: "51294D74A1C94E73"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "1B7D9EAF0EADDEA9"
+			rewards: [
+				{
+					count: 20
+					id: "6A40E9C19F433F4A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6C8B31B3ED3139AB"
+					type: "xp_levels"
+					xp_levels: 12
+				}
+			]
+			tasks: [{
+				entity: "minecraft:player"
+				icon: "minecraft:player_head"
+				id: "1EAED240F4921452"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "22119FCEF8ADA5D1"
+			rewards: [
+				{
+					count: 10
+					id: "09F8FF3AC790D9D1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "078218516DF8E3DA"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:pig"
+				icon: "minecraft:porkchop"
+				id: "2771FF9F5E5C7515"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			id: "1DF18F2C396F4BE2"
+			rewards: [
+				{
+					count: 10
+					id: "15D6E1939D0C7256"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6A9BE3B1C7BAE108"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:mooshroom"
+				icon: "minecraft:red_mushroom"
+				id: "07FB17C6645FFC37"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			id: "3D92630C03B13603"
+			rewards: [
+				{
+					count: 10
+					id: "0BBBD4CD67BD2F70"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "52C3C31AD890BDFB"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:sheep"
+				icon: "minecraft:white_wool"
+				id: "16184F556F399CD2"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			can_repeat: true
+			id: "6E063C1F860C564D"
+			rewards: [
+				{
+					count: 10
+					id: "5BBB22A3A818F3A2"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4F9AF61A468F3458"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:chicken"
+				icon: "minecraft:cooked_chicken"
+				id: "2FDB52836E0F692E"
+				type: "kill"
+				value: 100L
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "5CC8F42131A66529"
+			rewards: [
+				{
+					count: 10
+					id: "5EC2C45CBCB90097"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "00B1A43C9FEB54B2"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				entity: "minecraft:cow"
+				icon: "minecraft:cooked_beef"
+				id: "55E633E16987A2F2"
+				type: "kill"
+				value: 100L
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "1B0D2DECB0C29960"
+			rewards: [
+				{
+					count: 64
+					id: "76311F11BF829E65"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "2917E0050DBCA485"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
+			tasks: [{
+				entity: "grotesque_steve:grotesquesteve"
+				icon: "grotesque_steve:orangeshirt"
+				id: "4AED8E389405D3BC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -19.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "7F0794C760ACEF38"
+			rewards: [
+				{
+					count: 15
+					id: "652A2E3F80CA0EF0"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0890B505CCB78749"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_blood"
+				id: "0126758F74E9C13F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "5295B29D209342AA"
+			rewards: [
+				{
+					count: 15
+					id: "1A041372F3AE170D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5C48925072D7348F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_blood"
+				id: "06FB8B1CB0D87042"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "1232A9937CDB93D8"
+			rewards: [
+				{
+					count: 20
+					id: "3873A42ECBCB8201"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "68F8B65D9EF4648A"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_blood"
+				id: "5787AB7022178B77"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "7D44718835BDCCEA"
+			rewards: [{
+				id: "69AFBF9AE40CD579"
+				item: "dedsafio3:alma_gema"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mca:male_villager"
+				icon: "scalinghealth:power_crystal"
+				id: "4989BBD64FCE1A99"
+				type: "kill"
+				value: 1L
+			}]
+			x: -18.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "iceandfire:cyclops_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7DBA0C2D088D2721"
+			rewards: [
+				{
+					count: 20
+					id: "1A5B37481A1D1CD3"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1359ABCAC6F70528"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				id: "6087CBA3C20FA13A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			id: "0A4760EB66DF6BD3"
+			rewards: [
+				{
+					count: 20
+					id: "4F2D691348561021"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "116161D1587DC3C2"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: {
+					Count: 1
+					id: "iceandfire:gorgon_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "12BCA07C6D6B3263"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			id: "1AC7C4033AE78F54"
+			rewards: [
+				{
+					count: 20
+					id: "7C7DB74412C4EB6A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "476BFBCAF7C6EDD7"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:sea_serpent"
+				icon: "iceandfire:seaserpent_skull"
+				id: "48866C756AC14AA5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			id: "15960931D8D63F87"
+			rewards: [
+				{
+					count: 20
+					id: "3C29227CC37A3DBE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "086F92D0729FA206"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:ghost"
+				icon: "iceandfire:ectoplasm"
+				id: "7FD44EB881EE6FEE"
+				type: "kill"
+				value: 10L
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "300A0D5443FF4442"
+			rewards: [
+				{
+					count: 20
+					id: "6BE7E6A348C98CB1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6BD7C9E4293E7074"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:hydra"
+				icon: "iceandfire:hydra_skull"
+				id: "4F4063E034F857FC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "497C34358353441A"
+			rewards: [
+				{
+					count: 20
+					id: "0A88AA2750375CD6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5DDCD0DEF28FCDFA"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:siren"
+				icon: {
+					Count: 1
+					id: "iceandfire:siren_flute"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "490EDFB3CDC36F16"
+				type: "kill"
+				value: 3L
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "7060C2E1C419BB64"
+			rewards: [
+				{
+					count: 20
+					id: "64BB5D5CA5C1EEF0"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1B818C2811FE508C"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:troll"
+				icon: "iceandfire:troll_skull"
+				id: "2ED8CD9390E462CC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "35AC1823DE170CE3"
+			rewards: [{
+				id: "4735FF8ADC616170"
+				item: "dedsafio3:alma_gema"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mca:female_villager"
+				id: "287C413955A79DF5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -18.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			id: "7B46D959CB09417A"
+			rewards: [
+				{
+					count: 64
+					id: "62153F38DFE64428"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "491FECD2E6C4EEAF"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					id: "112132CE2200E7A6"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
+			tasks: [{
+				entity: "mca:grim_reaper"
+				id: "6DCE8566F12822DD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "0C714F501BDACAFA"
+			rewards: [
+				{
+					count: 15
+					id: "5139E673D52C9449"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "07BA9F0D7B50F2C3"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					id: "7194431C562A78BD"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:evoker"
+				icon: "dedsafio3:nutri_totem"
+				id: "027D4D507BE359AB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			id: "34C5A514DFE198FC"
+			rewards: [
+				{
+					count: 10
+					id: "7BE5FD01196A9175"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6C5B8062CCD373AF"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "mca:female_zombie_villager"
+				id: "2A098CC405C1B563"
+				type: "kill"
+				value: 10L
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "2FBC825FC0707719"
+			rewards: [
+				{
+					count: 10
+					id: "1E406B5C968D5043"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "25020F10297A2707"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "mca:male_zombie_villager"
+				id: "43A2535451C1E8F1"
+				type: "kill"
+				value: 10L
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+	]
+	title: "Cacería"
+}

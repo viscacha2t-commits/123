@@ -1,0 +1,371 @@
+
+[dagger]
+	#Disables all recipes for all Daggers.
+	disable = false
+	#Attack speed of Daggers.
+	#Range: 0.0 ~ 4.0
+	speed = 2.5
+	#Base Damage of Daggers.
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.5
+	#Damage Multiplier for Daggers.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[parrying_dagger]
+	#Disables all recipes for all Parrying Daggers.
+	disable = false
+	#Attack speed of Parrying Daggers.
+	#Range: 0.0 ~ 4.0
+	speed = 2.5
+	#Base Damage of Parrying Daggers.
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.5
+	#Damage Multiplier for Parrying Daggers.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[longsword]
+	#Disables all recipes for all Longswords.
+	disable = false
+	#Attack speed of Longswords.
+	#Range: 0.0 ~ 4.0
+	speed = 1.399999976158142
+	#Base Damage of Longswords.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.5
+	#Damage Multiplier for Longswords.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[katana]
+	#Disables all recipes for all Katanas.
+	disable = false
+	#Attack speed of Katanas.
+	#Range: 0.0 ~ 4.0
+	speed = 2.0
+	#Base Damage of Katanas.
+	#Range: 0.1 ~ 100.0
+	base_damage = 3.5
+	#Damage Multiplier for Katanas.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 0.5
+
+[saber]
+	#Disables all recipes for all Sabers.
+	disable = false
+	#Attack speed of Sabers.
+	#Range: 0.0 ~ 4.0
+	speed = 1.600000023841858
+	#Base Damage of Sabers.
+	#Range: 0.1 ~ 100.0
+	base_damage = 3.5
+	#Damage Multiplier for Sabers.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 0.5
+
+[rapier]
+	#Disables all recipes for all Rapiers.
+	disable = false
+	#Attack speed of Rapiers.
+	#Range: 0.0 ~ 4.0
+	speed = 2.4000000953674316
+	#Base Damage of Rapiers.
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.0
+	#Damage Multiplier for Rapiers.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 0.5
+
+[greatsword]
+	#Disables all recipes for all Greatswords.
+	disable = false
+	#Attack speed of Greatswords.
+	#Range: 0.0 ~ 4.0
+	speed = 1.399999976158142
+	#Base Damage of Greatswords.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Greatswords.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[club]
+	#Disables all recipes for all Clubs.
+	disable = false
+	#Attack speed of Clubs.
+	#Range: 0.0 ~ 4.0
+	speed = 1.2999999523162842
+	#Base Damage of Clubs.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Clubs.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[cestus]
+	#Disables all recipes for all Cestusae.
+	disable = false
+	#Attack speed of Cestusae.
+	#Range: 0.0 ~ 4.0
+	speed = 3.5
+	#Base Damage of Cestusae.
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.0
+	#Damage Multiplier for Cestusae.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 0.5
+
+[battle_hammer]
+	#Disables all recipes for all Battle Hammers.
+	disable = false
+	#Attack speed of Battle Hammers.
+	#Range: 0.0 ~ 4.0
+	speed = 0.800000011920929
+	#Base Damage of Battle Hammers.
+	#Range: 0.1 ~ 100.0
+	base_damage = 5.0
+	#Damage Multiplier for Battle Hammers.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 2.0
+
+[warhammer]
+	#Disables all recipes for all Warhammers.
+	disable = false
+	#Attack speed of Warhammers.
+	#Range: 0.0 ~ 4.0
+	speed = 1.100000023841858
+	#Base Damage of Warhammers.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Warhammers.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[spear]
+	#Disables all recipes for all Spears.
+	disable = false
+	#Attack speed of Spears.
+	#Range: 0.0 ~ 4.0
+	speed = 1.399999976158142
+	#Base Damage of Spears.
+	#Range: 0.1 ~ 100.0
+	base_damage = 5.5
+	#Damage Multiplier for Spears.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 0.5
+
+[halberd]
+	#Disables all recipes for all Halberds.
+	disable = false
+	#Attack speed of Halberds.
+	#Range: 0.0 ~ 4.0
+	speed = 1.2000000476837158
+	#Base Damage of Halberds.
+	#Range: 0.1 ~ 100.0
+	base_damage = 5.0
+	#Damage Multiplier for Halberds.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[pike]
+	#Disables all recipes for all Pikes.
+	disable = false
+	#Attack speed of Pikes.
+	#Range: 0.0 ~ 4.0
+	speed = 1.399999976158142
+	#Base Damage of Pikes.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Pikes.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[lance]
+	#Disables all recipes for all Lances.
+	disable = false
+	#Attack speed of Lances.
+	#Range: 0.0 ~ 4.0
+	speed = 1.0
+	#Base Damage of Lances.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Lances.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[longbow]
+	#Disables all recipes for all Longbows.
+	disable = false
+
+[heavy_crossbow]
+	#Disables all recipes for all Heavy Crossbows.
+	disable = false
+
+[throwing_knife]
+	#Disables all recipes for all Throwing Knives.
+	disable = false
+	#Attack speed of Throwing Knives.
+	#Range: 0.0 ~ 4.0
+	speed = 2.5
+	#Base Damage of Throwing Knives.
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Damage Multiplier for Throwing Knives.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+	#Charge time in ticks for Throwing Knives.
+	#Range: 1 ~ 1000
+	charge_ticks = 5
+
+[tomahawk]
+	#Disables all recipes for all Tomahawks.
+	disable = false
+	#Attack speed of Tomahawks.
+	#Range: 0.0 ~ 4.0
+	speed = 0.8999999761581421
+	#Base Damage of Tomahawks.
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.0
+	#Damage Multiplier for Tomahawks.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+	#Charge time in ticks for Tomahawks.
+	#Range: 1 ~ 1000
+	charge_ticks = 8
+
+[javelin]
+	#Disables all recipes for all Javelins.
+	disable = false
+	#Attack speed of Javelins.
+	#Range: 0.0 ~ 4.0
+	speed = 1.2000000476837158
+	#Base Damage of Javelins.
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Damage Multiplier for Javelins.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+	#Charge time in ticks for Javelins.
+	#Range: 1 ~ 1000
+	charge_ticks = 10
+
+[boomerang]
+	#Disables all recipes for all Boomerangs.
+	disable = false
+	#Attack speed of Boomerangs.
+	#Range: 0.0 ~ 4.0
+	speed = 2.0
+	#Base Damage of Boomerangs.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Boomerangs.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+	#Charge time in ticks for Boomerangs.
+	#Range: 1 ~ 1000
+	charge_ticks = 5
+
+[battleaxe]
+	#Disables all recipes for all Battleaxes.
+	disable = false
+	#Attack speed of Battleaxes.
+	#Range: 0.0 ~ 4.0
+	speed = 1.0
+	#Base Damage of Battleaxes.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Battleaxes.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 2.0
+
+[flanged_mace]
+	#Disables all recipes for all Flanged Maces.
+	disable = false
+	#Attack speed of Flanged Maces.
+	#Range: 0.0 ~ 4.0
+	speed = 1.2000000476837158
+	#Base Damage of Flanged Maces.
+	#Range: 0.1 ~ 100.0
+	base_damage = 3.0
+	#Damage Multiplier for Flanged Maces.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[glaive]
+	#Disables all recipes for all Glaives.
+	disable = false
+	#Attack speed of Glaives.
+	#Range: 0.0 ~ 4.0
+	speed = 1.0
+	#Base Damage of Glaives.
+	#Range: 0.1 ~ 100.0
+	base_damage = 4.0
+	#Damage Multiplier for Glaives.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[quarterstaff]
+	#Disables all recipes for all Quarterstaves.
+	disable = false
+	#Attack speed of Quarterstaves.
+	#Range: 0.0 ~ 4.0
+	speed = 1.399999976158142
+	#Base Damage of Quarterstaves.
+	#Range: 0.1 ~ 100.0
+	base_damage = 3.0
+	#Damage Multiplier for Quarterstaves.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[scythes]
+	#Disables all recipes for all Scythes.
+	disable = false
+	#Attack speed of Scythes.
+	#Range: 0.0 ~ 4.0
+	speed = 1.0
+	#Base Damage of Scythes.
+	#Range: 0.1 ~ 100.0
+	base_damage = 5.0
+	#Damage Multiplier for Scythes.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[copper]
+	#Base Damage for copper weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Durability for copper weapons
+	#Range: 1 ~ 100000
+	durability = 200
+	#Set to true to disable copper weapons
+	disable = false
+
+[tin]
+	#Base Damage for tin weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.75
+	#Durability for tin weapons
+	#Range: 1 ~ 100000
+	durability = 180
+	#Set to true to disable tin weapons
+	disable = false
+
+[bronze]
+	#Base Damage for bronze weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.0
+	#Durability for bronze weapons
+	#Range: 1 ~ 100000
+	durability = 320
+	#Set to true to disable bronze weapons
+	disable = false
+
+[steel]
+	#Base Damage for steel weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.5
+	#Durability for steel weapons
+	#Range: 1 ~ 100000
+	durability = 480
+	#Set to true to disable steel weapo

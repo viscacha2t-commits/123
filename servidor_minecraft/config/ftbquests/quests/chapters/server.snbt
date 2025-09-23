@@ -1,0 +1,6578 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "server"
+	group: ""
+	id: "1D2B009C1DCF5FA4"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2C8C424C47A2FC68"
+			rewards: [{
+				id: "6FBCC1DB3D60C69B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Empezamos"
+			tasks: [{
+				advancement: "minecraft:story/root"
+				criterion: ""
+				id: "1F4588F0DD8A77C4"
+				title: "Entra al server"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "467BDDC163AA2E88"
+			rewards: [{
+				count: 2
+				id: "19DC5DE1F8E0DD28"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "AGGGGHHHH"
+			tasks: [{
+				dimension: "grotesque_steve:stomach"
+				icon: "grotesque_steve:meatblock"
+				id: "116A7663C5B6386E"
+				title: "Visita la \"SHIT\" dimension"
+				type: "dimension"
+			}]
+			title: "\"SHIT\""
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "3404DD022D935B4D"
+			rewards: [{
+				id: "30EEE7EC336BEF75"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "mineshaft?"
+			tasks: [{
+				icon: "minecraft:rail"
+				id: "2F8740114A0739EC"
+				structure: "grotesque_steve:mineshaft"
+				title: "Encuentra la mina del grotesco"
+				type: "structure"
+			}]
+			title: "Grotesque mine?"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "77184B40F0E0B299"
+			rewards: [{
+				count: 2
+				id: "43AF860E789852CB"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Pense que te habian eliminado"
+			tasks: [{
+				entity: "grotesque_steve:grotesquespawn"
+				icon: "grotesque_steve:blueshirt"
+				id: "628F1CE3F0D76615"
+				title: "Cachate un grotesco"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "6B58FD824CF75D82"
+			rewards: [{
+				id: "4F00DF661BD0D10E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Es igual"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "5CE6C3646CB343B5"
+				type: "dimension"
+			}]
+			title: "\"The nether\""
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "5B853988306C75B4"
+			rewards: [{
+				id: "41CBEEC745982F8C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Kgamos"
+			tasks: [{
+				icon: "minecraft:nether_bricks"
+				id: "0456D9E416044EF5"
+				structure: "minecraft:fortress"
+				title: "Fortaleza?"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "0ED18265F1F4EA4B"
+			rewards: [{
+				count: 2
+				id: "63D23A37263AFC56"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Kgamos x2"
+			tasks: [{
+				icon: "minecraft:gilded_blackstone"
+				id: "5245FEF9579EDA2B"
+				structure: "minecraft:bastion_remnant"
+				title: "Bastion."
+				type: "structure"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "201B6C56E5C31F09"
+			rewards: [{
+				count: 3
+				id: "13715F9CFB495371"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "The end"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:ender_eye"
+				id: "18CA90C991443F74"
+				title: "El final?"
+				type: "dimension"
+			}]
+			title: "end dimension?"
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "3D5A1A057F54B8E0"
+			rewards: [{
+				count: 3
+				id: "64FE4FDAD1429FC8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Go "
+			tasks: [{
+				icon: "minecraft:purpur_block"
+				id: "44F590EC3B124062"
+				structure: "minecraft:end_city"
+				title: "End city"
+				type: "structure"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			id: "021A65E05A95F581"
+			rewards: [{
+				count: 2
+				id: "5741536A0705B03F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Unos pasos antes del final"
+			tasks: [{
+				icon: "minecraft:end_portal_frame"
+				id: "48F6913BEE74906C"
+				structure: "minecraft:stronghold"
+				title: "Stronhold"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "67BE9304E4B82606"
+			rewards: [{
+				count: 32
+				id: "0597620FB683906C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Solo 1 lo conseguira"
+			tasks: [{
+				id: "47C3D8EE934622FD"
+				item: "minecraft:dragon_egg"
+				type: "item"
+			}]
+			title: "EGG"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "2323647B6154C495"
+			rewards: [{
+				count: 5
+				id: "75AD092C029ED79F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Otra vez tu?"
+			tasks: [{
+				advancement: "minecraft:end/respawn_dragon"
+				criterion: ""
+				icon: "minecraft:dragon_head"
+				id: "6C9F63A99C8E1661"
+				title: "Otra vez?"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "0C69A61ADB639DF2"
+			rewards: [{
+				count: 4
+				id: "5229D99948ECC95D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "662F021F8201C897"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Fly"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			icon: "iceandfire:dragon_skull_lightning"
+			id: "0B41D4B70E15D3C9"
+			rewards: [{
+				id: "4C4BB9ED99400AF9"
+				item: {
+					Count: 1
+					id: "minecraft:writable_book"
+					tag: {
+						pages: ["Esta mision de aca es intro pero como soy bueno da una dedita del color de bandera de gustambo xd"]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Aprieta esto y la mision se cumple"
+			tasks: [{
+				id: "026C5A8E4026BB30"
+				title: "Ice and Fire"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			id: "11872D4A60C1C979"
+			rewards: [{
+				id: "38181A4A9A07398B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "La introduccion a todo esto"
+			tasks: [{
+				id: "2D481223E4FC97AF"
+				item: "iceandfire:bestiary"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			id: "59909932FFD01CBC"
+			rewards: [{
+				count: 2
+				id: "0BA3B68AD3D6D93A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Criatura mitica?"
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: {
+					Count: 1
+					id: "iceandfire:gorgon_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "28BDC147A1F2039D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata una Gorgon"
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			id: "7FBF219A29576952"
+			rewards: [{
+				count: 2
+				id: "2500C8E75B911AFF"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "1 eye?"
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				icon: {
+					Count: 1
+					id: "iceandfire:cyclops_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "67A315AE29149407"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Acaba con cyclops"
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			id: "0F0C137477F13A7B"
+			rewards: [{
+				count: 2
+				id: "0EA2233B549B7328"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Troll xd"
+			tasks: [{
+				entity: "iceandfire:troll"
+				icon: {
+					Count: 1
+					id: "iceandfire:troll_weapon_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "16FD7C8A7829222C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata a un troll"
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			id: "4190023C9E0BCA85"
+			rewards: [{
+				count: 2
+				id: "40A7596D8EE12BB4"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Trunk xdxdxdxd"
+			tasks: [{
+				entity: "iceandfire:myrmex_queen"
+				icon: "iceandfire:myrmex_desert_chitin"
+				id: "50C945F61FD80241"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata una \"hormiga\" reina"
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			id: "7ED15B520C28218D"
+			rewards: [{
+				count: 2
+				id: "7A3B357104798B28"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Serpiente saaaaa saaaaaa"
+			tasks: [{
+				entity: "iceandfire:sea_serpent"
+				icon: "iceandfire:sea_serpent_fang"
+				id: "027CF0C7464CD33B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata una sea serpent"
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			icon: "iceandfire:fire_dragon_heart"
+			id: "1F93538FC66F2B73"
+			rewards: [{
+				count: 4
+				id: "23F500D8A1F4B4D5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "U muy caliente"
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_flesh"
+				id: "22BFDEAFCA6F0457"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata un dragon de fuego"
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			id: "39EE5A13ACD67FF2"
+			rewards: [{
+				count: 4
+				id: "7DEE1F0630CAD873"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Kga hielo xd"
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_heart"
+				id: "449065F3029AAF47"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Mata un dragon de hielo"
+			x: -2.5d
+			y: -7.5d
+		}
+		{
+			id: "3D5745DBD7FF9D11"
+			rewards: [{
+				count: 4
+				id: "56E3B4F56C834DC6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Pika pika"
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_heart"
+				id: "4677045B60BB8779"
+				title: "Mata un dragon electrico"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			id: "28CB2B6153BCBA95"
+			rewards: [{
+				count: 5
+				id: "30C028D97991DB3D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Necesitan esos 3 huevos si o si"
+			tasks: [
+				{
+					id: "632D8731D9E7D248"
+					item: "iceandfire:dragonegg_red"
+					type: "item"
+				}
+				{
+					id: "45197E269E94BF3F"
+					item: "iceandfire:dragonegg_blue"
+					type: "item"
+				}
+				{
+					id: "0F8FE49651847CA5"
+					item: "iceandfire:dragonegg_electric"
+					type: "item"
+				}
+			]
+			title: "Consigue los 3 tipos de dragones"
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			id: "3223DABD842761CA"
+			rewards: [{
+				count: 5
+				id: "755015F08DFB4017"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Easy"
+			tasks: [{
+				count: 24L
+				id: "71B50784DEF7E392"
+				item: { Count: 24, id: "iceandfire:dragonsteel_fire_ingot" }
+				type: "item"
+			}]
+			title: "Consigue 24 lingotes de dragon de fuego"
+			x: -3.5d
+			y: -9.0d
+		}
+		{
+			id: "6DDA05BF4731F900"
+			rewards: [{
+				count: 5
+				id: "68B2DB22D0239234"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "meh"
+			tasks: [{
+				count: 24L
+				id: "4F52445E51FA21EA"
+				item: { Count: 24, id: "iceandfire:dragonsteel_ice_ingot" }
+				type: "item"
+			}]
+			title: "Consigue 24 lingotes de ice dragon"
+			x: -3.5d
+			y: -10.0d
+		}
+		{
+			id: "010BEAC765068AB0"
+			rewards: [{
+				count: 5
+				id: "2A80AB445AFC6F60"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "bro (calaverita)"
+			tasks: [{
+				count: 24L
+				id: "585478983A51EB18"
+				item: { Count: 5, id: "iceandfire:dragonsteel_lightning_ingot" }
+				type: "item"
+			}]
+			title: "Consigue 24 lingotes de dragon electrico"
+			x: -3.5d
+			y: -11.0d
+		}
+		{
+			id: "1720FCD564CE9B48"
+			rewards: [{
+				count: 6
+				id: "42AF76AD3467D14F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "God armor"
+			tasks: [
+				{
+					id: "7FF60B9FD929D29E"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38F4B17903E903C5"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30FED3EB7189BA17"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13F821E5C0FADEF4"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Full armor de acero electrico"
+			x: -2.5d
+			y: -11.0d
+		}
+		{
+			id: "15F5549FAD78B083"
+			rewards: [{
+				count: 6
+				id: "58B7FA6C96891EC1"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "God armor"
+			tasks: [
+				{
+					id: "01BFA7451F4C4FB9"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "236023CC97949707"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49F718952827AFF2"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "737D241971D043AA"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Full armor de acero de hielo"
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			id: "283692F8C571265B"
+			rewards: [{
+				count: 6
+				id: "038975DD0706A995"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "God armor"
+			tasks: [
+				{
+					id: "10B39E47A544A231"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "172704D54B484522"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50BD789814DC69DA"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6CE31CF5F2219B12"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Full armor de acero de fuego"
+			x: -2.5d
+			y: -9.0d
+		}
+		{
+			id: "46ECAD5605B10FA1"
+			rewards: [{
+				count: 8
+				id: "5CC79C8FB89BD384"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "You are a God"
+			tasks: [
+				{
+					id: "23D8E155B1D94725"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1869E2A6FB595F9F"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06A2A4F29D6C92F9"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3742198AB565ED78"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C39776ED0F2DEB1"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Todas las armas de acero electrico"
+			x: -1.5d
+			y: -11.0d
+		}
+		{
+			id: "79A1A85C332B8820"
+			rewards: [{
+				count: 8
+				id: "70ADE66117B4C79B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Congela que mas xd"
+			tasks: [
+				{
+					id: "09C57508F5AA74AF"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39AEE919BE4A0B13"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "279C418D2A8683A8"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FC485E0180BB312"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "133932A6808F57CE"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Todas las armas de acero de hielo"
+			x: -1.5d
+			y: -10.0d
+		}
+		{
+			id: "0D0C2EDB9755088D"
+			rewards: [{
+				count: 8
+				id: "6724A3521904233F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Hot hot hot hot"
+			tasks: [
+				{
+					id: "5223E6154D6BBAE7"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "611EDC758DBC3050"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2378D023E36A6F3D"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4673AB59D52AF110"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BD09922847DB73B"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Todas las armas de acero de fuego"
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			id: "35C2F4C2E4EB38CF"
+			rewards: [{
+				count: 4
+				id: "3FF8EF2135E377A8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Tanjiro o Yorichii?"
+			tasks: [{
+				count: 25L
+				id: "54F7AB8A8D01C1D4"
+				item: { Count: 25, id: "iceandfire:fire_dragon_blood" }
+				type: "item"
+			}]
+			title: "Hinokami kagura"
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			id: "56342BAF4B2AA26B"
+			rewards: [{
+				count: 4
+				id: "378D81C3A36C03BA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Chinga tu madre Doma"
+			tasks: [{
+				count: 25L
+				id: "1BD27E2609C363D2"
+				item: { Count: 25, id: "iceandfire:ice_dragon_blood" }
+				type: "item"
+			}]
+			title: "Tecnica de sangre demoniaca"
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			id: "314D850A401D4165"
+			rewards: [{
+				count: 4
+				id: "1383C046EBDF35F7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Zenitsu"
+			tasks: [{
+				count: 25L
+				id: "29C9F234BEC89530"
+				item: { Count: 25, id: "iceandfire:lightning_dragon_blood" }
+				type: "item"
+			}]
+			title: "Respiracion del rayo"
+			x: -5.0d
+			y: -11.0d
+		}
+		{
+			id: "0D40E48E8F95FDD0"
+			rewards: [{
+				count: 2
+				id: "3B36B7114552E108"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Rayos?"
+			tasks: [{
+				id: "1E9D348F034CE18D"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword_lightning"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Espada electrica"
+			x: -6.0d
+			y: -11.0d
+		}
+		{
+			id: "71CC2D87533CCCA3"
+			rewards: [{
+				count: 2
+				id: "590DA29E25DC8E6B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Congelaciones?"
+			tasks: [{
+				id: "3C2541A56ECF06A8"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword_ice"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Espada de hielo"
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			id: "79D724453CB76018"
+			rewards: [{
+				count: 2
+				id: "76287C64A3550890"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Quemaduras?"
+			tasks: [{
+				id: "0DDBB64A0CBD53AF"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword_fire"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Espada de fuego"
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			id: "5DE1DFA4D21A2452"
+			rewards: [{
+				count: 2
+				id: "5180D44F7BD25C4B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36FABF306C747A09"
+				item: "iceandfire:summoning_crystal_fire"
+				type: "item"
+			}]
+			title: "Fire dragon tp"
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			id: "20E166E86552334C"
+			rewards: [{
+				count: 2
+				id: "109F80490A7A67B0"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "23CF29C6C4F0344F"
+				item: "iceandfire:summoning_crystal_ice"
+				type: "item"
+			}]
+			title: "Ice dragon tp"
+			x: -7.0d
+			y: -10.0d
+		}
+		{
+			id: "4E81F678B1E62BC5"
+			rewards: [{
+				count: 2
+				id: "2F2002A528F3FB5A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "396C63EE515D6B28"
+				item: "iceandfire:summoning_crystal_lightning"
+				type: "item"
+			}]
+			title: "Electric dragon tp"
+			x: -7.0d
+			y: -11.0d
+		}
+		{
+			icon: "golden_apple_tree:apple_tree_leave"
+			id: "381CE8C27865E13B"
+			rewards: [{
+				id: "2554DC56CE3E3E91"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "<---- Incluso las que ya hiciste se reclaman"
+			tasks: [{
+				id: "284661384AFDFE43"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			id: "5038567A56F3819E"
+			rewards: [{
+				count: 2
+				id: "4919B81DDDB0A7C2"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Son faciles"
+			tasks: [{
+				count: 64L
+				id: "39C619B5C5E9EE9F"
+				item: { Count: 64, id: "golden_apple_tree:apple_sapling" }
+				type: "item"
+			}]
+			title: "Consigue 64 arboles de manzna"
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			id: "643E783F1BCF12F5"
+			rewards: [{
+				count: 4
+				id: "44CEBD2995D8E35F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Para que nos preparamos?"
+			tasks: [{
+				count: 32L
+				id: "4A56D8692D288812"
+				item: { Count: 32, id: "golden_apple_tree:golden_apple_sapling" }
+				type: "item"
+			}]
+			title: "Consigue 32 arboles de manzna dorada"
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			id: "01B73B8A7D34FF3A"
+			rewards: [
+				{
+					count: 10
+					id: "687A66BF171D7A6A"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "4370F5931733DEE4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "74FD0B7EDF6F2906"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+			]
+			subtitle: "Tryhardea"
+			tasks: [{
+				count: 16L
+				id: "56BEB3C6D665707E"
+				item: { Count: 16, id: "golden_apple_tree:enchanted_golden_apple_sapling" }
+				type: "item"
+			}]
+			title: "16 PUTOS ARBOLES DE NOTHCS?"
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			id: "43D09C3CB621231D"
+			rewards: [{
+				id: "4C533F4C3A91AD54"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Volar pero con que?"
+			tasks: [{
+				id: "18E9953EE39BC9F7"
+				item: {
+					Count: 1
+					id: "hangglider:hang_glider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			id: "21454B8C5823D75C"
+			rewards: [{
+				count: 2
+				id: "7F244FE4F05915FF"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Mas duro que un choclo"
+			tasks: [{
+				id: "22ECFF903C5782E5"
+				item: {
+					Count: 1
+					id: "hangglider:reinforced_hang_glider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			id: "7516353DAF678A82"
+			rewards: [{
+				count: 3
+				id: "2E7F9620D19B47F9"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "190554C9D993AEBC"
+					item: {
+						Count: 1
+						id: "toughasnails:empty_leather_canteen"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F468806D834A8FA"
+					item: {
+						Count: 1
+						id: "toughasnails:empty_copper_canteen"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DE36273C34EF342"
+					item: {
+						Count: 1
+						id: "toughasnails:empty_iron_canteen"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72F1A4692CF7111E"
+					item: {
+						Count: 1
+						id: "toughasnails:empty_gold_canteen"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "742CD194FF22B203"
+					item: {
+						Count: 1
+						id: "toughasnails:empty_diamond_canteen"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35A24FC35889E6B9"
+					item: {
+						Count: 1
+						id: "toughasnails:empty_netherite_canteen"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Consigue todas las cantinploras"
+			x: 2.0d
+			y: -11.0d
+		}
+		{
+			id: "1AA20FFE0DB1214C"
+			rewards: [{
+				id: "61C7D9EF53695BA5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "No mas frio y calor"
+			tasks: [{
+				id: "778FAF3666A13502"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "toughasnails:thermal_tuning"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			title: "Tunica termal?"
+			x: 3.0d
+			y: -11.5d
+		}
+		{
+			id: "0048CE5E54D41CF0"
+			rewards: [{
+				id: "048B650431FCCF34"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Basta de purificar el agua a mano"
+			tasks: [{
+				id: "32A83BF5E6DEE083"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "toughasnails:water_cleansing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			title: "Agua purificada?"
+			x: 3.0d
+			y: -10.5d
+		}
+		{
+			id: "4DB8B975378A0B40"
+			rewards: [{
+				id: "037EF836B71DE96C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "2d?"
+			tasks: [{
+				id: "2B3A78DCE7C0E056"
+				item: "packedup:basicbackpack"
+				type: "item"
+			}]
+			title: "Backpack"
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			id: "1816E3418482E002"
+			rewards: [{
+				id: "60639DFDB6EF04AA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "si 2d"
+			tasks: [{
+				id: "2A7135DA825B7998"
+				item: "packedup:copperbackpack"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			id: "3B4C643B0E2E6B95"
+			rewards: [{
+				id: "08DBD373A9272D05"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "diferencia de las travelers?"
+			tasks: [{
+				id: "4DA19E8D20DB00A3"
+				item: "packedup:ironbackpack"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			id: "749ED3CA43837FD5"
+			rewards: [{
+				count: 2
+				id: "2855565458DFD9C8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Espacio"
+			tasks: [{
+				id: "65B7FA2A903CAC17"
+				item: "packedup:silverbackpack"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			id: "48D49BC9614EA0C2"
+			rewards: [{
+				count: 2
+				id: "659F36FF341CFDDC"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Solo eso?"
+			tasks: [{
+				id: "60D33FFBB3769306"
+				item: "packedup:goldbackpack"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			id: "119EA8E9FDC1B4F2"
+			rewards: [{
+				count: 4
+				id: "7ADE992C1C4B6C52"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Cuanto me cabe?"
+			tasks: [{
+				id: "36785C2C9868C2AB"
+				item: "packedup:diamondbackpack"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			id: "0E9CAA960ADF491E"
+			rewards: [{
+				count: 5
+				id: "2AB0ADC12730EF48"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "A mi me cabe de todo"
+			tasks: [{
+				id: "73A19B8FE600F1A5"
+				item: "packedup:obsidianbackpack"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			id: "25E3B2CDB99174DD"
+			rewards: [{
+				id: "587EF5748A8688DE"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Estandar"
+			tasks: [{
+				id: "763B966B186D0F43"
+				item: {
+					Count: 1
+					id: "travelersbackpack:standard"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "69600EBCC74B1151"
+			rewards: [{
+				count: 4
+				id: "26E48D59708BB3FD"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "022E623F1B1003BD"
+				item: {
+					Count: 1
+					id: "travelersbackpack:netherite"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			id: "017A11347DF7409A"
+			rewards: [{
+				count: 4
+				id: "7AD5244D7145F59D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "06F84E123FD2281D"
+				item: {
+					Count: 1
+					id: "travelersbackpack:diamond"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			id: "3A2BC467DE81ACA5"
+			rewards: [{
+				count: 4
+				id: "1FAA3DA1A9F1EDC8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "65E4742D29AD0906"
+				item: {
+					Count: 1
+					id: "travelersbackpack:gold"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			id: "5888A1AC931630B1"
+			rewards: [{
+				count: 4
+				id: "2FD75CB0DD4FF00B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73886DE0E1C0B82D"
+				item: {
+					Count: 1
+					id: "travelersbackpack:emerald"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			id: "4509B033CFE5AA51"
+			rewards: [{
+				count: 4
+				id: "78F5B362283C51A7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5BC921B3F50EE657"
+				item: {
+					Count: 1
+					id: "travelersbackpack:iron"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			id: "153992C5666DEF70"
+			rewards: [{
+				count: 4
+				id: "3855FBF8E0A6209D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43B4560231C6CBA2"
+				item: {
+					Count: 1
+					id: "travelersbackpack:lapis"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			id: "6DADA57BC9FAC895"
+			rewards: [{
+				count: 4
+				id: "2709C809D0D7D7C4"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B521FCCA0FB3A73"
+				item: {
+					Count: 1
+					id: "travelersbackpack:redstone"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 0.5d
+		}
+		{
+			id: "32838C666C1262EC"
+			rewards: [{
+				count: 4
+				id: "42BF1AA78210EE0E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D00567F49AF82C2"
+				item: {
+					Count: 1
+					id: "travelersbackpack:quartz"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			id: "588F7924403BF4AD"
+			rewards: [{
+				count: 4
+				id: "03A9E90B5E324A7C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "591E126A34D603E1"
+				item: {
+					Count: 1
+					id: "travelersbackpack:bookshelf"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			id: "1604E282C057E6AE"
+			rewards: [{
+				count: 4
+				id: "2167FB46B2E1E8B6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E1A7A14DDB83477"
+				item: {
+					Count: 1
+					id: "travelersbackpack:sponge"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			id: "398AE6837763AD5D"
+			rewards: [{
+				count: 4
+				id: "444D5E5690BAEC3E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7249AA2CA6F29D5F"
+				item: {
+					Count: 1
+					id: "travelersbackpack:cake"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			id: "3548D8ADE5C0E9E4"
+			rewards: [{
+				count: 4
+				id: "42555C191A47C09F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "38F45745C384E131"
+				item: {
+					Count: 1
+					id: "travelersbackpack:cactus"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			id: "55773F6452F86286"
+			rewards: [{
+				count: 4
+				id: "20BAC0A5C16C7586"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B92D79207E3E3BC"
+				item: {
+					Count: 1
+					id: "travelersbackpack:hay"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			id: "5BEE268C33A0C167"
+			rewards: [{
+				count: 4
+				id: "106E4551D54D4C71"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "787A9A11124FA77D"
+				item: {
+					Count: 1
+					id: "travelersbackpack:melon"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			id: "6ADE59614E17BF78"
+			rewards: [{
+				count: 4
+				id: "1F75FF5D82ACB398"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CC9DDF7204DCE52"
+				item: {
+					Count: 1
+					id: "travelersbackpack:pumpkin"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 1.5d
+		}
+		{
+			id: "3CC4FA87F24BDCFB"
+			rewards: [{
+				count: 4
+				id: "7B798543A618F306"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C6A97F733422C57"
+				item: {
+					Count: 1
+					id: "travelersbackpack:creeper"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			id: "4F87F69D63B561BA"
+			rewards: [{
+				count: 4
+				id: "132E658F5FC21712"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0238ED881C5047B4"
+				item: {
+					Count: 1
+					id: "travelersbackpack:dragon"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			id: "4E1A9758EA10AF3A"
+			rewards: [{
+				count: 4
+				id: "3019199E45062A3F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E2010FB310563D6"
+				item: {
+					Count: 1
+					id: "travelersbackpack:enderman"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			id: "7FA33A2B474A9C46"
+			rewards: [{
+				count: 4
+				id: "66B8F3BED32937C6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7CBB6DB5944F6792"
+				item: {
+					Count: 1
+					id: "travelersbackpack:blaze"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			id: "3009A403101B6471"
+			rewards: [{
+				count: 4
+				id: "272E6EB4C550A8DB"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5DEB0522F380B267"
+				item: {
+					Count: 1
+					id: "travelersbackpack:ghast"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			id: "437B52CCB335BE95"
+			rewards: [{
+				count: 4
+				id: "53130A724C013A58"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7BCCC0EED53F9920"
+				item: {
+					Count: 1
+					id: "travelersbackpack:magma_cube"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			id: "49FCB2B678C30057"
+			rewards: [{
+				count: 4
+				id: "689361F33F8A7BE5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "62270515E4D3B2E2"
+				item: {
+					Count: 1
+					id: "travelersbackpack:spider"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			id: "1A3C12CFFD1DD96F"
+			rewards: [{
+				count: 4
+				id: "29164E85413C8C64"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2CC7B2C8B4501D7B"
+				item: {
+					Count: 1
+					id: "travelersbackpack:wither"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 2.5d
+		}
+		{
+			id: "5F1C113C9628269F"
+			rewards: [{
+				count: 4
+				id: "17A8AC55644DD0BC"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "729664AFDFF1C8E9"
+				item: {
+					Count: 1
+					id: "travelersbackpack:bat"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			id: "2024DC8E9A43D65D"
+			rewards: [{
+				count: 4
+				id: "10E577FAC11B9A53"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D6AC09337D4CB0B"
+				item: {
+					Count: 1
+					id: "travelersbackpack:bee"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			id: "538468CD813A7977"
+			rewards: [{
+				count: 4
+				id: "0820C4FAC9B39E03"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "61BA4815D43207BE"
+				item: {
+					Count: 1
+					id: "travelersbackpack:fox"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			id: "528F7C05F6E97AA0"
+			rewards: [{
+				count: 4
+				id: "066829607541F2CD"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F5E59E9B85D4FE4"
+				item: {
+					Count: 1
+					id: "travelersbackpack:ocelot"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			id: "42ECBF934B35121F"
+			rewards: [{
+				count: 4
+				id: "773AFD9704F6C352"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7B2E798B616B406E"
+				item: {
+					Count: 1
+					id: "travelersbackpack:cow"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			id: "53EE7CD5FC3D84C6"
+			rewards: [{
+				count: 4
+				id: "78EC928C64246200"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "685BCE8E8F323963"
+				item: {
+					Count: 1
+					id: "travelersbackpack:chicken"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			id: "6B9C325D30F7AE1E"
+			rewards: [{
+				count: 4
+				id: "0DD95F247C72FAC2"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5689D639349BC1D8"
+				item: {
+					Count: 1
+					id: "travelersbackpack:squid"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "4A70D4881AD59167"
+			rewards: [{
+				count: 4
+				id: "3985E0A8D5D48DA3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "268DF45A515DB2F3"
+				item: { Count: 64, id: "dedsafio3:procectorsolar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "1D52ACE65B3EA836"
+			rewards: [{
+				count: 4
+				id: "26F59853E3EB439A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "7250F1D71E98AB53"
+				item: { Count: 64, id: "dedsafio3:blue_capsule" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			icon: "relics:researching_table"
+			id: "2AB805BF22D80495"
+			rewards: [{
+				id: "7A1A67A2E699F163"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Potenciadores pe"
+			tasks: [{
+				id: "412B0C81430B4429"
+				title: "Reliquias?"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -7.0d
+		}
+		{
+			id: "7A9974CF10036510"
+			tasks: [{
+				id: "003E76B739877BBE"
+				item: {
+					Count: 1
+					id: "relics:amphibian_boot"
+					tag: {
+						abilities: {
+							gills: {
+								points: 0
+								stats: {
+									chance: 0.09423d
+								}
+							}
+							slipping: {
+								points: 0
+								stats: {
+									duration: 16.17618d
+									speed: 0.00649d
+								}
+							}
+							swimming: {
+								points: 0
+								stats: {
+									duration: 17.8549d
+									speed: 0.00621d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -6.0d
+		}
+		{
+			id: "4EF8E38285B392EB"
+			rewards: [{
+				count: 3
+				id: "4185F14339929C8A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6D37D93E7BFF710B"
+				item: {
+					Count: 1
+					id: "relics:aqua_walker"
+					tag: {
+						abilities: {
+							walking: {
+								points: 0
+								stats: {
+									time: 58.29087d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -7.0d
+		}
+		{
+			id: "5D73346598B450B6"
+			rewards: [{
+				count: 3
+				id: "6B2F6E38495AC9EB"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46A0D35941CD8D80"
+				item: {
+					Count: 1
+					id: "relics:arrow_quiver"
+					tag: {
+						abilities: {
+							agility: {
+								points: 0
+								stats: {
+									modifier: 1.0d
+								}
+							}
+							leap: {
+								points: 0
+								stats: {
+									cooldown: 12.39987d
+									duration: 5.28138d
+									multiplier: 0.14705d
+								}
+							}
+							rain: {
+								points: 0
+								stats: {
+									delay: 0.8394d
+									duration: 12.3459d
+									radius: 3.71551d
+								}
+							}
+							receptacle: {
+								points: 0
+								stats: {
+									slots: 4.18674d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			id: "58144E1B5008178C"
+			rewards: [{
+				count: 3
+				id: "63A5D450666F9FE9"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D8731FDB410F8F4"
+				item: {
+					Count: 1
+					id: "relics:bastion_ring"
+					tag: {
+						abilities: {
+							trade: {
+								points: 0
+								stats: {
+									rolls: 0.67864d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -8.0d
+		}
+		{
+			id: "5512FA90D41D4E6C"
+			rewards: [{
+				count: 3
+				id: "60402BB03E102506"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "07ED6A990EAEE945"
+				item: {
+					Count: 1
+					id: "relics:blazing_flask"
+					tag: {
+						abilities: {
+							bonfire: {
+								points: 0
+								stats: {
+									height: 4.21382d
+									speed: 0.04793d
+									step: 1.09952d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			id: "311529635156B00A"
+			rewards: [{
+				count: 3
+				id: "3F950E153BE537BD"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C07F94E2255684A"
+				item: {
+					Count: 1
+					id: "relics:chorus_inhibitor"
+					tag: {
+						abilities: {
+							blink: {
+								points: 0
+								stats: {
+									cooldown: 8.31797d
+									distance: 27.75386d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -8.0d
+		}
+		{
+			id: "36F888D83F152EE4"
+			tasks: [{
+				id: "10F9AF29E354DAB9"
+				item: {
+					Count: 1
+					id: "relics:drowned_belt"
+					tag: {
+						abilities: {
+							anchor: {
+								points: 0
+								stats: {
+									sinking: 3.84446d
+									slowness: 0.46263d
+								}
+							}
+							pressure: {
+								points: 0
+								stats: {
+									damage: 1.59262d
+								}
+							}
+							riptide: {
+								points: 0
+								stats: {
+									cooldown: 6.97244d
+								}
+							}
+							slots: {
+								points: 0
+								stats: {
+									charm: 0.19422d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			id: "097D52E52315FFBC"
+			tasks: [{
+				id: "6B93BA456820B7C0"
+				item: {
+					Count: 1
+					id: "relics:elytra_booster"
+					tag: {
+						abilities: {
+							boost: {
+								points: 0
+								stats: {
+									capacity: 79.97082d
+									speed: 1.48304d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			id: "01F0458670BE500E"
+			rewards: [{
+				count: 3
+				id: "32F2E2A5269F4755"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37EDF35CAE8D0C7E"
+				item: {
+					Count: 1
+					id: "relics:enders_hand"
+					tag: {
+						abilities: {
+							swap: {
+								points: 0
+								stats: {
+									distance: 31.35936d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			id: "7FFA80D95B725625"
+			rewards: [{
+				count: 3
+				id: "39AD7D661A3C1D35"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31203BE1154DF26E"
+				item: {
+					Count: 1
+					id: "relics:holy_locket"
+					tag: {
+						abilities: {
+							belief: {
+								points: 0
+								stats: {
+									amount: 0.16583d
+									capacity: 10.33349d
+									count: 1.29993d
+									radius: 5.20157d
+								}
+							}
+							blessing: {
+								points: 0
+								stats: {
+									consumption: 7.26426d
+								}
+								temp: {
+									ticking: 1b
+								}
+							}
+							repentance: {
+								points: 0
+								stats: {
+									damage: 0.1314d
+									radius: 3.6944d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -7.0d
+		}
+		{
+			id: "1646A30EEB5B1E01"
+			rewards: [{
+				count: 3
+				id: "278309FE22BB7D7D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0756D9A489154699"
+				item: {
+					Count: 1
+					id: "relics:horse_flute"
+					tag: {
+						abilities: {
+							heal: {
+								points: 0
+								stats: {
+									amount: 0.03485d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -9.0d
+		}
+		{
+			id: "5B328E2967FFEFAD"
+			rewards: [{
+				count: 3
+				id: "5A44C4A752E19577"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "360405D22CF7F6C0"
+				item: {
+					Count: 1
+					id: "relics:hunter_belt"
+					tag: {
+						abilities: {
+							slots: {
+								points: 0
+								stats: {
+									charm: 1.1238d
+								}
+							}
+							training: {
+								points: 0
+								stats: {
+									damage: 1.49405d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			id: "11D2625ECD326D82"
+			rewards: [{
+				count: 3
+				id: "68E867C847E6D922"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24EE19864D9129F6"
+				item: {
+					Count: 1
+					id: "relics:ice_breaker"
+					tag: {
+						abilities: {
+							impact: {
+								points: 0
+								stats: {
+									damage: 2.86593d
+									size: 3.33189d
+								}
+							}
+							sustainability: {
+								points: 0
+								stats: {
+									modifier: 0.64079d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			id: "7B70312FEA04B2AC"
+			rewards: [{
+				count: 3
+				id: "38F83D0AEE75BA0A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41AF83A8306FF2B0"
+				item: {
+					Count: 1
+					id: "relics:ice_skates"
+					tag: {
+						abilities: {
+							ram: {
+								points: 0
+								stats: {
+									damage: 0.1769d
+								}
+							}
+							skating: {
+								points: 0
+								stats: {
+									duration: 34.546d
+									speed: 0.01094d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			id: "0AAB48603D4456BC"
+			tasks: [{
+				id: "1849118477D1D377"
+				item: {
+					Count: 1
+					id: "relics:infinity_ham"
+					tag: {
+						abilities: {
+							autophagy: {
+								points: 0
+								stats: {
+									feed: 1.45855d
+								}
+							}
+							infusion: {
+								points: 0
+								stats: {
+									duration: 2.561d
+								}
+							}
+						}
+						pieces: 10
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.0d
+		}
+		{
+			id: "7502B484FAE43A77"
+			rewards: [{
+				count: 3
+				id: "2F5D5E79F333EEC8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20A9259638B21BCB"
+				item: {
+					Count: 1
+					id: "relics:jellyfish_necklace"
+					tag: {
+						abilities: {
+							paralysis: {
+								points: 0
+								stats: {
+									duration: 0.7978d
+								}
+							}
+							shock: {
+								points: 0
+								stats: {
+									damage: 2.09848d
+								}
+								temp: {
+									ticking: 1b
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -8.0d
+		}
+		{
+			id: "53FD7E52E4316CAF"
+			rewards: [{
+				count: 3
+				id: "769671F428C4C4AA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "21599E9F796E4F92"
+				item: {
+					Count: 1
+					id: "relics:leather_belt"
+					tag: {
+						abilities: {
+							slots: {
+								points: 0
+								stats: {
+									charm: 2.58209d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -9.0d
+		}
+		{
+			id: "353AB37557B2C5D5"
+			rewards: [{
+				count: 3
+				id: "5760A38286452D4E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CC25A75034BC2BF"
+				item: {
+					Count: 1
+					id: "relics:magic_mirror"
+					tag: {
+						abilities: {
+							teleport: {
+								points: 0
+								stats: {
+									cooldown: 70.04067d
+									distance: 598.52133d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -9.0d
+		}
+		{
+			id: "5805C21ED3DE1747"
+			rewards: [{
+				count: 3
+				id: "5E33E8181FC6B572"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "797B4D561B41F31E"
+				item: {
+					Count: 1
+					id: "relics:midnight_robe"
+					tag: {
+						abilities: {
+							backstab: {
+								points: 0
+								stats: {
+									damage: 1.33602d
+									distance: 19.6478d
+								}
+							}
+							vanish: {
+								points: 0
+								stats: {
+									light: 1.77394d
+									speed: 0.1285d
+								}
+								temp: {
+									ticking: 1b
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -8.0d
+		}
+		{
+			id: "5ED09CC2132ECA12"
+			rewards: [{
+				count: 3
+				id: "061E4355116239F7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68CED867F613E745"
+				item: {
+					Count: 1
+					id: "relics:magma_walker"
+					tag: {
+						abilities: {
+							pace: {
+								points: 0
+								stats: {
+									time: 43.16854d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -6.0d
+		}
+		{
+			id: "21E5087F5897DE14"
+			rewards: [{
+				count: 3
+				id: "0BB61EBA5A06A467"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31F57BB81DCF3EFD"
+				item: {
+					Count: 1
+					id: "relics:rage_glove"
+					tag: {
+						abilities: {
+							phlebotomy: {
+								points: 0
+								stats: {
+									attack_speed: 0.00769d
+									heal: 1.9E-4d
+									movement_speed: 0.01115d
+								}
+							}
+							rage: {
+								points: 0
+								stats: {
+									dealt_damage: 0.05176d
+									duration: 2.80904d
+									incoming_damage: 0.03499d
+								}
+							}
+							spurt: {
+								points: 0
+								stats: {
+									cooldown: 17.89492d
+									damage: 0.12369d
+									distance: 4.10323d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			id: "2571C8FE97800637"
+			rewards: [{
+				count: 3
+				id: "047D1A8FF6CCA91F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "503F4FCD421D36AA"
+				item: {
+					Count: 1
+					id: "relics:reflection_necklace"
+					tag: {
+						abilities: {
+							explode: {
+								points: 0
+								stats: {
+									capacity: 41.94432d
+									damage: 0.35004d
+									stun: 0.19319d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -7.0d
+		}
+		{
+			id: "308FAB125F39E6AA"
+			rewards: [{
+				count: 3
+				id: "16EBB60C6C511056"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CD1B6B96B1A21AB"
+				item: {
+					Count: 1
+					id: "relics:roller_skates"
+					tag: {
+						abilities: {
+							skating: {
+								points: 0
+								stats: {
+									duration: 21.22616d
+									speed: 0.00423d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -10.0d
+		}
+		{
+			id: "06A9ED4A148739D0"
+			rewards: [{
+				count: 3
+				id: "257AA8DE822FF8E3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3061136E5E8BCE58"
+				item: {
+					Count: 1
+					id: "relics:shadow_glaive"
+					tag: {
+						abilities: {
+							glaive: {
+								points: 0
+								stats: {
+									bounces: 4.80968d
+									damage: 4.2559d
+									radius: 3.88607d
+									recharge: 25.0429d
+								}
+							}
+							saw: {
+								points: 0
+								stats: {
+									damage: 1.34793d
+									speed: 16.00931d
+								}
+							}
+						}
+						charges: 8
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -7.0d
+		}
+		{
+			id: "6F0D9342A8EC900F"
+			rewards: [{
+				count: 3
+				id: "42DB009635FC1EB0"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47AE4D0E20194989"
+				item: {
+					Count: 1
+					id: "relics:space_dissector"
+					tag: {
+						abilities: {
+							dissection: {
+								points: 0
+								stats: {
+									distance: 17.5216d
+									time: 7.64036d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -10.0d
+		}
+		{
+			id: "738AA0E22E5D1B4D"
+			rewards: [{
+				count: 3
+				id: "6D093ED3DB0ED20D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7FF2B89004C48CCE"
+				item: {
+					Count: 1
+					id: "relics:spatial_sign"
+					tag: {
+						abilities: {
+							seal: {
+								points: 0
+								stats: {
+									time: 2.36386d
+								}
+							}
+						}
+						pos: "[\"-63.2,68.0,13.0\"]"
+						world: "minecraft:overworld"
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -10.0d
+		}
+		{
+			id: "594879C28CE87FB2"
+			rewards: [{
+				count: 3
+				id: "476613D2D694E826"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6B18C879536E392F"
+				item: {
+					Count: 1
+					id: "relics:spore_sack"
+					tag: {
+						abilities: {
+							buffer: {
+								points: 0
+								stats: {
+									capacity: 3.31828d
+									chance: 0.06114d
+								}
+							}
+							explosion: {
+								points: 0
+								stats: {
+									size: 0.1529d
+								}
+							}
+							multiplying: {
+								points: 0
+								stats: {
+									amount: 0.08551d
+									chance: 0.13328d
+									size: 0.06229d
+								}
+							}
+							spore: {
+								points: 0
+								stats: {
+									cooldown: 10.20087d
+									damage: 0.49728d
+									duration: 2.87165d
+									size: 0.3204d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			id: "03DB8174F328A4C1"
+			rewards: [{
+				count: 3
+				id: "1D023C57D85A21BD"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "014ACDDFA0B3CF95"
+				item: {
+					Count: 1
+					id: "relics:wool_mitten"
+					tag: {
+						abilities: {
+							mold: {
+								points: 0
+								stats: {
+									damage: 0.08881d
+									freeze: 1.0189d
+									size: 23.39398d
+									stun: 0.04682d
+								}
+							}
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			id: "22C9023C2F4DD5CB"
+			rewards: [{
+				id: "48B3BD324FF2A64A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "74F21B97D79FC328"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			title: "Hazte una mesa de encantamientos"
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			id: "7D612C4A6D95A149"
+			rewards: [{
+				id: "48B573E982676B0B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "608BA1BDBEEC7A3E"
+				item: "disenchanting:disenchanter"
+				type: "item"
+			}]
+			title: "Hazte un desencantador"
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			id: "52D56833A7969EE0"
+			rewards: [{
+				count: 2
+				id: "0170A47097494556"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "02293A30408C3B89"
+				item: "enchantinginfuser:enchanting_infuser"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "67C403A997AB39BC"
+			rewards: [{
+				count: 4
+				id: "52B3192E5AB96163"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "002E6E4232A804D1"
+				item: "enchantinginfuser:advanced_enchanting_infuser"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			icon: "mca:villager_editor"
+			id: "1267CEFA2C3E8ADE"
+			rewards: [
+				{
+					id: "4CB19A99B157BBF2"
+					item: "mca:potion_of_masculinity"
+					type: "item"
+				}
+				{
+					id: "0ADB17ED928478D8"
+					item: "mca:potion_of_feminity"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5938317EA252582E"
+				title: "El MCA"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "6D19BA5C06B5ECE3"
+			rewards: [{
+				id: "1F250BA1D8F2A164"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "No se que es xd"
+			tasks: [{
+				id: "4B60E49C9D682DB8"
+				item: "mca:book_supporters"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "6E3306910A9A7020"
+			rewards: [{
+				id: "14402FBB9478A42C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Jojajo reference"
+			tasks: [{
+				id: "3221E4793174AE3E"
+				item: "mca:book_blueprint"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "00003CB39A92D6FF"
+			rewards: [{
+				id: "6208EE6E244B1908"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Z series?"
+			tasks: [{
+				id: "426410C011F17FDF"
+				item: "mca:book_infection"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "5A83687A126F2578"
+			rewards: [{
+				id: "4AB2377425D817B7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Si tan solo fuera real..."
+			tasks: [{
+				id: "474A5DC19B20AE2A"
+				item: "mca:book_rose_gold"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "6FF8D268D4F23E37"
+			rewards: [{
+				id: "6AD5537C3960AA7B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Notaria XD"
+			tasks: [{
+				id: "55B4B6BC878FA78F"
+				item: "mca:civil_registry"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "6D0B7211EF2264FF"
+			rewards: [{
+				id: "6119919C0C7ED8DC"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Nunca me fue bien...."
+			tasks: [{
+				id: "47A759BB3A224549"
+				item: "mca:book_romance"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "08AF1653E58DA96C"
+			rewards: [{
+				id: "05B9DE87EE165647"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Estamos varados en medio del oceano"
+			tasks: [{
+				id: "43BEE45CF65A42F6"
+				item: "mca:book_family"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "3ACD98AC8695B51D"
+			rewards: [{
+				id: "0FC9994BCE4ABAFF"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "El adoptado xdxdxd"
+			tasks: [{
+				id: "1E1CE8A400F6E965"
+				item: "mca:family_tree"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "4D4A950068501E1F"
+			rewards: [{
+				count: 2
+				id: "48C55D65D95C6F5A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "The final boss"
+			tasks: [{
+				id: "4E5F1BDE48DABDA2"
+				item: "mca:book_death"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "604DBF3F3907F88C"
+			rewards: [{
+				id: "5AE94C45B5D61B60"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "simplemente xd"
+			tasks: [{
+				id: "4C502D7AF4ADD187"
+				item: {
+					Count: 1
+					id: "mca:baby_boy"
+					tag: {
+						baby: {
+							age: 1200
+							father: [I;
+								0
+								0
+								0
+								0
+							]
+							fatherName: "Unknown"
+							mother: [I;
+								0
+								0
+								0
+								0
+							]
+							motherName: "Unknown"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "2AC1DB43C873B1E7"
+			rewards: [{
+				id: "46CFC91C022BF4C3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "hembra XD"
+			tasks: [{
+				id: "4DB0FEC98F218703"
+				item: {
+					Count: 1
+					id: "mca:baby_girl"
+					tag: {
+						baby: {
+							age: 2400
+							father: [I;
+								0
+								0
+								0
+								0
+							]
+							fatherName: "Unknown"
+							mother: [I;
+								0
+								0
+								0
+								0
+							]
+							motherName: "Unknown"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "3A180769130ED03B"
+			rewards: [{
+				count: 2
+				id: "0C4A8A588DD8564D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "mca:marriage"
+				criterion: ""
+				icon: "mca:wedding_ring"
+				id: "2EBCB680200B0525"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			id: "5FBC4D752C6C613F"
+			rewards: [{
+				id: "5CEB86ABD977A665"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36178183A7E473C7"
+				item: {
+					Count: 1
+					id: "mca:comb"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			id: "235043675BF0F4D9"
+			rewards: [{
+				id: "798A5CEF0F701671"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67B4034472E77821"
+				item: {
+					Count: 1
+					id: "mca:needle_and_thread"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			id: "2B4C06FB3D210EDA"
+			rewards: [{
+				id: "328E83C557387187"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B5092C4FDFDBC67"
+				item: "mca:potion_of_masculinity"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			id: "0C7A2AEA601A0250"
+			rewards: [{
+				id: "04C815E2F95DEA36"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4635B1B893E59949"
+				item: "mca:potion_of_feminity"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			id: "09C767BAEFBB731D"
+			rewards: [{
+				id: "1910D563E1E7A462"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A9069F89A3827D2"
+				item: "mca:bouquet"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			id: "72BA21501E433350"
+			rewards: [{
+				id: "113AF8E11F5D883D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "57E31B225E60D38D"
+				item: "mca:whistle"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			id: "2FABAE2F47F284E3"
+			rewards: [{
+				id: "4654F7058E71401C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "53950153AD190EED"
+				item: "mca:blueprint"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			id: "2FDEE29C470500BB"
+			rewards: [{
+				id: "0C14A99FDA09A2E1"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59070859F62D095D"
+				item: {
+					Count: 1
+					id: "mca:villager_tracker"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			id: "465D20791D222A8F"
+			rewards: [{
+				count: 4
+				id: "37B940EE6B574076"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6AEAE0A07084424E"
+				item: {
+					Count: 1
+					id: "mca:scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			id: "04E681C7F89DA501"
+			rewards: [{
+				count: 5
+				id: "31E5790B9B8D4244"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37E5E05EFA1A4632"
+				item: {
+					Count: 1
+					id: "mca:staff_of_life"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			icon: "securitycraft:security_camera"
+			id: "193FCEEAFA251F97"
+			rewards: [{
+				id: "5ED36E6C0CB20658"
+				item: "securitycraft:keypad_item"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0BFAD4535A27BB2A"
+				title: "Protector"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			id: "7B42111DBE012956"
+			rewards: [{
+				count: 2
+				id: "61AD86FD1B20124E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "298A832CDCCEDBDC"
+				item: { Count: 5, id: "securitycraft:keypad_item" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "098CB1B040C8934F"
+			rewards: [{
+				count: 2
+				id: "7594BFDC3CA68B83"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "17B3829C86865CA3"
+				item: "securitycraft:keypad_chest"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			id: "4294E06B298DAC55"
+			rewards: [{
+				count: 2
+				id: "2B9984244FF045EA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "65389C962B961E5A"
+				item: "securitycraft:keypad_barrel"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			id: "0B8496776FDC19F9"
+			rewards: [{
+				count: 2
+				id: "282BEE6AF3437387"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "792D2F5FB932E6D2"
+				item: "securitycraft:keypad_furnace"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "5ACE17382638744F"
+			rewards: [{
+				count: 2
+				id: "6ED494737D903CE2"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C99713D9857AB1D"
+				item: "securitycraft:keypad_smoker"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.5d
+		}
+		{
+			id: "66CDDB7D8BF455BF"
+			rewards: [{
+				count: 2
+				id: "6022E8AD1BDFB207"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48FFC683C0D59FFE"
+				item: "securitycraft:keypad_blast_furnace"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			id: "773756F227F432A5"
+			rewards: [{
+				count: 2
+				id: "290800DC3FBBE5F4"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14A7DAB6AD1B6051"
+				item: {
+					Count: 1
+					id: "securitycraft:universal_block_reinforcer_lvl1"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			id: "18561F3E930EA4CD"
+			rewards: [{
+				count: 4
+				id: "1FFDD79D699402DB"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5DDC44931F47D0EC"
+				item: {
+					Count: 1
+					id: "securitycraft:universal_block_reinforcer_lvl2"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 3.5d
+		}
+		{
+			id: "5E6B8866432AE701"
+			rewards: [{
+				count: 6
+				id: "2BF84F3D3988C542"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BBD4A183E1D7D06"
+				item: "securitycraft:universal_block_reinforcer_lvl3"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 4.5d
+		}
+		{
+			id: "465BB93C657E41C7"
+			rewards: [{
+				id: "006E21584ED70DFF"
+				item: "minecraft:enchanted_golden_apple"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60111AADED2FB457"
+				title: "Estadistics"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			id: "28E4D6ED6439BDF3"
+			rewards: [{
+				id: "59071CE27425180F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22B0ECE1EC5308B6"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 10000
+			}]
+			x: -13.0d
+			y: 6.0d
+		}
+		{
+			id: "371582BFAD3160DC"
+			rewards: [{
+				count: 2
+				id: "58BFB3EF22781C2C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E99D34E7BF08492"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 20000
+			}]
+			x: -12.0d
+			y: 6.0d
+		}
+		{
+			id: "7B65314579254DD3"
+			rewards: [{
+				count: 3
+				id: "5B9665571A318A56"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A0B477DF3A9D3C1"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 40000
+			}]
+			x: -11.0d
+			y: 6.0d
+		}
+		{
+			id: "789D09A7E554E3FC"
+			rewards: [{
+				count: 4
+				id: "32063978831CF04B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0094343F6651F651"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 80000
+			}]
+			x: -10.0d
+			y: 6.0d
+		}
+		{
+			id: "5E87C1F85FA0CAD4"
+			rewards: [{
+				id: "224BF5F7FDE3E963"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:emerald_block"
+				id: "12A61F43163A5BC0"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 50
+			}]
+			x: -9.0d
+			y: 6.0d
+		}
+		{
+			id: "5541C7AB6EADBFBC"
+			rewards: [{
+				count: 2
+				id: "31FC73B92881E56F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:emerald_block"
+				id: "01ECE089CFD4056D"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 250
+			}]
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			id: "14F61F1DAFCD0A35"
+			rewards: [{
+				count: 3
+				id: "38451EE30E1202FA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:emerald_block"
+				id: "22786B8F8A6677BE"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 1000
+			}]
+			x: -7.0d
+			y: 6.0d
+		}
+		{
+			id: "551870C5F3FA6604"
+			rewards: [{
+				count: 4
+				id: "7F79038A72962B97"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:emerald_block"
+				id: "24BF75B51C6AF834"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 2000
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			icon: "dedsafio3:nutri_totem"
+			id: "1ED6DB978E94540C"
+			rewards: [{
+				id: "181A41D225E4A364"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0808F4F675B0C9E8"
+				stat: "minecraft:damage_resisted"
+				type: "stat"
+				value: 50000
+			}]
+			x: -5.0d
+			y: 6.0d
+		}
+		{
+			icon: "dedsafio3:nutri_totem"
+			id: "00F461F200A62092"
+			rewards: [{
+				count: 2
+				id: "6B291A8AA400C4F8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54D8C65F281C44F3"
+				stat: "minecraft:damage_resisted"
+				type: "stat"
+				value: 100000
+			}]
+			x: -5.0d
+			y: 7.0d
+		}
+		{
+			icon: "dedsafio3:nutri_totem"
+			id: "73B5AB9D482661ED"
+			rewards: [{
+				count: 3
+				id: "1CCFCFC098548780"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2824384218CA7FF0"
+				stat: "minecraft:damage_resisted"
+				type: "stat"
+				value: 200000
+			}]
+			x: -5.0d
+			y: 8.0d
+		}
+		{
+			icon: "dedsafio3:nutri_totem"
+			id: "7E378B66ED15ACF2"
+			rewards: [{
+				count: 4
+				id: "3F66D3D6694BAAF7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FF0A766AA3A8F80"
+				stat: "minecraft:damage_resisted"
+				type: "stat"
+				value: 400000
+			}]
+			x: -5.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "relics:roller_skates"
+				tag: {
+					abilities: {
+						skating: {
+							points: 0
+							stats: {
+								duration: 16.30252d
+								speed: 0.00108d
+							}
+						}
+					}
+				}
+			}
+			id: "7DB9D36EAA4B5372"
+			rewards: [{
+				id: "2AABCD2F3FF2AB84"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "21D4899E8CB55BD3"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1000000
+			}]
+			x: -13.0d
+			y: 7.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "relics:roller_skates"
+				tag: {
+					abilities: {
+						skating: {
+							points: 0
+							stats: {
+								duration: 16.30252d
+								speed: 0.00108d
+							}
+						}
+					}
+				}
+			}
+			id: "7928E8A644587E3E"
+			rewards: [{
+				count: 2
+				id: "1ABA3B45ED3857F3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4015E7E5EBFCFA12"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 2000000
+			}]
+			x: -12.0d
+			y: 7.0d
+		}
+		{
+			id: "27578437979C2140"
+			rewards: [{
+				count: 3
+				id: "09A2E8EBD1B04894"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "relics:roller_skates"
+					tag: {
+						abilities: {
+							skating: {
+								points: 0
+								stats: {
+									duration: 16.30252d
+									speed: 0.00108d
+								}
+							}
+						}
+					}
+				}
+				id: "5B67D3F208560327"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 4000000
+			}]
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "relics:roller_skates"
+				tag: {
+					abilities: {
+						skating: {
+							points: 0
+							stats: {
+								duration: 16.30252d
+								speed: 0.00108d
+							}
+						}
+					}
+				}
+			}
+			id: "38B835B789B027AA"
+			rewards: [{
+				count: 4
+				id: "759C5A35C38D6ECA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60F91FC0BC29C3C5"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 8000000
+			}]
+			x: -10.0d
+			y: 7.0d
+		}
+		{
+			icon: "minecraft:clock"
+			id: "62EDB33F9704F48D"
+			rewards: [{
+				id: "20CFAF11F46A7794"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "24 horas"
+			tasks: [{
+				id: "694970D92639822E"
+				stat: "minecraft:play_time"
+				type: "stat"
+				value: 1728000
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			id: "1482431AB379E916"
+			rewards: [{
+				count: 2
+				id: "2BDC70141A89BE5A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "48 horas"
+			tasks: [{
+				icon: "minecraft:clock"
+				id: "3D55D9EB2F10F4E7"
+				stat: "minecraft:play_time"
+				type: "stat"
+				value: 3456000
+			}]
+			x: -8.0d
+			y: 7.0d
+		}
+		{
+			id: "6E236BC93B616D75"
+			rewards: [{
+				count: 3
+				id: "643FF98270764874"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "72 horas"
+			tasks: [{
+				icon: "minecraft:clock"
+				id: "33A873C3E32F4879"
+				stat: "minecraft:play_time"
+				type: "stat"
+				value: 5184000
+			}]
+			x: -7.0d
+			y: 7.0d
+		}
+		{
+			icon: "minecraft:clock"
+			id: "24623148FB673C05"
+			rewards: [{
+				count: 4
+				id: "6037426EFDC1253A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "96 horas"
+			tasks: [{
+				id: "3C5FF5C363EEF174"
+				stat: "minecraft:play_time"
+				type: "stat"
+				value: 6912000
+			}]
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			icon: "dedsafio3:almade_golem"
+			id: "440E7ABE3B8F5FEB"
+			rewards: [{
+				id: "651394ED0EF7D976"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69D6A1D245DDC3AA"
+				stat: "minecraft:player_kills"
+				type: "stat"
+				value: 500
+			}]
+			x: -13.0d
+			y: 8.0d
+		}
+		{
+			icon: "dedsafio3:almade_golem"
+			id: "09C7D364A6903532"
+			rewards: [{
+				count: 2
+				id: "4B6A6A988AF32D61"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "77D9891F9925949B"
+				stat: "minecraft:player_kills"
+				type: "stat"
+				value: 1000
+			}]
+			x: -12.0d
+			y: 8.0d
+		}
+		{
+			icon: "dedsafio3:almade_golem"
+			id: "042B6BDD7EB95456"
+			rewards: [{
+				count: 3
+				id: "44991C2D5555DEB5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FB8D564D6B01792"
+				stat: "minecraft:player_kills"
+				type: "stat"
+				value: 2000
+			}]
+			x: -11.0d
+			y: 8.0d
+		}
+		{
+			id: "2422D8BEE05D3017"
+			rewards: [{
+				count: 4
+				id: "6BFB61EA5A983999"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "dedsafio3:almade_golem"
+				id: "4E352B8BBBA148C3"
+				stat: "minecraft:player_kills"
+				type: "stat"
+				value: 4000
+			}]
+			x: -10.0d
+			y: 8.0d
+		}
+		{
+			id: "60F9A6555DAA6A68"
+			rewards: [{
+				id: "1DF151CB02758434"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14016F83B4780698"
+				stat: "minecraft:damage_dealt"
+				type: "stat"
+				value: 40000
+			}]
+			x: -9.0d
+			y: 8.0d
+		}
+		{
+			id: "544B322BE4C8B4E7"
+			rewards: [{
+				count: 2
+				id: "316D73D3E2F32619"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "64CBCD48B7DE76FC"
+				stat: "minecraft:damage_dealt"
+				type: "stat"
+				value: 80000
+			}]
+			x: -8.0d
+			y: 8.0d
+		}
+		{
+			id: "2F71E04E7B738F97"
+			rewards: [{
+				count: 3
+				id: "3C78FCA4F1A74927"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24F6D4E80EE1A112"
+				stat: "minecraft:damage_dealt"
+				type: "stat"
+				value: 160000
+			}]
+			x: -7.0d
+			y: 8.0d
+		}
+		{
+			id: "354FB9F2CAB96132"
+			rewards: [{
+				count: 4
+				id: "25387746BF70AD12"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F197AD290E7F942"
+				stat: "minecraft:damage_dealt"
+				type: "stat"
+				value: 320000
+			}]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			id: "11D0A37F68153450"
+			rewards: [{
+				id: "5666D2D35700A946"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:vex_armor_trim_smithing_template"
+				id: "181682DD9E4FF291"
+				stat: "minecraft:raid_trigger"
+				type: "stat"
+				value: 10
+			}]
+			x: -13.0d
+			y: 9.0d
+		}
+		{
+			icon: "minecraft:vex_armor_trim_smithing_template"
+			id: "4A492B18627ADDBB"
+			rewards: [{
+				count: 3
+				id: "058373679E571E11"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "764568BF72F235F0"
+				stat: "minecraft:raid_trigger"
+				type: "stat"
+				value: 40
+			}]
+			x: -11.0d
+			y: 9.0d
+		}
+		{
+			icon: "minecraft:vex_armor_trim_smithing_template"
+			id: "2DC79117860DBE04"
+			rewards: [{
+				count: 3
+				id: "67857C74B9AB8937"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F62808A96B0E6DD"
+				stat: "minecraft:raid_trigger"
+				type: "stat"
+				value: 20
+			}]
+			x: -12.0d
+			y: 9.0d
+		}
+		{
+			id: "6F7AF1650CDA2A62"
+			rewards: [{
+				count: 4
+				id: "3A1BEB1FA21A99E6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:vex_armor_trim_smithing_template"
+				id: "576A2984D5401214"
+				stat: "minecraft:raid_trigger"
+				type: "stat"
+				value: 80
+			}]
+			x: -10.0d
+			y: 9.0d
+		}
+		{
+			icon: "minecraft:skeleton_skull"
+			id: "7D5542C9DDF4ADC0"
+			rewards: [{
+				id: "299080425F607564"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1901BE3A854B9F68"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 50
+			}]
+			x: -9.0d
+			y: 9.0d
+		}
+		{
+			icon: "minecraft:skeleton_skull"
+			id: "5AE3208CBF620750"
+			rewards: [{
+				count: 2
+				id: "538185AF4D5EF2F6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "777807C814C3957C"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 100
+			}]
+			x: -8.0d
+			y: 9.0d
+		}
+		{
+			icon: "minecraft:skeleton_skull"
+			id: "1F38978D6863E5BB"
+			rewards: [{
+				count: 3
+				id: "0BD7916B7A89E5E5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41B764BD815E9604"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 200
+			}]
+			x: -7.0d
+			y: 9.0d
+		}
+		{
+			icon: "minecraft:skeleton_skull"
+			id: "417EE5350D6557EF"
+			rewards: [{
+				count: 4
+				id: "40B67A9616CF3394"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5841006D074E1400"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 400
+			}]
+			x: -6.0d
+			y: 9.0d
+		}
+		{
+			icon: "illagerinvasion:imbuing_table"
+			id: "1F9B7F2FE981CD44"
+			rewards: [
+				{
+					id: "5640BFE6045E5510"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:magnetic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D5B25096C94B290"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:primordial_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "535180E48AEBF2C6"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:toxic_caves"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "752DD08451F4FB1A"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:abyssal_chasm"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "536A3E7F392CABAB"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:forlorn_hollows"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11A9261E6923EFB9"
+					item: {
+						Count: 1
+						id: "alexscaves:cave_tablet"
+						tag: {
+							CaveBiome: "alexscaves:candy_cavity"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "79008368F943D489"
+				title: "Alex caves"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 9.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:protection"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "6E6AFC7F15F06401"
+			rewards: [{
+				id: "3A7B368CF5360CB1"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31172A07FF4F5516"
+				title: "Enchanter"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			id: "519F1737519A31E5"
+			rewards: [{
+				id: "65ABEB95220BC340"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "633595EF559756F2"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.5d
+		}
+		{
+			id: "3ED2EECE52A7A6E6"
+			rewards: [{
+				count: 2
+				id: "3A21E1D8FFB2DB75"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "04AE41B64CF515ED"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			id: "602E0FE43B54E674"
+			rewards: [{
+				count: 3
+				id: "56FA6A5094F6F674"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "260BB51369F14848"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:magnetic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 8.5d
+		}
+		{
+			id: "6C480C6DD2BB2FDC"
+			tasks: [{
+				entity: "alexscaves:notor"
+				icon: "alexscaves:notor_gizmo"
+				id: "22BA8E4869D604B3"
+				type: "kill"
+				value: 2L
+			}]
+			title: "Mata 2 notificadores"
+			x: 9.5d
+			y: 9.0d
+		}
+		{
+			id: "33A7EB5683C122C0"
+			rewards: [{
+				count: 2
+				id: "3D38A9E5304D3D2E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:ferrouslime"
+				icon: "alexscaves:ferrouslime_ball"
+				id: "4AA7E18DDAC53DD0"
+				type: "kill"
+				value: 4L
+			}]
+			title: "Mata 4 ferroslimes"
+			x: 10.5d
+			y: 8.5d
+		}
+		{
+			id: "66ED0483F0429069"
+			rewards: [{
+				count: 3
+				id: "32FAA6E24D038030"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:boundroid"
+				icon: "alexscaves:heavyweight"
+				id: "01F25EFAD0E3AB27"
+				type: "kill"
+				value: 8L
+			}]
+			title: "Mata 8 atadroide"
+			x: 11.5d
+			y: 9.0d
+		}
+		{
+			id: "42B9FB81DF3F08EA"
+			rewards: [{
+				count: 4
+				id: "58254222357658A6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:magnetron"
+				icon: "alexscaves:heart_of_iron"
+				id: "4113A0A8CB6061E5"
+				type: "kill"
+				value: 16L
+			}]
+			title: "Mata 16 magnetrones"
+			x: 12.5d
+			y: 8.5d
+		}
+		{
+			id: "32884E6D60FCC74D"
+			rewards: [{
+				count: 5
+				id: "242B6825D2D71E9F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:teletor"
+				icon: "alexscaves:telecore"
+				id: "25E875DA8DB4F689"
+				type: "kill"
+				value: 32L
+			}]
+			title: "Mata 32 teletores"
+			x: 13.5d
+			y: 9.0d
+		}
+		{
+			id: "0038C63422C8F396"
+			rewards: [{
+				id: "19ADEA0B9052DC0C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "27BA5AA6D8EFB368"
+				item: "alexscaves:polarity_armor_trim_smithing_template"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 8.5d
+		}
+		{
+			id: "314895C720196119"
+			rewards: [{
+				count: 2
+				id: "0D8D5118F48B871D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "44901651AAABCA98"
+				item: { Count: 64, id: "alexscaves:azure_neodymium_ingot" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 9.0d
+		}
+		{
+			id: "683E6041DFDC9C89"
+			rewards: [{
+				count: 2
+				id: "35F1A8BBB54D6893"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "4D0F0A83EEFF3ED4"
+				item: { Count: 64, id: "alexscaves:scarlet_neodymium_ingot" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 8.5d
+		}
+		{
+			id: "388873662E88E2B5"
+			rewards: [{
+				count: 3
+				id: "28E2A5E8752A2CA3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "2A9E5332B373092D"
+				item: { Count: 64, id: "alexscaves:seeking_arrow" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 9.0d
+		}
+		{
+			id: "6FB71A51516429D8"
+			rewards: [{
+				count: 4
+				id: "16EC16599F469C3E"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46C7E8C8F00442E2"
+				item: {
+					Count: 1
+					id: "alexscaves:resistor_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.5d
+			y: 8.5d
+		}
+		{
+			id: "1FAF84C33C0A17AB"
+			rewards: [{
+				count: 5
+				id: "52F59E47B8A84549"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C149E600095A1C8"
+				item: {
+					Count: 1
+					id: "alexscaves:galena_gauntlet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 19.5d
+			y: 9.0d
+		}
+		{
+			id: "62235A06243A40F4"
+			rewards: [{
+				id: "40F688A2F58E335C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D462992E08D5A4E"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.5d
+		}
+		{
+			id: "009FE8EC70B90200"
+			rewards: [{
+				count: 2
+				id: "2D952CD74F08B00D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C5E66ADE933137E"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:primordial_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			id: "77CE80FAD6B620CC"
+			rewards: [{
+				count: 3
+				id: "30F51EE3D2F41698"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E6BE02475DE4725"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:primordial_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 9.5d
+		}
+		{
+			id: "35AF7ADDEA6B9925"
+			rewards: [{
+				id: "2C7FE27517219AC7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:trilocaris"
+				icon: "alexscaves:cooked_trilocaris_tail"
+				id: "6107EBF510BDF24D"
+				type: "kill"
+				value: 2L
+			}]
+			x: 9.5d
+			y: 10.0d
+		}
+		{
+			id: "23621059E7AA6173"
+			rewards: [{
+				count: 2
+				id: "57A3E4090B1E9360"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:subterranodon"
+				icon: "alexscaves:subterranodon_egg"
+				id: "6A285567D25F1FA4"
+				type: "kill"
+				value: 4L
+			}]
+			x: 10.5d
+			y: 9.5d
+		}
+		{
+			id: "1DBD5E66FFE6F8D8"
+			rewards: [{
+				count: 3
+				id: "08C3164F9A8A8338"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:vallumraptor"
+				icon: "alexscaves:vallumraptor_egg"
+				id: "48DB28AEE808EABF"
+				type: "kill"
+				value: 8L
+			}]
+			x: 11.5d
+			y: 10.0d
+		}
+		{
+			id: "5D3D765C4B73CAC2"
+			rewards: [{
+				count: 4
+				id: "6E92B912E94183D9"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:tremorsaurus"
+				icon: "alexscaves:tremorsaurus_egg"
+				id: "7A9C8D9B0E0C19C7"
+				type: "kill"
+				value: 16L
+			}]
+			x: 12.5d
+			y: 9.5d
+		}
+		{
+			id: "56F024FAC1FCE21C"
+			rewards: [{
+				count: 4
+				id: "610C6F3BF86FACB0"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:relicheirus"
+				icon: "alexscaves:relicheirus_egg"
+				id: "71DCCC3CD3ADE5EC"
+				type: "kill"
+				value: 16L
+			}]
+			x: 13.5d
+			y: 10.0d
+		}
+		{
+			id: "649782F61D996A2F"
+			rewards: [{
+				count: 4
+				id: "7389FB569682AB6F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:atlatitan"
+				icon: "alexscaves:atlatitan_egg"
+				id: "6F4EFAE9432D9BAC"
+				type: "kill"
+				value: 16L
+			}]
+			x: 14.5d
+			y: 9.5d
+		}
+		{
+			id: "69CD19D1E196D1D3"
+			rewards: [{
+				count: 5
+				id: "39404FE271DA7784"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:luxtructosaurus"
+				icon: "alexscaves:spawn_egg_luxtructosaurus"
+				id: "28830168CC6341E0"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.5d
+			y: 10.0d
+		}
+		{
+			id: "5BD9BDC79A463425"
+			rewards: [{
+				count: 2
+				id: "52D8D05886CDD7F4"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EC6B6744D151944"
+				item: {
+					Count: 1
+					id: "alexscaves:primitive_club"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 9.5d
+		}
+		{
+			id: "7F55B1F3D0DB737E"
+			rewards: [{
+				count: 2
+				id: "3E177DCF48CE6BFB"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "1562B18FD55634AE"
+				item: { Count: 16, id: "alexscaves:limestone_spear" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 10.0d
+		}
+		{
+			id: "0152026DE4934F58"
+			rewards: [{
+				count: 4
+				id: "34BF505FCB8C0A7D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "748869CC665889A0"
+				item: {
+					Count: 1
+					id: "alexscaves:extinction_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.5d
+			y: 9.5d
+		}
+		{
+			id: "7DE44AFC44BFB335"
+			rewards: [{
+				count: 10
+				id: "55FBA7A09B0E7E05"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7C99B5BCFD5BC911"
+					item: "alexscaves:subterranodon_egg"
+					type: "item"
+				}
+				{
+					id: "6B67E9FC7E8581A5"
+					item: "alexscaves:vallumraptor_egg"
+					type: "item"
+				}
+				{
+					id: "0D0F38792D10086F"
+					item: "alexscaves:grottoceratops_egg"
+					type: "item"
+				}
+				{
+					id: "21801014D129A9BD"
+					item: "alexscaves:tremorsaurus_egg"
+					type: "item"
+				}
+				{
+					id: "0BC586412A132DD6"
+					item: "alexscaves:relicheirus_egg"
+					type: "item"
+				}
+				{
+					id: "313F3B74B5BC6D3D"
+					item: "alexscaves:atlatitan_egg"
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: 10.0d
+		}
+		{
+			id: "797745F0D7A76993"
+			rewards: [{
+				id: "324C2A390291C568"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "287FCF1B244F48CD"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:candy_cavity"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.5d
+		}
+		{
+			id: "2863A7886930BF3C"
+			rewards: [{
+				count: 2
+				id: "45BCB3B6C5C6C03A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E316C2FA94EFA24"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:candy_cavity"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			id: "2924938E3C264B89"
+			rewards: [{
+				count: 3
+				id: "3EDBAE29967A8310"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6AB8CDBC32681A4A"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:candy_cavity"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.5d
+		}
+		{
+			id: "7FA7FD14DF0A6E90"
+			rewards: [{
+				id: "790A82612E71269D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:sweetish_fish"
+				icon: "alexscaves:gelatin_green"
+				id: "14FA4568ADD51719"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.5d
+			y: 8.0d
+		}
+		{
+			id: "074267C32920807A"
+			rewards: [{
+				id: "3E571CDE4964275A"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:caramel_cube"
+				icon: "alexscaves:caramel"
+				id: "25317AF8774EEBD2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.5d
+			y: 7.5d
+		}
+		{
+			id: "679F2A587636D89F"
+			rewards: [{
+				count: 2
+				id: "16048F0DE84FF980"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gingerbread_man"
+				icon: "alexscaves:gingerbread_crumbs"
+				id: "2CFF1645FDC5AB64"
+				type: "kill"
+				value: 2L
+			}]
+			x: 11.5d
+			y: 8.0d
+		}
+		{
+			id: "06C4C655D9D1D57F"
+			rewards: [{
+				count: 2
+				id: "7E1E809B399BD637"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gummy_bear"
+				icon: "alexscaves:sweetish_fish_green"
+				id: "0B34880BD94B72D0"
+				type: "kill"
+				value: 4L
+			}]
+			x: 12.5d
+			y: 7.5d
+		}
+		{
+			id: "04B7FE7224E5B615"
+			rewards: [{
+				count: 2
+				id: "0E3F0AD4F1022507"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gumbeeper"
+				icon: "alexscaves:gumball_pile"
+				id: "534743C69B362C97"
+				type: "kill"
+				value: 8L
+			}]
+			x: 13.5d
+			y: 8.0d
+		}
+		{
+			id: "77000DF6BC1B5169"
+			rewards: [{
+				count: 2
+				id: "49A7A82E25204A0F"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:candicorn"
+				icon: "alexscaves:spawn_egg_candicorn"
+				id: "799673296EBCC086"
+				type: "kill"
+				value: 8L
+			}]
+			x: 14.5d
+			y: 7.5d
+		}
+		{
+			id: "5DCC45114AE30B61"
+			rewards: [{
+				count: 4
+				id: "119A52593D60B439"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:caniac"
+				icon: "alexscaves:sharpened_candy_cane"
+				id: "0D9E536417BFBEC3"
+				type: "kill"
+				value: 16L
+			}]
+			x: 15.5d
+			y: 8.0d
+		}
+		{
+			id: "71FC691F0E4ED3E9"
+			rewards: [{
+				count: 4
+				id: "6EE62F75AD891AE8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:licowitch"
+				icon: "alexscaves:radiant_essence"
+				id: "262B30F7A72F0749"
+				type: "kill"
+				value: 16L
+			}]
+			x: 16.5d
+			y: 7.5d
+		}
+		{
+			id: "3DAD99B67D82DDB9"
+			rewards: [{
+				count: 5
+				id: "1BE6833D69E41AD3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gum_worm"
+				icon: "alexscaves:sweet_tooth"
+				id: "325D39DC62261D46"
+				type: "kill"
+				value: 32L
+			}]
+			x: 17.5d
+			y: 8.0d
+		}
+		{
+			id: "4BC0ADE84F123B8D"
+			rewards: [{
+				count: 3
+				id: "5DF652A1E66817FB"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "43E6DEDB5C209970"
+				item: { Count: 32, id: "alexscaves:sharpened_candy_cane" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 7.5d
+		}
+		{
+			id: "6167DF7D4BB585B8"
+			rewards: [{
+				count: 5
+				id: "5A4DDBEDE4C18AD5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FB2B20B794E90C9"
+				item: {
+					Count: 1
+					id: "alexscaves:shot_gum"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 19.5d
+			y: 8.0d
+		}
+		{
+			id: "7606652850D8D21B"
+			rewards: [{
+				id: "5430994C6117783C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2328DE0BC4C309F4"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:forlorn_hollows"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 10.5d
+		}
+		{
+			id: "6105FF10FD4EBB58"
+			tasks: [{
+				id: "5D622B7181CAA815"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:forlorn_hollows"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			id: "4C8EE2021CC69253"
+			rewards: [{
+				count: 3
+				id: "155E35790D8B0812"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "50F196E63D5C7758"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:forlorn_hollows"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 10.5d
+		}
+		{
+			id: "2D017DC9A05DA86B"
+			rewards: [{
+				id: "51A13DF51A45927B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gloomoth"
+				icon: "alexscaves:moth_dust"
+				id: "5E330D10B7A90857"
+				type: "kill"
+				value: 2L
+			}]
+			x: 9.5d
+			y: 11.0d
+		}
+		{
+			id: "3E0AB82401F40768"
+			rewards: [{
+				count: 2
+				id: "2319D60E38D497B8"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:vesper"
+				icon: "alexscaves:spawn_egg_vesper"
+				id: "56B989A34B6D0912"
+				type: "kill"
+				value: 4L
+			}]
+			x: 10.5d
+			y: 10.5d
+		}
+		{
+			id: "0CF807E7854ABEB6"
+			tasks: [{
+				entity: "alexscaves:underzealot"
+				icon: "alexscaves:dark_tatters"
+				id: "5B7D6B8CDA2BF9A2"
+				type: "kill"
+				value: 8L
+			}]
+			x: 11.5d
+			y: 11.0d
+		}
+		{
+			id: "491375DE704DB71E"
+			rewards: [{
+				count: 4
+				id: "78C2ADB2D2388442"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:corrodent"
+				icon: "alexscaves:spawn_egg_corrodent"
+				id: "736D66F57396C40B"
+				type: "kill"
+				value: 16L
+			}]
+			x: 12.5d
+			y: 10.5d
+		}
+		{
+			id: "35033A46A37054A2"
+			rewards: [{
+				count: 4
+				id: "24C8649AE0985099"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:watcher"
+				icon: "alexscaves:occult_gem"
+				id: "0771995256CA7744"
+				type: "kill"
+				value: 16L
+			}]
+			x: 13.5d
+			y: 11.0d
+		}
+		{
+			id: "6EED4EFB203A28EC"
+			rewards: [{
+				count: 5
+				id: "70237002B68D3A41"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:forsaken"
+				icon: "alexscaves:pure_darkness"
+				id: "7059EC2E96073C7E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.5d
+			y: 10.5d
+		}
+		{
+			id: "62C0E492F81854F4"
+			rewards: [{
+				count: 5
+				id: "645CB6AFD725F45B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "15A98119C490318B"
+					item: {
+						Count: 1
+						id: "alexscaves:hood_of_darkness"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C491E4AC5BEAC68"
+					item: {
+						Count: 1
+						id: "alexscaves:cloak_of_darkness"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: 11.0d
+		}
+		{
+			id: "25AAA9A73843A0BD"
+			rewards: [{
+				count: 5
+				id: "0075638A3BBEF7B2"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6784FD3E0705B49F"
+				item: {
+					Count: 1
+					id: "alexscaves:dreadbow"
+					tag: {
+						Damage: 0
+						LastUsedArrowType: "alexscaves:burrowing_arrow"
+						PerfectShotTicks: 0
+						PrevUseTime: 0
+						UseTime: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 10.5d
+		}
+		{
+			id: "7B874E6719FFA84E"
+			rewards: [{
+				count: 5
+				id: "079DF6756D84CA32"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1714923E4C1E2834"
+				item: {
+					Count: 1
+					id: "alexscaves:totem_of_possession"
+					tag: {
+						ControllingEntityID: -1
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 17.5d
+			y: 11.0d
+		}
+		{
+			id: "44BA04DCE90FE9F7"
+			rewards: [{
+				count: 4
+				id: "47CF5F16F3AB8D55"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D5DCB8AFC68FCC8"
+				item: {
+					Count: 1
+					id: "alexscaves:desolate_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.5d
+			y: 10.5d
+		}
+		{
+			id: "3546575F5FE91CC4"
+			rewards: [{
+				count: 4
+				id: "6A3849AEFA216762"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "61C671E2CFB0AD09"
+				item: "alexscaves:burrowing_arrow"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 11.0d
+		}
+		{
+			id: "5D8806AB96152146"
+			rewards: [{
+				id: "234C86D4B5447958"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "11DDB8C1DEB17F05"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 11.5d
+		}
+		{
+			id: "633725BEC5ED2F4C"
+			rewards: [{
+				count: 2
+				id: "49FB6302D8D7E9C3"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "25D937C0CF58B7D4"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:abyssal_chasm"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 12.0d
+		}
+		{
+			id: "4B25E028F9CEF232"
+			rewards: [{
+				count: 3
+				id: "726B78712F434BBE"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EF29B6AAAC808CC"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:abyssal_chasm"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 11.5d
+		}
+		{
+			id: "6D1107B0B043A30B"
+			rewards: [{
+				id: "2EC15CDE8EAEFF20"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:lanternfish"
+				icon: "alexscaves:cooked_lanternfish"
+				id: "5E62563977C77DDD"
+				type: "kill"
+				value: 2L
+			}]
+			x: 9.5d
+			y: 12.0d
+		}
+		{
+			id: "2BEC5050D448E6E2"
+			rewards: [{
+				id: "1A2D2D0D7867BE83"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:sea_pig"
+				icon: "alexscaves:sea_pig"
+				id: "20A1E66136360DB1"
+				type: "kill"
+				value: 2L
+			}]
+			x: 10.5d
+			y: 11.5d
+		}
+		{
+			id: "339C8A82810AD8F3"
+			rewards: [{
+				id: "1868AD51CABCAAEA"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gossamer_worm"
+				icon: "alexscaves:bioluminesscence"
+				id: "600B24BDD5C494D1"
+				type: "kill"
+				value: 2L
+			}]
+			x: 11.5d
+			y: 12.0d
+		}
+		{
+			id: "53577ABFE2155B1A"
+			rewards: [{
+				id: "56E41C76B6543A87"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:tripodfish"
+				icon: "alexscaves:cooked_tripodfish"
+				id: "61C33AB9FC7CBC3A"
+				type: "kill"
+				value: 2L
+			}]
+			x: 12.5d
+			y: 11.5d
+		}
+		{
+			id: "36890866EFAA52BD"
+			rewards: [{
+				count: 2
+				id: "5B687854B27EA86B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:deep_one"
+				icon: "alexscaves:spawn_egg_deep_one"
+				id: "3F94A29F6285B215"
+				type: "kill"
+				value: 4L
+			}]
+			x: 13.5d
+			y: 12.0d
+		}
+		{
+			id: "54F0BAE0C170C010"
+			rewards: [{
+				count: 2
+				id: "26435452CB193D43"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:deep_one_knight"
+				icon: "alexscaves:spawn_egg_deep_one_knight"
+				id: "12EC31A44AD3BA85"
+				type: "kill"
+				value: 4L
+			}]
+			x: 14.5d
+			y: 11.5d
+		}
+		{
+			id: "2EF3EE62F65AC984"
+			rewards: [{
+				count: 3
+				id: "4E6F11B477E64B72"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:deep_one_mage"
+				icon: "alexscaves:spawn_egg_deep_one_mage"
+				id: "3FC8E40F97A046EA"
+				type: "kill"
+				value: 6L
+			}]
+			x: 15.5d
+			y: 12.0d
+		}
+		{
+			id: "7E9E5D1C55980294"
+			rewards: [{
+				count: 4
+				id: "6D1961A1E6C55028"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:mine_guardian"
+				icon: "alexscaves:depth_charge"
+				id: "0240EDBCF9048177"
+				type: "kill"
+				value: 12L
+			}]
+			x: 16.5d
+			y: 11.5d
+		}
+		{
+			id: "2483F06604D34909"
+			rewards: [{
+				count: 5
+				id: "1BBFDE9ABAB20CA5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:hullbreaker"
+				icon: "alexscaves:immortal_embryo"
+				id: "05690F1B82E5C7CD"
+				type: "kill"
+				value: 32L
+			}]
+			x: 17.5d
+			y: 12.0d
+		}
+		{
+			id: "34A72C31869C840F"
+			rewards: [{
+				count: 4
+				id: "333CFC0A9014E097"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FD64AD566F6B860"
+				item: {
+					Count: 1
+					id: "alexscaves:ortholance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.5d
+			y: 11.5d
+		}
+		{
+			id: "5B28E3556F7E49CA"
+			rewards: [{
+				count: 5
+				id: "693305288594CD08"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0A380B5E0B2A0AC6"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2CA54865AB0A0D1D"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "673CCC7B8B7E9A93"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13AB513982AFEB0F"
+					item: {
+						Count: 1
+						id: "alexscaves:diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 19.5d
+			y: 12.0d
+		}
+		{
+			id: "72551FECEC8A2452"
+			rewards: [{
+				id: "4A2452A66A2176AF"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7AA785624D307816"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:toxic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 12.5d
+		}
+		{
+			id: "362395C5F4B95434"
+			rewards: [{
+				count: 2
+				id: "546CC9CCEC9967E7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E5ED780DCBA49C0"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_codex"
+					tag: {
+						CaveBiome: "alexscaves:toxic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 13.0d
+		}
+		{
+			id: "3D6E0A92884DD122"
+			rewards: [{
+				count: 3
+				id: "4218F6A59ECAE42B"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "341639C8327B2014"
+				item: {
+					Count: 1
+					id: "alexscaves:cave_map"
+					tag: {
+						BiomeTargetResourceKey: "alexscaves:toxic_caves"
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 12.5d
+		}
+		{
+			id: "26061F63FF82DEFB"
+			rewards: [{
+				id: "7C9F66C1D3B963C4"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:radgill"
+				icon: "alexscaves:cooked_radgill"
+				id: "4532BC1EFB5234FF"
+				type: "kill"
+				value: 2L
+			}]
+			x: 9.5d
+			y: 13.0d
+		}
+		{
+			id: "25D8CD6383355B73"
+			rewards: [{
+				id: "3FB69C22E7261327"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:gammaroach"
+				icon: "alexscaves:toxic_paste"
+				id: "670AF7EC9647B6FB"
+				type: "kill"
+				value: 2L
+			}]
+			x: 10.5d
+			y: 12.5d
+		}
+		{
+			id: "09B4FB32271E4D90"
+			rewards: [{
+				count: 2
+				id: "48D25098ECD01F61"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:raycat"
+				icon: "minecraft:bone"
+				id: "1CA5C3137C3D95B8"
+				type: "kill"
+				value: 2L
+			}]
+			x: 11.5d
+			y: 13.0d
+		}
+		{
+			id: "432483C587272482"
+			rewards: [{
+				count: 2
+				id: "713C4DABD878EF78"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:brainiac"
+				icon: "alexscaves:charred_remnant"
+				id: "22E0A92BC8102FBB"
+				type: "kill"
+				value: 4L
+			}]
+			x: 12.5d
+			y: 12.5d
+		}
+		{
+			icon: "alexscaves:spawn_egg_nucleeper"
+			id: "4476A64BDC2A18A6"
+			rewards: [{
+				count: 3
+				id: "755CBD50EC16BD48"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:nucleeper"
+				id: "7C7CB705BD9C093B"
+				type: "kill"
+				value: 12L
+			}]
+			x: 13.5d
+			y: 13.0d
+		}
+		{
+			id: "33B9BC0FAA701916"
+			rewards: [{
+				count: 5
+				id: "3032FF472242B7B5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "alexscaves:tremorzilla"
+				icon: "alexscaves:spawn_egg_tremorzilla"
+				id: "362FE28C620B09D6"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.5d
+			y: 12.5d
+		}
+		{
+			id: "08C55FB1EFCE7BEC"
+			rewards: [{
+				count: 2
+				id: "662C2576BF1504CE"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "584C55B90763514F"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_mask"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1398A0C475B6C3F9"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3891E9453898B186"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7623AED109D08EF4"
+					item: {
+						Count: 1
+						id: "alexscaves:hazmat_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: 13.0d
+		}
+		{
+			id: "37BF2FA3C7C70AD8"
+			rewards: [{
+				count: 3
+				id: "75669E1162D02F68"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "30400D358A8D43B9"
+				item: {
+					Count: 1
+					id: "alexscaves:raygun"
+					tag: {
+						PrevRayX: -1041.9639201991388d
+						PrevRayY: 103.0d
+						PrevRayZ: -696.9667307834557d
+						PrevUseTime: 0
+						RayX: -1041.9268243456527d
+						RayY: 103.0d
+						RayZ: -696.9439619836243d
+						UseTime: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 12.5d
+		}
+		{
+			id: "3DF4D9AF646E0A1B"
+			rewards: [{
+				count: 2
+				id: "5A4617BB0335C0B6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48152E023CED8057"
+				item: "alexscaves:music_disc_fusion"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 13.0d
+		}
+		{
+			id: "3E9B5C13183BD3D8"
+			rewards: [{
+				count: 5
+				id: "72B4F07C80DD7EA5"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "La misma muerte..."
+			tasks: [{
+				id: "40971B0773DDD9F4"
+				item: "alexscaves:nuclear_bomb"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 12.5d
+		}
+		{
+			id: "343A5A072B73AECA"
+			rewards: [{
+				count: 5
+				id: "292C4995C0822EE6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "55B41FE303947967"
+				item: "alexscaves:tremorzilla_egg"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 13.0d
+		}
+	]
+	title: "Server"
+}

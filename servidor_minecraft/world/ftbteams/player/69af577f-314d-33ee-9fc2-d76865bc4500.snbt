@@ -1,0 +1,17 @@
+{
+	id: "69af577f-314d-33ee-9fc2-d76865bc4500"
+	type: "player"
+	player_name: "BabyChoclo"
+	ranks: {
+		69af577f-314d-33ee-9fc2-d76865bc4500: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BabyChoclo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

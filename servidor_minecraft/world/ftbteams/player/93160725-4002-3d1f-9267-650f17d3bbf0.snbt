@@ -1,0 +1,17 @@
+{
+	id: "93160725-4002-3d1f-9267-650f17d3bbf0"
+	type: "player"
+	player_name: "asrielmanrique"
+	ranks: {
+		93160725-4002-3d1f-9267-650f17d3bbf0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "asrielmanrique"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

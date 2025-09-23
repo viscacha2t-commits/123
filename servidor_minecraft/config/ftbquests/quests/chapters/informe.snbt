@@ -1,0 +1,76 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "informe"
+	group: ""
+	id: "344A1E64F37CD188"
+	order_index: 5
+	quest_links: [ ]
+	quests: [{
+		id: "73B34967DCE3443D"
+		rewards: [
+			{
+				id: "2AD426B5D41240B3"
+				item: {
+					Count: 1
+					id: "minecraft:writable_book"
+					tag: {
+						pages: [
+							"Hola con todos\nLos saluda ServerZero\n(Choclo \"admin\")\n\n\n\n\n\n\n\n\n\n                 ----->"
+							"En este libro les dare los cambios de dificultad y lo actualizare y como no se de editar el libro para todos vengar a recoger uno por cada cambio de dificultad añadido XD\n\n\n\n\n                  ----->"
+							"Damage Cactus:\nLos cactus hacen daño infinito \n(Cancelado por bug)\n\n\nFuego Eterno: \nEl fuego no se apaga a menos con agua, nieve en polvo o entres a un caldero\n\n\n               ------>"
+							"Fiebre Aracnida:\nAl romper una telaraña saldra una araña venenosa\n\n\n\nLava Purificadora:\nLa lava quita todos los efectos de pocion, manzanas, etc\n\n\n                  ------>"
+							"Damage Buttons: Los botones hacen daño infinito\n\n\n\nEnder Vision: Los endermans al golpearte te dan su vision\n\n\n\n                  ------>"
+							"Fiebre Tejedora: Las arañas te dejan telarañas en los pies al atacarte\n\n\nInfection: Al golpearte un zombi te da Zombificacion se cura con manzana dorada y pocion de debilidad (Si no lo curas popea totem o te mata)\n                  ------>"
+							"Infernus: El fuego hace el doble de daño\n\n\nLava Mortal: La lava hace mas daño\n\n\nNo Breathing: El tiempo para respirar bajo el agua es muy corto\n\n\n                  ------>"
+							"Phanthom Shuffle: Al recibir un ataque de un fantasma este te cambia la vision y remueve tu inventario\n\n\nPies Debiles: El daño de caida es multiplicado x3\n\n\n\n                  ------>"
+							"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\nFaltan mas pronto......"
+						]
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "66D3E8C7D438BD9A"
+				item: {
+					Count: 1
+					id: "minecraft:written_book"
+					tag: {
+						author: "ServerZero"
+						filtered_title: "Gracias"
+						pages: ["{\"text\":\"Gracias a todos por participar en SHF enserio pido disculpas por no estar la mayoria de veces esto no es un adios a mi sino que es un hasta pronto entrare de vez en cuando pero la historia del servidor seguira igual gracias\\n\\nChoclo\"}"]
+						resolved: 1b
+						title: "Gracias"
+					}
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			advancement: "minecraft:story/root"
+			criterion: ""
+			icon: {
+				Count: 1
+				id: "minecraft:writable_book"
+				tag: {
+					pages: [
+						"Hola con todos\nLos saluda ServerZero\n(Choclo \"admin\")\n\n\n\n\n\n\n\n\n\n                 ----->"
+						"En este libro les dare los cambios de dificultad y lo actualizare y como no se de editar el libro para todos vengar a recoger uno por cada cambio de dificultad añadido XD\n\n\n\n\n                  ----->"
+						"Damage Cactus:\nLos cactus hacen daño infinito \n(Cancelado por bug)\n\n\nFuego Eterno: \nEl fuego no se apaga a menos con agua, nieve en polvo o entres a un caldero\n\n\n               ------>"
+						"Fiebre Aracnida:\nAl romper una telaraña saldra una araña venenosa\n\n\n\nLava Purificadora:\nLa lava quita todos los efectos de pocion, manzanas, etc\n\n\n                  ------>"
+						"Damage Buttons: Los botones hacen daño infinito\n\n\n\nEnder Vision: Los endermans al golpearte te dan su vision\n\n\n\n                  ------>"
+						"Fiebre Tejedora: Las arañas te dejan telarañas en los pies al atacarte\n\n\nInfection: Al golpearte un zombi te da Zombificacion se cura con manzana dorada y pocion de debilidad (Si no lo curas popea totem o te mata)\n                  ------>"
+						"Infernus: El fuego hace el doble de daño\n\n\nLava Mortal: La lava hace mas daño\n\n\nNo Breathing: El tiempo para respirar bajo el agua es muy corto\n\n\n                  ------>"
+						"Phanthom Shuffle: Al recibir un ataque de un fantasma este te cambia la vision y remueve tu inventario\n\n\nPies Debiles: El daño de caida es multiplicado x3\n\n\n\n                  ------>"
+						"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\nFaltan mas pronto......"
+					]
+				}
+			}
+			id: "33C03BB7A964A44A"
+			type: "advancement"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Informe"
+}

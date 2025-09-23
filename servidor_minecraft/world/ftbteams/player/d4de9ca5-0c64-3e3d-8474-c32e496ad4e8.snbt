@@ -1,0 +1,15 @@
+{
+	id: "d4de9ca5-0c64-3e3d-8474-c32e496ad4e8"
+	type: "player"
+	player_name: "ServerZero"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ServerZero"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

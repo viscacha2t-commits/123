@@ -1,0 +1,17 @@
+{
+	id: "ac52b3cf-fd3c-335b-bd53-67f31375a168"
+	type: "player"
+	player_name: "Anzu_ara"
+	ranks: {
+		ac52b3cf-fd3c-335b-bd53-67f31375a168: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Anzu_ara"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "3dc7566d-df20-34d3-a4db-a631d4cd4f38"
+	type: "player"
+	player_name: "UnMarshelo"
+	ranks: {
+		3dc7566d-df20-34d3-a4db-a631d4cd4f38: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "UnMarshelo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

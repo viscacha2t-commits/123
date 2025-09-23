@@ -1,0 +1,695 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farming"
+	group: ""
+	id: "4C2A2FB296A65E99"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			id: "720117FAA0E9C55A"
+			rewards: [
+				{
+					count: 2
+					id: "6CDBD711096EEC03"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0972EA804D130B38"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "06A55A96609A756E"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: false
+			id: "539D287DB2BED4A8"
+			rewards: [
+				{
+					count: 4
+					id: "791DEF54B0F7FF00"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1B413E3286F6E7E4"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "25FCBC806DD44944"
+				item: { Count: 64, id: "minecraft:bread" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: false
+			id: "5208C5A7ED057B8F"
+			rewards: [
+				{
+					count: 2
+					id: "54023128276C3824"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5460CAD1AA06D106"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "5C52EAC842002158"
+				item: { Count: 64, id: "minecraft:potato" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "764888295CD5E56B"
+			rewards: [
+				{
+					count: 2
+					id: "14FDB9C5AB9B6427"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "54B1A0AC34ED98EE"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "73256691B18798F1"
+				item: { Count: 64, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "09F8AAFAC240E2B2"
+			rewards: [
+				{
+					count: 2
+					id: "51E68D11A22DD654"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6EE6305398C95579"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "641A93AB266DB63C"
+				item: { Count: 64, id: "minecraft:sweet_berries" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "19DE9A272D5820E9"
+			rewards: [
+				{
+					count: 2
+					id: "69459DE643B1CF95"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4A9A38EC2E312511"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "5BC267DF1DDA678A"
+				item: { Count: 64, id: "minecraft:glow_berries" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "447E37371EBDD86E"
+			rewards: [
+				{
+					count: 2
+					id: "407F9826891A9BAC"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "356B3C57831F6450"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "0A3B7744DD4E7962"
+				item: { Count: 64, id: "minecraft:beetroot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "733541CDEADC1CF4"
+			rewards: [
+				{
+					count: 2
+					id: "2B929D31D35B59FC"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "44138781BEA4C526"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "230CAD4DC7431EE6"
+				item: { Count: 64, id: "minecraft:dried_kelp" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "4FA99C422FF582F2"
+			rewards: [
+				{
+					count: 2
+					id: "2E09BC0F7A297602"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0DDADD36A2D07476"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "02F489A51FDFF856"
+				item: { Count: 64, id: "minecraft:cookie" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "1E78CC217800AC6C"
+			rewards: [
+				{
+					count: 4
+					id: "555EA52B697951AA"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6E5ACEC23B9BCC03"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "51606B0FCA86A731"
+				item: { Count: 64, id: "farmersdelight:sweet_berry_cookie" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "66A2617200B52073"
+			rewards: [
+				{
+					count: 8
+					id: "7D429F5ECE7C8004"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "25ED754D1BE6BE23"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "29FFCF30CD4998A6"
+				item: "farmersdelight:honey_cookie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "5FF0A86537005569"
+			rewards: [
+				{
+					count: 4
+					id: "0B411D691A715B66"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "743F4500EB6D7519"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				id: "1F16C4B2C91057F9"
+				item: "minecraft:cake"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "08E2F65D6509AD42"
+			rewards: [
+				{
+					count: 2
+					id: "1AC4B76FCB1CF919"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0107BAE09DE0CB08"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "41430D46C352AC29"
+				item: { Count: 64, id: "minecraft:pumpkin_pie" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "78B021BA15E005FB"
+			rewards: [
+				{
+					count: 2
+					id: "50C8A78CDE5BAC69"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "733E941824451F1E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "10093A9D34E044A9"
+				item: "farmersdelight:pie_crust"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "346058059D0F40A0"
+			rewards: [
+				{
+					count: 4
+					id: "161B8ACD5614C1F6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6A18601907328C2A"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				id: "5003FE3290269E7F"
+				item: "farmersdelight:apple_pie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "6D1E39CF55D6F11C"
+			rewards: [
+				{
+					count: 16
+					id: "21A5EE9AB59B9242"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1849B3EBCC1B33A0"
+					type: "xp_levels"
+					xp_levels: 16
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "34A96FF73AC0EB19"
+				item: { Count: 64, id: "minecraft:golden_carrot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "12989A9BDD3EA62E"
+			rewards: [
+				{
+					count: 2
+					id: "4FC9D172FC88C8EF"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "45FC7A105BF35A5A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3995FA418128F7F9"
+				item: { Count: 64, id: "farmersdelight:cabbage" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "64A94EAE5DD121BC"
+			rewards: [
+				{
+					count: 2
+					id: "273CDBDA0E253581"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "20E49CA7966712A2"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "1381309BAD0979A1"
+				item: { Count: 64, id: "farmersdelight:tomato" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "0C04506480E5C3C1"
+			rewards: [
+				{
+					count: 2
+					id: "72879B3497C60E58"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1F24260BB84F59E5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "7562F29CAE8D9707"
+				item: { Count: 64, id: "farmersdelight:onion" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "44D1DC311AC65C82"
+			rewards: [
+				{
+					count: 2
+					id: "76A89CE6FFAC493C"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "2793D6435F9CA7B0"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "0584B467E9E94AEA"
+				item: { Count: 64, id: "farmersdelight:rice_panicle" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "73A8D8D75D0F6062"
+			rewards: [
+				{
+					count: 4
+					id: "3175F49AAEA2BF07"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "010F366AD57BA451"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "53A0687BE71FE100"
+				item: { Count: 64, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "1A2E79773C7A03CF"
+			rewards: [
+				{
+					count: 2
+					id: "19154E495F2C769A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "65B7C3A05C7E6A8A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2D2AF331A5740434"
+				item: { Count: 16, id: "minecraft:egg" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "461B7466A4A4AE7E"
+			rewards: [
+				{
+					count: 4
+					id: "6255481159980F35"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "79EDCD7BFD9604E5"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "6560D50FE46906DD"
+				item: { Count: 16, id: "farmersdelight:fried_egg" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "70195EDD6E16DA42"
+			tasks: [{
+				count: 32L
+				id: "2B13A62DAC86CC4F"
+				item: { Count: 32, id: "farmersdelight:tomato_sauce" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "78F2CDCDF03B6668"
+			rewards: [
+				{
+					count: 6
+					id: "76194766541299E3"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5378981BF81D9DFC"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "5A4C07B7153DE423"
+				item: { Count: 32, id: "farmersdelight:wheat_dough" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "44E85519C51EE266"
+			rewards: [
+				{
+					count: 8
+					id: "7F307CB7B1CFA2D4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6DBC67D99ADDBADF"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "098CCC7044A2D36E"
+				item: { Count: 8, id: "farmersdelight:raw_pasta" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "56200E485A4BB869"
+			rewards: [
+				{
+					count: 2
+					id: "55C957142179AF98"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "55D41301E1609EB5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3D312B6A471E74BB"
+				item: { Count: 64, id: "minecraft:pumpkin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "2720B86A4E99B9AC"
+			rewards: [
+				{
+					count: 4
+					id: "479FB3030FD33904"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5B0A541DD2F86504"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3BC6819AB98C6929"
+				item: { Count: 64, id: "farmersdelight:pumpkin_slice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "74B13229509BCBE4"
+			rewards: [
+				{
+					count: 4
+					id: "2334263F69570B51"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "158E1B6B862C2126"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "4E779C0BFD166F21"
+				item: { Count: 32, id: "farmersdelight:cabbage_leaf" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+	]
+	title: "Farming"
+}

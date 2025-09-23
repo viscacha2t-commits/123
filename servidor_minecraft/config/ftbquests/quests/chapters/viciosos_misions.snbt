@@ -1,0 +1,199 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "viciosos_misions"
+	group: ""
+	id: "53DF651AD6D8CFBB"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "62D5380D5DAE2F6F"
+			rewards: [{
+				count: 8
+				id: "12180915FD84DF6D"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Im Invincible"
+			tasks: [{
+				count: 64L
+				id: "0CC1149E6C0D8D7C"
+				item: { Count: 64, id: "dedsafio3:nutri_totem" }
+				type: "item"
+			}]
+			title: "Consigue 64 totems de nutria"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2B3F6351E374054A"
+			rewards: [{
+				count: 8
+				id: "078DCBDE2AF1B304"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Aprovechen el bug"
+			tasks: [{
+				id: "215DCD110331031F"
+				points: false
+				type: "xp"
+				value: 2000L
+			}]
+			title: "Consigue 2000 niveles"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "5AB630AAD6D8C060"
+			rewards: [{
+				count: 4
+				id: "7B81BB56469AC844"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			subtitle: "Entre a todas!!!!"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "5576A12D918760D4"
+					type: "dimension"
+				}
+				{
+					dimension: "grotesque_steve:stomach"
+					id: "02DFC810BC3A7D88"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "365014BB0960FD7B"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "1610018075492597"
+					type: "dimension"
+				}
+			]
+			title: "Visita todas las dimensiones"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "421599292CC23315"
+			rewards: [{
+				count: 8
+				id: "49C45EAC526D55C6"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "easy_npc:zombie_spawn_egg"
+				id: "65A8B380A27F5CCF"
+				title: "2500 ZOMBIS?"
+				type: "kill"
+				value: 2500L
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "3F5E6CCC713CDB39"
+			rewards: [{
+				count: 8
+				id: "4A602AA21FF6E048"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "2DB19A4754F66F30"
+				title: "2500 ESQUELETOS?"
+				type: "kill"
+				value: 2500L
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "558FC779A6704D16"
+			rewards: [{
+				count: 8
+				id: "6500E453048F8EE7"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "1FA099D5FF797E6F"
+				title: "2500 CREEPERS?"
+				type: "kill"
+				value: 2500L
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "7424ED0A2D97251C"
+			rewards: [{
+				count: 8
+				id: "30995A91E039D95C"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "minecraft:spider_eye"
+				id: "34427D0F9C37271B"
+				title: "2500 ARAÑAS?"
+				type: "kill"
+				value: 2500L
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "69C055C824D58F08"
+			rewards: [{
+				count: 8
+				id: "4A5FD90AF06CE868"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "0A70CF3E1761712D"
+				title: "2500 ARAÑAS DE CUEVA?"
+				type: "kill"
+				value: 2500L
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "48FEDC0F6F3CCE47"
+			rewards: [{
+				count: 8
+				id: "3947CBE42F2D7F53"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "minecraft:ender_pearl"
+				id: "4176D624EEF1331E"
+				title: "2500 ENDERMANS?"
+				type: "kill"
+				value: 2500L
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+	]
+	title: "Viciosos misions"
+}

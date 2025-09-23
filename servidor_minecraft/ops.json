@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "d4de9ca5-0c64-3e3d-8474-c32e496ad4e8",
+    "name": "ServerZero",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "69af577f-314d-33ee-9fc2-d76865bc4500",
+    "name": "BabyChoclo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7",
+    "name": "C0LIGAMES",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,17 @@
+{
+	id: "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd"
+	type: "player"
+	player_name: "joaocover"
+	ranks: {
+		ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "joaocover"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
