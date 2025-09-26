@@ -8,65 +8,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			id: "467BDDC163AA2E88"
-			rewards: [{
-				count: 2
-				id: "19DC5DE1F8E0DD28"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
-			subtitle: "AGGGGHHHH"
-			tasks: [{
-				dimension: "grotesque_steve:stomach"
-				icon: "grotesque_steve:meatblock"
-				id: "116A7663C5B6386E"
-				title: "Visita la \"SHIT\" dimension"
-				type: "dimension"
-			}]
-			title: "\"SHIT\""
-			x: -1.0d
-			y: -0.5d
-		}
-		{
-			id: "3404DD022D935B4D"
-			rewards: [{
-				id: "30EEE7EC336BEF75"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
-			subtitle: "mineshaft?"
-			tasks: [{
-				icon: "minecraft:rail"
-				id: "2F8740114A0739EC"
-				structure: "grotesque_steve:mineshaft"
-				title: "Encuentra la mina del grotesco"
-				type: "structure"
-			}]
-			title: "Grotesque mine?"
-			x: -1.0d
-			y: 0.5d
-		}
-		{
-			id: "77184B40F0E0B299"
-			rewards: [{
-				count: 2
-				id: "43AF860E789852CB"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
-			subtitle: "Pense que te habian eliminado"
-			tasks: [{
-				entity: "grotesque_steve:grotesquespawn"
-				icon: "grotesque_steve:blueshirt"
-				id: "628F1CE3F0D76615"
-				title: "Cachate un grotesco"
-				type: "kill"
-				value: 1L
-			}]
-			x: -2.0d
-			y: 0.0d
-		}
-		{
 			id: "6B58FD824CF75D82"
 			rewards: [{
 				id: "4F00DF661BD0D10E"
@@ -138,7 +79,7 @@
 			}]
 			title: "end dimension?"
 			x: 2.0d
-			y: -1.5d
+			y: -0.5d
 		}
 		{
 			id: "3D5A1A057F54B8E0"
@@ -205,16 +146,24 @@
 				type: "item"
 			}]
 			subtitle: "Otra vez tu?"
-			tasks: [{
-				advancement: "minecraft:end/respawn_dragon"
-				criterion: ""
-				icon: "minecraft:dragon_head"
-				id: "6C9F63A99C8E1661"
-				title: "Otra vez?"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "minecraft:end/respawn_dragon"
+					criterion: ""
+					icon: "minecraft:dragon_head"
+					id: "6C9F63A99C8E1661"
+					title: "Otra vez?"
+					type: "advancement"
+				}
+				{
+					advancement: "minecraft:end/respawn_dragon"
+					criterion: ""
+					id: "73BBC3CCB2F8AD55"
+					type: "advancement"
+				}
+			]
 			x: 3.0d
-			y: -2.0d
+			y: 1.0d
 		}
 		{
 			id: "0C69A61ADB639DF2"
@@ -6591,8 +6540,44 @@
 				title: "Los angeles muertos"
 				type: "advancement"
 			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "724DC0824C6D411E"
+			rewards: [{
+				id: "10E859E8B050D752"
+				item: "dedsafio3:deditamulticolor"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/root"
+				criterion: ""
+				id: "7EB8B67113C12B1D"
+				type: "advancement"
+			}]
 			x: 0.0d
 			y: 0.0d
+		}
+		{
+			id: "1852F6F6A889691B"
+			subtitle: "Sobrevive"
+			tasks: [{
+				advancement: "minecraft:story/root"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "dedsafio3:espada"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "51436A0BE2D9E4DF"
+				title: "El kit inicial"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.5d
 		}
 	]
 	title: "Server"

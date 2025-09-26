@@ -1041,13 +1041,6 @@
 					xp_levels: 32
 				}
 			]
-			tasks: [{
-				entity: "grotesque_steve:grotesquesteve"
-				icon: "grotesque_steve:orangeshirt"
-				id: "4AED8E389405D3BC"
-				type: "kill"
-				value: 1L
-			}]
 			x: -19.0d
 			y: -1.5d
 		}
