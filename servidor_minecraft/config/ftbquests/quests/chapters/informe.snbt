@@ -9,7 +9,7 @@
 	quests: [{
 		id: "73B34967DCE3443D"
 		rewards: [{
-			id: "2AD426B5D41240B3"
+			id: "7DD1FC73E9EFE4AB"
 			item: {
 				Count: 1
 				id: "minecraft:writable_book"
@@ -23,7 +23,9 @@
 						"Fiebre Tejedora: Las arañas te dejan telarañas en los pies al atacarte\n\n\nInfection: Al golpearte un zombi te da Zombificacion se cura con manzana dorada y pocion de debilidad (Si no lo curas popea totem o te mata)\n                  ------>"
 						"Infernus: El fuego hace el doble de daño\n\n\nLava Mortal: La lava hace mas daño\n\n\nNo Breathing: El tiempo para respirar bajo el agua es muy corto\n\n\n                  ------>"
 						"Phanthom Shuffle: Al recibir un ataque de un fantasma este te cambia la vision y remueve tu inventario\n\n\nPies Debiles: El daño de caida es multiplicado x3\n\n\n\n                  ------>"
-						"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\nFaltan mas pronto......"
+						"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\n                     \n                  ------>"
+						"Angeles muertos: El final boss del servidor a mandado a los angeles muertos criaturas muy dificiles de matar en vanilla solo pueden ser eliminadas con el \"Hearing Aid\" un aparato que los hace debiles y puedes aprovechar en matarlos y escuchan el voice chat  ------>\n"
+						"Pesadilla: Se a agregado una nueva dimension oslo puedes entrar a esta durmiendo dependo de tu suerte o probabilidad si entras ahi sal lo mas rapido posible\n\n\n\nEso es todo resistan."
 					]
 				}
 			}

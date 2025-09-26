@@ -7689,6 +7689,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-09-26 01:11:03 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-26 00:56:45 +0000"
@@ -7710,6 +7716,18 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-09-26 00:56:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-09-26 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-09-26 01:13:09 +0000"
     },
     "done": true
   },

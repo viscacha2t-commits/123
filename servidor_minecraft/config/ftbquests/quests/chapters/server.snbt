@@ -6561,6 +6561,287 @@
 		}
 		{
 			id: "1852F6F6A889691B"
+			rewards: [
+				{
+					count: 15
+					id: "7BA8C5AE593A601B"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0F6B4495E074F633"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 35
+					id: "6504BA0E527CA5B6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "67A537C3DF83FAE6"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					id: "595B7AAFE8CF468F"
+					item: "iceandfire:dragon_bone_block"
+					type: "item"
+				}
+				{
+					count: 9
+					id: "2E51A05343BACFA8"
+					item: "iceandfire:witherbone"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "73A48E33F914EAC5"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "107C2ED2A34A620F"
+					item: "dedsafio3:portable_golden_anvil"
+					type: "item"
+				}
+				{
+					count: 15
+					id: "4A4FCCBF214FCD23"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					id: "5775790EBB42EDD0"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "minecraft:respiration"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:thorns"
+									lvl: 1s
+								}
+								{
+									id: "combatroll:multi_roll"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:protection"
+									lvl: 2s
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 3s
+								}
+								{
+									id: "minecraft:aqua_affinity"
+									lvl: 1s
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "37BE6CDC96AFB79D"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "combatroll:acrobat"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:thorns"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:protection"
+									lvl: 2s
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 3s
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13C18C2E1B850316"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "combatroll:acrobat"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:thorns"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:protection"
+									lvl: 2s
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 3s
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "418B0594B83DE434"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "combatroll:longfooted"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:thorns"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:feather_falling"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:protection"
+									lvl: 2s
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 3s
+								}
+								{
+									id: "minecraft:depth_strider"
+									lvl: 1s
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F1D5D837A35CF53"
+					item: {
+						Count: 1
+						id: "spartanshields:diamond_tower_shield"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "spartanshields:payback"
+									lvl: 4s
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 3s
+								}
+								{
+									id: "spartanshields:spikes"
+									lvl: 3s
+								}
+								{
+									id: "spartanshields:firebrand"
+									lvl: 2s
+								}
+								{
+									id: "minecraft:mending"
+									lvl: 1s
+								}
+							]
+							RepairCost: 1
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "158025A2E6E042E7"
+					item: "scalinghealth:bandages"
+					type: "item"
+				}
+				{
+					count: 15
+					id: "3B8972158F11B00F"
+					item: "scalinghealth:medkit"
+					type: "item"
+				}
+				{
+					id: "10B99542F716F8EC"
+					item: "iceandfire:fire_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "17211B12F791757F"
+					item: "iceandfire:ice_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "13489EB17383EFC3"
+					item: "iceandfire:lightning_dragon_blood"
+					type: "item"
+				}
+				{
+					id: "5C3A3A6726B28C13"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B99131CB3E00882"
+					item: {
+						Count: 1
+						id: "minecraft:writable_book"
+						tag: {
+							pages: [
+								"Hola con todos\nLos saluda ServerZero\n(Choclo \"admin\")\n\n\n\n\n\n\n\n\n\n                 ----->"
+								"En este libro les dare los cambios de dificultad y lo actualizare y como no se de editar el libro para todos vengar a recoger uno por cada cambio de dificultad añadido XD\n\n\n\n\n                  ----->"
+								"Damage Cactus:\nLos cactus hacen daño infinito \n(Cancelado por bug)\n\n\nFuego Eterno: \nEl fuego no se apaga a menos con agua, nieve en polvo o entres a un caldero\n\n\n               ------>"
+								"Fiebre Aracnida:\nAl romper una telaraña saldra una araña venenosa\n\n\n\nLava Purificadora:\nLa lava quita todos los efectos de pocion, manzanas, etc\n\n\n                  ------>"
+								"Damage Buttons: Los botones hacen daño infinito\n\n\n\nEnder Vision: Los endermans al golpearte te dan su vision\n\n\n\n                  ------>"
+								"Fiebre Tejedora: Las arañas te dejan telarañas en los pies al atacarte\n\n\nInfection: Al golpearte un zombi te da Zombificacion se cura con manzana dorada y pocion de debilidad (Si no lo curas popea totem o te mata)\n                  ------>"
+								"Infernus: El fuego hace el doble de daño\n\n\nLava Mortal: La lava hace mas daño\n\n\nNo Breathing: El tiempo para respirar bajo el agua es muy corto\n\n\n                  ------>"
+								"Phanthom Shuffle: Al recibir un ataque de un fantasma este te cambia la vision y remueve tu inventario\n\n\nPies Debiles: El daño de caida es multiplicado x3\n\n\n\n                  ------>"
+								"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\n                     \n                  ------>"
+								"Angeles muertos: El final boss del servidor a mandado a los angeles muertos criaturas muy dificiles de matar en vanilla solo pueden ser eliminadas con el \"Hearing Aid\" un aparato que los hace debiles y puedes aprovechar en matarlos y escuchan el voice chat  ------>\n"
+								"Pesadilla: Se a agregado una nueva dimension oslo puedes entrar a esta durmiendo dependo de tu suerte o probabilidad si entras ahi sal lo mas rapido posible\n\n\n\nEso es todo resistan."
+							]
+						}
+					}
+					type: "item"
+				}
+			]
 			subtitle: "Sobrevive"
 			tasks: [{
 				advancement: "minecraft:story/root"
