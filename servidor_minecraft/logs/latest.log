@@ -1466,3 +1466,132 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Sep2025 03:25:46.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> como carajo solto una araña botas de hierro?
 [26Sep2025 03:25:51.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
 [26Sep2025 03:26:01.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> q ta lgustambo?
+[26Sep2025 03:26:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> tryhard?a
+[26Sep2025 03:26:55.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 moved too quickly! 8.335571848850137,-0.5061351021062208,-5.552405441533203
+[26Sep2025 03:27:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> gustabo?
+[26Sep2025 03:27:08.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique burned to death
+[26Sep2025 03:27:09.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> se muere XD
+[26Sep2025 03:27:10.106] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 03:27:10.106] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 03:27:10.501] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/364527, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[26Sep2025 03:27:10.502] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/364527, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[26Sep2025 03:27:10.502] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/364527, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[26Sep2025 03:27:10.502] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@fdb97b4, net.minecraft.world.item.trading.MerchantOffer@6d00f475, net.minecraft.world.item.trading.MerchantOffer@318f07e4, net.minecraft.world.item.trading.MerchantOffer@17c211b3, net.minecraft.world.item.trading.MerchantOffer@447742c8, net.minecraft.world.item.trading.MerchantOffer@2e3ea56f, net.minecraft.world.item.trading.MerchantOffer@6747376b, net.minecraft.world.item.trading.MerchantOffer@600fedb9, net.minecraft.world.item.trading.MerchantOffer@1e109272, net.minecraft.world.item.trading.MerchantOffer@45de4902, net.minecraft.world.item.trading.MerchantOffer@1bfcd2bd, net.minecraft.world.item.trading.MerchantOffer@401865e] for Humanoid['entity.easy_npc.humanoid'/364527, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[26Sep2025 03:27:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> GGS
+[26Sep2025 03:27:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> tp
+[26Sep2025 03:27:14.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Blaženka'/364465, l='ServerLevel[world]', x=951.50, y=70.00, z=853.50] died, message: 'Blaženka was slain by Death Angel'
+[26Sep2025 03:27:14.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Blaženka'/364465, l='ServerLevel[world]', x=951.50, y=70.00, z=853.50] died: Blaženka was slain by Death Angel
+[26Sep2025 03:27:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported asrielmanrique to -68.570000, 67.000000, 9.150000]
+[26Sep2025 03:27:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was doomed to fall
+[26Sep2025 03:27:34.794] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 03:27:34.794] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Sep2025 03:27:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 03:27:46.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to UnMarshelo]
+[26Sep2025 03:27:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 was killed by Drowned using magic
+[26Sep2025 03:27:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> ptm
+[26Sep2025 03:27:58.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 03:27:58.796] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 03:28:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> mis botas
+[26Sep2025 03:28:03.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Timed out
+[26Sep2025 03:28:03.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[26Sep2025 03:28:03.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[26Sep2025 03:28:16.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 moved too quickly! -5.498453126070316,0.15233518685055003,8.43359676402683
+[26Sep2025 03:28:20.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Timed out
+[26Sep2025 03:28:20.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 03:28:20.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 03:28:29.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:50439] logged in with entity id 390824 at (-1021.7180954813589, 114.0, -721.5165029480071)
+[26Sep2025 03:28:29.456] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ServerZero
+[26Sep2025 03:28:29.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[26Sep2025 03:28:29.531] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[26Sep2025 03:28:29.960] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (20)
+[26Sep2025 03:28:29.960] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[26Sep2025 03:28:36.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> me tengo que ir muchachos se cuidan
+[26Sep2025 03:28:40.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[26Sep2025 03:28:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[26Sep2025 03:28:40.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[26Sep2025 03:28:59.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo moved wrongly!
+[26Sep2025 03:28:59.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Timed out
+[26Sep2025 03:28:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[26Sep2025 03:28:59.532] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[26Sep2025 03:29:13.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:54555] logged in with entity id 395645 at (62.528883859688875, 66.25220334025373, 36.658320186926375)
+[26Sep2025 03:29:13.346] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 03:29:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 03:29:13.398] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 03:29:14.141] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 03:29:14.141] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 03:29:30.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:59499] logged in with entity id 399586 at (-1021.7180954813589, 114.0, -721.5165029480071)
+[26Sep2025 03:29:30.905] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ServerZero
+[26Sep2025 03:29:30.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[26Sep2025 03:29:30.979] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[26Sep2025 03:29:31.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (20)
+[26Sep2025 03:29:31.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[26Sep2025 03:29:43.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Timed out
+[26Sep2025 03:29:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 03:29:43.483] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 03:29:59.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:47857] logged in with entity id 404207 at (62.528883859688875, 66.25220334025373, 36.658320186926375)
+[26Sep2025 03:29:59.795] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 03:29:59.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 03:29:59.843] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 03:30:00.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 03:30:00.211] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 03:30:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> tan dificil es revisar la mision y reclamar el aparato con el que puedes matar al angel?
+[26Sep2025 03:30:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> se
+[26Sep2025 03:30:13.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 03:30:21.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Broken Shield ]
+[26Sep2025 03:30:29.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Timed out
+[26Sep2025 03:30:29.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 03:30:29.934] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 03:30:32.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 03:30:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> todo se fue a la pta mierda
+[26Sep2025 03:30:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> no me digas
+[26Sep2025 03:30:53.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> cuida el faro
+[26Sep2025 03:30:54.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:52883] logged in with entity id 413962 at (62.528883859688875, 66.25220334025373, 36.658320186926375)
+[26Sep2025 03:30:54.145] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 03:30:54.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 03:30:54.194] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 03:30:54.690] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 03:30:54.690] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 03:31:24.000] [Server thread/INFO] [Scaling Health/]: Blight Hippogryph was killed by ServerZero
+[26Sep2025 03:31:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> soy yo o vi un zombie con barra de boss?
+[26Sep2025 03:32:02.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no es insta
+[26Sep2025 03:32:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> es esa cosa?
+[26Sep2025 03:32:06.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> use comando
+[26Sep2025 03:32:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> haa
+[26Sep2025 03:32:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> lo mate rapido
+[26Sep2025 03:32:16.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> ami me salio un esqueleto de esos
+[26Sep2025 03:32:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> esa cosa hace un sonido
+[26Sep2025 03:32:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> mato a todos no?
+[26Sep2025 03:32:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> y lo tienes que atacar en ese breve instante
+[26Sep2025 03:32:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> el agel
+[26Sep2025 03:32:39.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> haa gracias
+[26Sep2025 03:33:01.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> a ver pruebalo de nuevo
+[26Sep2025 03:33:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> cuando encuentre uno lo haré
+[26Sep2025 03:33:28.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> atacalo
+[26Sep2025 03:33:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ahora
+[26Sep2025 03:34:01.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ves
+[26Sep2025 03:34:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> es corto el tiempo
+[26Sep2025 03:34:11.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> eso lo hace dificil
+[26Sep2025 03:34:24.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> tiene sentido, ahí la dificulta
+[26Sep2025 03:34:34.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> iré a explorar
+[26Sep2025 03:34:37.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> chucha
+[26Sep2025 03:34:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q
+[26Sep2025 03:34:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> si tienes 2 o mas
+[26Sep2025 03:34:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> los puedes usar rapido XD
+[26Sep2025 03:34:55.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> asi aumentas el tiempo
+[26Sep2025 03:35:04.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to -25.500000, 63.500000, 8.500000]
+[26Sep2025 03:35:07.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> ya lo intente
+[26Sep2025 03:35:12.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> tiene delay
+[26Sep2025 03:35:16.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> si
+[26Sep2025 03:35:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 03:35:22.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> como las ender pearls
+[26Sep2025 03:35:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> oe normal puedo tradear o tengo q pagar tributo al dios sebas?
+[26Sep2025 03:36:06.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> normal tradeas XD
+[26Sep2025 03:36:09.141] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-59, -18], discarding
+[26Sep2025 03:36:09.197] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
+[26Sep2025 03:36:09.197] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-66, -18], discarding
+[26Sep2025 03:36:12.492] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-59, -17], discarding
+[26Sep2025 03:36:12.493] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-58, -17], discarding
+[26Sep2025 03:36:14.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> ok
+[26Sep2025 03:36:16.413] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-59, -16], discarding
+[26Sep2025 03:36:16.418] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-57, -16], discarding
+[26Sep2025 03:36:16.419] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-58, -16], discarding

@@ -7905,5 +7905,17 @@
     },
     "done": true
   },
+  "death_angels:throwable_bottle_advancement": {
+    "criteria": {
+      "throwable_bottle_advancement_0": "2025-09-26 03:25:07 +0000"
+    },
+    "done": true
+  },
+  "death_angels:broken_shield_advancement": {
+    "criteria": {
+      "broken_shield_advancement_0": "2025-09-26 03:30:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
