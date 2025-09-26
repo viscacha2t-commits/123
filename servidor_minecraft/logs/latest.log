@@ -1613,3 +1613,86 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [26Sep2025 02:14:10.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> asi se llamaba
 [26Sep2025 02:14:27.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> matiw
 [26Sep2025 02:14:28.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 moved too quickly! 8.822960084618387,1.7967356006687112,-4.645948308559287
+[26Sep2025 02:14:32.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> tu pa mi team
+[26Sep2025 02:14:35.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> igual los carreo
+[26Sep2025 02:14:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> se q soy manco pero no pa tanto
+[26Sep2025 02:14:59.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no pe
+[26Sep2025 02:15:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> 4 vs 2
+[26Sep2025 02:15:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no vale pe
+[26Sep2025 02:15:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> eso significa q puedo robar a gustavo?
+[26Sep2025 02:15:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> Si
+[26Sep2025 02:15:34.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> seria 3 vs 3
+[26Sep2025 02:15:53.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> entonces si
+[26Sep2025 02:15:53.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Timed out
+[26Sep2025 02:15:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 02:15:53.327] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 02:16:06.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> tu, yo, zu vs edys (TRAIDOR TREMENDO HIJO DE PUTA), jojajo y gustavo
+[26Sep2025 02:16:16.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:56207] logged in with entity id 555313 at (188.15796389619803, 81.0, 0.274097825759596)
+[26Sep2025 02:16:16.834] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 02:16:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 02:16:16.879] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 02:16:17.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 02:16:17.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 02:16:22.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:16:23.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:16:23.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c) successfully connected to voice chat
+[26Sep2025 02:16:32.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> odio mi internet
+[26Sep2025 02:16:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> tu, yo, zu vs edys (TRAIDOR TREMENDO HIJO DE PUTA), jojajo y gustavo
+[26Sep2025 02:16:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> me parece un trato justo
+[26Sep2025 02:17:32.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> con q juega edy?
+[26Sep2025 02:17:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> como haci?
+[26Sep2025 02:17:53.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> q tipo de arma
+[26Sep2025 02:17:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> cualquiera
+[26Sep2025 02:18:02.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> con todos es malo
+[26Sep2025 02:18:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> xd
+[26Sep2025 02:18:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> gustavo y jojajo juegan con arco
+[26Sep2025 02:18:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> el arco de dragon de hielo es el mas peligroso
+[26Sep2025 02:18:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> capaz de dormirte de 2 o 1 flechazo
+[26Sep2025 02:19:11.020] [Server thread/INFO] [Scaling Health/]: Blight Death Angel Baby has died
+[26Sep2025 02:19:13.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:19:14.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> entonces escudo salva
+[26Sep2025 02:19:19.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> si
+[26Sep2025 02:19:23.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> o totem
+[26Sep2025 02:19:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> pero popeas rapido
+[26Sep2025 02:20:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> cuando pelie con jojajo con todos lso mods
+[26Sep2025 02:20:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> me cacho solo por su arquito de mrd
+[26Sep2025 02:20:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> bueno yo he jugado con hacha toda mi vida
+[26Sep2025 02:20:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> pero a espada lo cache
+[26Sep2025 02:21:13.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 13133ebe-b886-3647-9c3a-d7746df0599c timed out
+[26Sep2025 02:21:13.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pepitogamer2301
+[26Sep2025 02:21:13.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 02:21:29.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:21:30.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:21:30.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c) successfully connected to voice chat
+[26Sep2025 02:21:32.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Timed out
+[26Sep2025 02:21:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 02:21:32.378] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 02:21:45.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:53925] logged in with entity id 626612 at (144.30000001192093, 62.0, -92.54308752559523)
+[26Sep2025 02:21:45.087] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 02:21:45.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 02:21:45.131] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 02:21:45.676] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 02:21:45.677] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 02:21:54.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:21:55.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:21:55.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c) successfully connected to voice chat
+[26Sep2025 02:22:31.160] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{pepitogamer2301})
+[26Sep2025 02:22:31.326] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{pepitogamer2301})
+[26Sep2025 02:22:31.529] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{pepitogamer2301})
+[26Sep2025 02:22:32.029] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{pepitogamer2301})
+[26Sep2025 02:24:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Killed ServerZero]
+[26Sep2025 02:24:25.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[26Sep2025 02:24:41.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 999999 experience levels to ServerZero]
+[26Sep2025 02:24:41.903] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:42.104] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:42.253] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:42.404] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:42.575] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:42.704] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:42.903] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:43.057] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:43.203] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:43.355] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:43.503] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:43.654] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
+[26Sep2025 02:24:43.804] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{ServerZero})
