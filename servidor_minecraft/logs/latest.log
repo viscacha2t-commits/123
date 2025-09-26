@@ -1742,3 +1742,185 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [26Sep2025 02:34:12.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> en ves de reforzar todo
 [26Sep2025 02:34:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> podia cubrir todo con obsidiana XD
 [26Sep2025 02:34:38.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> xd
+[26Sep2025 02:35:31.428] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a837558[id=<null>,name=asrielmanrique,properties={},legacy=false] (/127.241.184.241:60429) lost connection: Disconnected
+[26Sep2025 02:36:26.328] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d68785b[id=<null>,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:48477) lost connection: Disconnected
+[26Sep2025 02:36:32.590] [Server thread/INFO] [Easy NPC/]: Opening menu 022733cc-7028-4b21-a218-4a0e12f4c850 for npc 891d41be-c469-447a-bf26-3135a25895a7 and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-63.76, y=64.00, z=8.49] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Enchantaments]}]
+[26Sep2025 02:36:37.633] [Server thread/INFO] [Easy NPC/]: Opening menu d0413ba8-11c3-4edb-ae17-91b549028277 for npc 891d41be-c469-447a-bf26-3135a25895a7 and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-63.78, y=64.00, z=8.49] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Enchantaments]}]
+[26Sep2025 02:36:37.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> y donde cambio deditas?
+[26Sep2025 02:36:40.899] [Server thread/INFO] [Easy NPC/]: Opening menu cfcd830e-8c3e-4ba1-b96f-f146386fc6ba for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.51, y=64.00, z=10.48] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Webadas]}]
+[26Sep2025 02:36:41.878] [Server thread/INFO] [Easy NPC/]: Opening menu 4b0b2ede-d9de-45e9-91ea-621cabf0e8b0 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:43.100] [Server thread/INFO] [Easy NPC/]: Opening menu 584a81c5-dd05-47eb-8f20-7b8d12e0cab9 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:43.977] [Server thread/INFO] [Easy NPC/]: Opening menu 9bcc2e2c-044a-4987-9f6a-d7f56c38d773 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:44.683] [Server thread/INFO] [Easy NPC/]: Opening menu 67a0f799-0a7e-4987-abef-925deb8b9ec5 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:45.899] [Server thread/INFO] [Easy NPC/]: Opening menu fa56b688-71e2-4750-8dad-9a4c3b411fec for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:46.932] [Server thread/INFO] [Easy NPC/]: Opening menu 9bf22cb5-526d-4d55-9a0f-d63ad9e0d014 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:53.532] [Server thread/INFO] [Easy NPC/]: Opening menu b20cc3b7-3690-4efc-8b22-89ef5700a227 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:36:54.929] [Server thread/INFO] [Easy NPC/]: Opening menu b47753e1-553a-4ee2-808f-6fde88ff1169 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:37:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> en donde estaba webon XD
+[26Sep2025 02:37:13.031] [Server thread/INFO] [Easy NPC/]: Opening menu c26fcba8-5ea5-4e29-8cc4-b90c64935a34 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Webadas]}]
+[26Sep2025 02:37:14.027] [Server thread/INFO] [Easy NPC/]: Opening menu 44bb96ea-cf2d-4a16-9b9f-7d886179d7b3 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:37:15.428] [Server thread/INFO] [Easy NPC/]: Opening menu 48882a2a-8ece-4a45-a962-21c827559b94 for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:37:16.030] [Server thread/INFO] [Easy NPC/]: Opening menu c8cb3184-d99a-4890-8cbc-53ce521c7bab for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:37:16.775] [Server thread/INFO] [Easy NPC/]: Opening menu 4dbdc956-b32f-4642-8ffc-f08a3f9c582b for npc 13289115-3a05-4022-9f03-7949c5fa5cbd and player ServerPlayer['ServerZero'/247899, l='ServerLevel[world]', x=-64.52, y=64.00, z=10.48] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Webadas]}]
+[26Sep2025 02:37:25.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> quieres tp?
+[26Sep2025 02:37:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> perame
+[26Sep2025 02:37:32.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no soy coligames a si que normal
+[26Sep2025 02:37:40.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> *culito games
+[26Sep2025 02:37:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> estoy al lado no fui muy lejos
+[26Sep2025 02:39:41.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8 timed out
+[26Sep2025 02:39:41.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ServerZero
+[26Sep2025 02:39:41.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[26Sep2025 02:39:58.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Timed out
+[26Sep2025 02:39:58.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[26Sep2025 02:39:58.324] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[26Sep2025 02:40:28.272] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65a1fdc3[id=<null>,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:50737) lost connection: Disconnected
+[26Sep2025 02:40:36.226] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what grotesque_steve:grotesquesteve is
+[26Sep2025 02:40:36.226] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what grotesque_steve:grotesquesteve is
+[26Sep2025 02:40:36.226] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what grotesque_steve:freshbeens is
+[26Sep2025 02:40:36.227] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what grotesque_steve:blackshirt is
+[26Sep2025 02:40:36.227] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what grotesque_steve:orangeshirt is
+[26Sep2025 02:40:36.236] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/reinforced_paper_diamond' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/transportation/paraglider_iron' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/reinforced_paper' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/transportation/paraglider_gold' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/transportation/paraglider_netherite' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/copper_upgrade' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/nether_upgrade' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/transportation/paraglider_diamond' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/reinforced_paper_gold' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/transportation/paraglider_wood' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/reinforced_paper_iron' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.237] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'vc_gliders:recipes/misc/reinforced_paper_netherite' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[26Sep2025 02:40:36.243] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_netherite removed now.
+[26Sep2025 02:40:36.244] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_gold removed now.
+[26Sep2025 02:40:36.244] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_iron removed now.
+[26Sep2025 02:40:36.244] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_wood removed now.
+[26Sep2025 02:40:36.244] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_diamond removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_gold removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_iron removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:nether_upgrade removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:copper_upgrade removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_diamond removed now.
+[26Sep2025 02:40:36.245] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_netherite removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_netherite removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_gold removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_iron removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_wood removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_diamond removed now.
+[26Sep2025 02:40:36.246] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_gold removed now.
+[26Sep2025 02:40:36.247] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_iron removed now.
+[26Sep2025 02:40:36.247] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:nether_upgrade removed now.
+[26Sep2025 02:40:36.247] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:copper_upgrade removed now.
+[26Sep2025 02:40:36.247] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:paraglider_diamond removed now.
+[26Sep2025 02:40:36.247] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: vc_gliders:reinforced_paper_netherite removed now.
+[26Sep2025 02:40:36.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.23.59.74:35311] logged in with entity id 880106 at (-1032.2971506485608, 118.0, -661.6999999880791)
+[26Sep2025 02:40:36.252] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnMarshelo
+[26Sep2025 02:40:36.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[26Sep2025 02:40:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Death Angel Advancement]
+[26Sep2025 02:40:36.295] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[26Sep2025 02:40:38.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (20)
+[26Sep2025 02:40:38.182] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[26Sep2025 02:40:42.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=62, z=10} BlockPos{x=-16, y=63, z=11}
+[26Sep2025 02:40:43.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=62, z=9} BlockPos{x=-16, y=63, z=10}
+[26Sep2025 02:40:46.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[26Sep2025 02:40:48.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[26Sep2025 02:40:48.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[26Sep2025 02:41:06.410] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-70, -59], discarding
+[26Sep2025 02:41:06.411] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-69, -59], discarding
+[26Sep2025 02:41:06.411] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-68, -59], discarding
+[26Sep2025 02:41:06.412] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, -59], discarding
+[26Sep2025 02:41:06.413] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, -59], discarding
+[26Sep2025 02:41:06.414] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, -59], discarding
+[26Sep2025 02:41:06.415] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, -59], discarding
+[26Sep2025 02:41:06.463] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, -59], discarding
+[26Sep2025 02:41:06.464] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, -59], discarding
+[26Sep2025 02:41:06.465] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, -59], discarding
+[26Sep2025 02:41:12.854] [VoiceChatPacketProcessingThread/ERROR] [voicechat/]: [voicechat] Uncaught exception in thread VoiceChatPacketProcessingThread
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at de.maxhenkel.voicechat.natives.NativeValidator.initialize(NativeValidator.java:31) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at de.maxhenkel.voicechat.natives.NativeValidator.canUse(NativeValidator.java:64) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at de.maxhenkel.voicechat.natives.OpusManager.createDecoder(OpusManager.java:69) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at de.maxhenkel.voicechat.plugins.impl.VoicechatApiImpl.createDecoder(VoicechatApiImpl.java:49) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at com.armilp.ezvcsurvival.Plugin.onMicrophonePacket(Plugin.java:99) ~[ezvcsurvival-forge-1.20.1-1.4.2.jar%23219!/:forge-1.20.1-1.4.2]
+	at de.maxhenkel.voicechat.plugins.PluginManager.dispatchEvent(PluginManager.java:138) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at de.maxhenkel.voicechat.plugins.PluginManager.onMicPacket(PluginManager.java:238) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at de.maxhenkel.voicechat.voice.server.Server.onMicPacket(Server.java:367) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+	at de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:335) ~[voicechat-forge-1.20.1-2.6.2.jar%23273!/:1.20.1-2.6.2]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 9 more
+[26Sep2025 02:41:14.050] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, -59], discarding
+[26Sep2025 02:41:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was killed by magic
+[26Sep2025 02:41:41.914] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:41:41.914] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Sep2025 02:41:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> marshelo?
+[26Sep2025 02:41:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> sep?
+[26Sep2025 02:42:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was killed by magic
+[26Sep2025 02:42:03.426] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:42:03.426] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:42:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 got ripped apart by a Death Angel
+[26Sep2025 02:42:17.143] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:42:17.144] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:42:22.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> byron?
+[26Sep2025 02:42:33.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was killed by magic
+[26Sep2025 02:42:33.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> no matius
+[26Sep2025 02:42:34.693] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:42:34.693] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:42:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> WAOS
+[26Sep2025 02:42:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo got ripped apart by a Death Angel
+[26Sep2025 02:42:49.501] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:42:49.501] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:42:56.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[26Sep2025 02:42:59.701] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
+[26Sep2025 02:42:59.701] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-44, 2], discarding
+[26Sep2025 02:43:08.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:57023] logged in with entity id 908996 at (-64.46720548796593, 64.0, 16.68840893506001)
+[26Sep2025 02:43:08.604] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ServerZero
+[26Sep2025 02:43:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[26Sep2025 02:43:08.669] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[26Sep2025 02:43:09.310] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (20)
+[26Sep2025 02:43:09.310] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[26Sep2025 02:43:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was killed by magic
+[26Sep2025 02:43:25.647] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:43:25.647] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:43:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to UnMarshelo]
+[26Sep2025 02:43:39.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to pepitogamer2301]
+[26Sep2025 02:43:43.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> perdon
+[26Sep2025 02:43:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ven
+[26Sep2025 02:43:54.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo got ripped apart by a Death Angel
+[26Sep2025 02:43:56.194] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:43:56.194] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:44:03.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> omtas?
+[26Sep2025 02:44:06.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was caught off guard and slashed by a lurking Death Angel
+[26Sep2025 02:44:08.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:44:08.039] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Sep2025 02:44:17.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> eso es menos de lo que te mereces edys
+[26Sep2025 02:44:30.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
+[26Sep2025 02:44:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[26Sep2025 02:44:30.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[26Sep2025 02:44:32.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> weno
+[26Sep2025 02:44:36.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:39675] logged in with entity id 924950 at (-62.70882459421748, 64.0, 17.629713670731533)
+[26Sep2025 02:44:36.157] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ServerZero
+[26Sep2025 02:44:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[26Sep2025 02:44:36.239] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[26Sep2025 02:44:36.488] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (20)
+[26Sep2025 02:44:36.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[26Sep2025 02:44:38.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[26Sep2025 02:44:39.651] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:44:39.651] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:44:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> tenias un creeper cargado en tu entrada
+[26Sep2025 02:44:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was killed by magic
+[26Sep2025 02:44:48.953] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:44:48.953] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Sep2025 02:44:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> tenía?
+[26Sep2025 02:45:00.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:45:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo got ripped apart by a Death Angel
+[26Sep2025 02:45:03.246] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:45:03.246] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 02:45:03.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> tu no

@@ -7881,12 +7881,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "glow_berries": "2025-09-26 02:17:20 +0000"
-    },
-    "done": false
-  },
   "ihfr:bad_dreams": {
     "criteria": {
       "bad_dreams_0": "2025-09-26 01:59:51 +0000"
@@ -7896,6 +7890,18 @@
   "ihfr:meat_meat_meat_everywhere": {
     "criteria": {
       "meat_meat_meat_everywhere_0": "2025-09-26 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-09-26 02:17:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-09-26 02:35:25 +0000"
     },
     "done": true
   },
