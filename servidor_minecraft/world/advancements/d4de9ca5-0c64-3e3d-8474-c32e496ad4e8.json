@@ -7881,5 +7881,17 @@
     },
     "done": true
   },
+  "ihfr:bad_dreams": {
+    "criteria": {
+      "bad_dreams_0": "2025-09-26 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "ihfr:meat_meat_meat_everywhere": {
+    "criteria": {
+      "meat_meat_meat_everywhere_0": "2025-09-26 01:59:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

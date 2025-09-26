@@ -6841,6 +6841,23 @@
 					}
 					type: "item"
 				}
+				{
+					id: "41C6D13B7288C3EF"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+				{
+					count: 29
+					id: "25E7AE030C847107"
+					item: "scalinghealth:heart_crystal"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "7C8D1A415ECF6FEF"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
 			]
 			subtitle: "Sobrevive"
 			tasks: [{
