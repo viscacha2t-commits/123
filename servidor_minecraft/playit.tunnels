@@ -56,36 +56,36 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "thu-lets.gl.at.ply.gg",
+          "assigned_domain": "thursday-margin.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "ed847afb-0385-4dc3-a718-095ee116fc79",
-          "ip_hostname": "16.ip.gl.ply.gg",
+          "id": "8677059f-2b6c-4804-91e7-bbad1ecbb135",
+          "ip_hostname": "19.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 2754,
-          "port_start": 2753,
+          "port_end": 5242,
+          "port_start": 5241,
           "region": "global",
-          "static_ip4": "147.185.221.16",
-          "static_ip6": "2602:fbaf:0:1::10",
-          "tunnel_ip": "147.185.221.16"
+          "static_ip4": "147.185.221.19",
+          "static_ip6": "2602:fbaf:0:1::13",
+          "tunnel_ip": "147.185.221.19"
         },
         "status": "allocated"
       },
-      "created_at": "2025-09-23T21:45:51.124467Z",
+      "created_at": "2025-09-26T21:57:25.929962Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "25809e73-7200-4e40-bfc6-36523ed5bc07",
+      "id": "2c8cad07-6f3c-4552-962a-5aff758f17ff",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "b41ddfb7-59ca-4f19-a915-c7ab314f0693",
           "agent_name": "from-key-0f93",
           "local_ip": "127.0.0.1",
-          "local_port": 2753
+          "local_port": 5241
         },
         "type": "agent"
       },

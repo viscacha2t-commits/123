@@ -1,0 +1,17 @@
+{
+	id: "30e0565a-7301-38dd-9cd6-d56242ab464b"
+	type: "player"
+	player_name: "TilinZ09"
+	ranks: {
+		30e0565a-7301-38dd-9cd6-d56242ab464b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TilinZ09"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
