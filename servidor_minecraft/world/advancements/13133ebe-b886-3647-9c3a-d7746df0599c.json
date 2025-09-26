@@ -2053,21 +2053,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-09-26 03:32:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
     },
     "done": true
   },
@@ -2083,39 +2071,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/smoker_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
-    },
-    "done": true
-  },
   "hangglider:recipes/tools/glider_wing": {
     "criteria": {
       "has_leather": "2025-09-26 03:32:56 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-09-26 03:32:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
     },
     "done": true
   },
@@ -2143,39 +2107,9 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/iron_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-09-26 03:36:26 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-09-26 03:32:56 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/copper_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-09-26 03:36:26 +0000"
-    },
-    "done": true
-  },
-  "packedup:basic_backpack": {
-    "criteria": {
-      "has_backpack": "2025-09-26 03:36:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/tanks_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
     },
     "done": true
   },
@@ -2197,6 +2131,54 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
@@ -2206,6 +2188,24 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-09-26 03:33:08 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-09-26 03:36:26 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-09-26 03:36:26 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-26 03:36:26 +0000"
     },
     "done": true
   },

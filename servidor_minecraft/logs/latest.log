@@ -1699,3 +1699,93 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Sep2025 03:46:38.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Disconnected
 [26Sep2025 03:46:38.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
 [26Sep2025 03:46:38.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 03:48:10.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14cfcaec[id=<null>,name=pepitogamer2301,properties={},legacy=false] (/127.247.235.92:39695) lost connection: Disconnected
+[26Sep2025 03:48:14.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:38813] logged in with entity id 711992 at (132.72248065034518, 63.0, -50.423659926737464)
+[26Sep2025 03:48:14.011] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 03:48:14.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 03:48:14.059] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 03:48:14.562] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 03:48:14.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 03:48:23.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 03:48:35.116] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-81, -22], discarding
+[26Sep2025 03:48:35.118] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-82, -22], discarding
+[26Sep2025 03:48:39.308] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-82, -21], discarding
+[26Sep2025 03:48:39.309] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
+[26Sep2025 03:48:39.309] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-81, -21], discarding
+[26Sep2025 03:48:39.512] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id grotesque_steve:grotesquespawn
+[26Sep2025 03:48:40.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo moved wrongly!
+[26Sep2025 03:48:42.020] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:sign
+[26Sep2025 03:48:42.020] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:sign' in chunk [-82, -19], discarding
+[26Sep2025 03:50:15.007] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-80, -3], discarding
+[26Sep2025 03:50:15.008] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-79, -3], discarding
+[26Sep2025 03:50:15.009] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, -3], discarding
+[26Sep2025 03:50:15.011] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, -3], discarding
+[26Sep2025 03:50:15.011] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, -3], discarding
+[26Sep2025 03:50:15.013] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, -3], discarding
+[26Sep2025 03:50:15.013] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, -3], discarding
+[26Sep2025 03:50:15.014] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, -3], discarding
+[26Sep2025 03:50:15.015] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, -3], discarding
+[26Sep2025 03:50:15.016] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, -3], discarding
+[26Sep2025 03:50:18.805] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-80, -2], discarding
+[26Sep2025 03:50:18.806] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-79, -2], discarding
+[26Sep2025 03:50:18.808] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, -2], discarding
+[26Sep2025 03:50:18.810] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, -2], discarding
+[26Sep2025 03:50:18.810] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, -2], discarding
+[26Sep2025 03:50:18.811] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, -2], discarding
+[26Sep2025 03:50:18.812] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, -2], discarding
+[26Sep2025 03:50:18.813] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, -2], discarding
+[26Sep2025 03:50:18.814] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, -2], discarding
+[26Sep2025 03:50:18.815] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, -2], discarding
+[26Sep2025 03:50:23.698] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-79, -1], discarding
+[26Sep2025 03:50:23.698] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, -1], discarding
+[26Sep2025 03:50:23.700] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, -1], discarding
+[26Sep2025 03:50:23.700] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-80, -1], discarding
+[26Sep2025 03:50:23.701] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, -1], discarding
+[26Sep2025 03:50:23.702] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, -1], discarding
+[26Sep2025 03:50:23.703] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, -1], discarding
+[26Sep2025 03:50:23.704] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, -1], discarding
+[26Sep2025 03:50:23.713] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, -1], discarding
+[26Sep2025 03:50:23.714] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, -1], discarding
+[26Sep2025 03:50:32.110] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-79, 0], discarding
+[26Sep2025 03:50:32.111] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, 0], discarding
+[26Sep2025 03:50:32.112] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, 0], discarding
+[26Sep2025 03:50:32.114] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, 0], discarding
+[26Sep2025 03:50:32.115] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, 0], discarding
+[26Sep2025 03:50:32.116] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-80, 0], discarding
+[26Sep2025 03:50:32.173] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, 0], discarding
+[26Sep2025 03:50:32.247] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, 0], discarding
+[26Sep2025 03:50:32.248] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, 0], discarding
+[26Sep2025 03:50:32.250] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, 0], discarding
+[26Sep2025 03:50:35.803] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -1], discarding
+[26Sep2025 03:50:37.108] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, 1], discarding
+[26Sep2025 03:50:37.109] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, 1], discarding
+[26Sep2025 03:50:37.150] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, 1], discarding
+[26Sep2025 03:50:37.153] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, 1], discarding
+[26Sep2025 03:50:37.160] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-80, 1], discarding
+[26Sep2025 03:50:37.161] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-79, 1], discarding
+[26Sep2025 03:50:37.162] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, 1], discarding
+[26Sep2025 03:50:37.163] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, 1], discarding
+[26Sep2025 03:50:37.206] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, 1], discarding
+[26Sep2025 03:50:37.210] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, 1], discarding
+[26Sep2025 03:50:40.800] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-61, -1], discarding
+[26Sep2025 03:50:42.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ pepitogamer2301 ha consumido un tótem!
+[26Sep2025 03:50:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> CRJO
+[26Sep2025 03:50:45.046] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-79, 2], discarding
+[26Sep2025 03:50:45.047] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-78, 2], discarding
+[26Sep2025 03:50:45.049] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-77, 2], discarding
+[26Sep2025 03:50:45.052] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-80, 2], discarding
+[26Sep2025 03:50:45.120] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, 2], discarding
+[26Sep2025 03:50:45.137] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-61, 2], discarding
+[26Sep2025 03:50:45.209] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, 2], discarding
+[26Sep2025 03:50:45.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> xd?
+[26Sep2025 03:50:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
+[26Sep2025 03:50:56.756] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 03:50:56.756] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Sep2025 03:50:59.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> Se EDY XD
+[26Sep2025 03:51:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> esq tenia zombificazion
+[26Sep2025 03:51:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> Q?
+[26Sep2025 03:51:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> solo caminava
+[26Sep2025 03:52:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo got ripped apart by a Death Angel
+[26Sep2025 03:52:54.788] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 03:52:54.789] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Sep2025 03:52:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD

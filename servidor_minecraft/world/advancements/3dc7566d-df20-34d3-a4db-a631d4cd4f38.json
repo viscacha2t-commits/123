@@ -2084,6 +2084,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-09-26 03:48:55 +0000",
       "entered_pillager_camp": "2025-09-20 00:53:40 +0000",
       "entered_hay_storage": "2025-08-10 22:04:01 +0000",
       "entered_fishing_ship": "2025-09-20 23:31:40 +0000",
