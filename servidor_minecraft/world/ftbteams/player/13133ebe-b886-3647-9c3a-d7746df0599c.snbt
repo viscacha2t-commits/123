@@ -1,0 +1,17 @@
+{
+	id: "13133ebe-b886-3647-9c3a-d7746df0599c"
+	type: "player"
+	player_name: "pepitogamer2301"
+	ranks: {
+		13133ebe-b886-3647-9c3a-d7746df0599c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pepitogamer2301"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

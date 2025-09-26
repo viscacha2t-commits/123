@@ -1009,3 +1009,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [26Sep2025 01:14:12.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [0, -34], discarding
 [26Sep2025 01:18:21.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to -25.500000, 63.500000, 8.500000]
 [26Sep2025 01:21:21.020] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[26Sep2025 01:27:53.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[26Sep2025 01:28:17.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:33355] logged in with entity id 155980 at (10.5, 63.0, -9.5)
+[26Sep2025 01:28:17.888] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 01:28:17.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 01:28:17.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Death Angel Advancement]
+[26Sep2025 01:28:17.986] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 01:28:18.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Ice and Fire]
+[26Sep2025 01:28:19.374] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 01:28:19.375] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 01:28:23.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> CRJO
+[26Sep2025 01:28:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ROMPEN TODO PTMA
+[26Sep2025 01:28:30.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 01:28:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> EL SPAWN XD
+[26Sep2025 01:28:31.332] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 01:28:31.332] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c) successfully connected to voice chat
+[26Sep2025 01:29:17.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 moved too quickly! -9.206558426361877,0.8338907390617862,4.055461501946121
+[26Sep2025 01:29:48.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Disconnected
+[26Sep2025 01:29:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 01:29:48.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 01:29:48.073] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Sep2025 01:29:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 01:31:04.420] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@167d7d1c[id=<null>,name=pepitogamer2301,properties={},legacy=false] (/127.247.235.92:54297) lost connection: Disconnected
+[26Sep2025 01:31:11.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:58119] logged in with entity id 179530 at (-3.5667250468400042, 67.0, 4.703718209481963)
+[26Sep2025 01:31:11.188] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 01:31:11.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 01:31:11.244] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 01:31:11.641] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 01:31:11.642] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 01:31:22.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 01:31:24.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 01:31:24.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c) successfully connected to voice chat
+[26Sep2025 01:31:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> q fue?
+[26Sep2025 01:32:06.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> reclama tu kit
+[26Sep2025 01:32:12.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> no se como
+[26Sep2025 01:32:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> xd
+[26Sep2025 01:32:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> entra a controles
+[26Sep2025 01:32:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> busca ftb quest
+[26Sep2025 01:33:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> q fue?
+[26Sep2025 01:33:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> ya me dieron un stack de deiditas
+[26Sep2025 01:33:32.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> de paso configura tu voice chat
+[26Sep2025 01:33:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 01:33:37.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> si pe
+[26Sep2025 01:33:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> reclama todo lo gratis
+[26Sep2025 01:33:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> no voy a usar eso
