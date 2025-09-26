@@ -1518,3 +1518,98 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [26Sep2025 02:02:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> shiftea
 [26Sep2025 02:02:38.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> creo q no voy a dormir en un buen rato
 [26Sep2025 02:02:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> asi no te escuchan
+[26Sep2025 02:04:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> acaba de salir un creeper cargado del suelo?
+[26Sep2025 02:04:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:04:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> si
+[26Sep2025 02:04:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> spawn animation
+[26Sep2025 02:04:42.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> mrd
+[26Sep2025 02:05:04.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> necesito antorchas
+[26Sep2025 02:05:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:05:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> hermano
+[26Sep2025 02:05:17.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> por eso debes leer el libro
+[26Sep2025 02:05:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Monster Hunter]
+[26Sep2025 02:06:05.036] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{pepitogamer2301})
+[26Sep2025 02:06:25.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Not Today, Thank You]
+[26Sep2025 02:08:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> como me curo la zombificacion
+[26Sep2025 02:08:27.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:08:28.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ptma
+[26Sep2025 02:08:29.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> o no hace nada?
+[26Sep2025 02:08:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> te mata insta
+[26Sep2025 02:08:34.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 died
+[26Sep2025 02:08:35.757] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Sep2025 02:08:35.757] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Sep2025 02:08:36.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> o popea totem
+[26Sep2025 02:08:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no tienes totem?
+[26Sep2025 02:08:49.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> o esque tengo que regalar 50?
+[26Sep2025 02:08:50.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> creo q si leo el libro
+[26Sep2025 02:09:22.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> esq en la mano secundaria tengo escudo
+[26Sep2025 02:10:08.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> en esta serie conseguimos todo a mano y tradeos
+[26Sep2025 02:10:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:10:14.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> en el spawn
+[26Sep2025 02:10:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> si sabes no?
+[26Sep2025 02:10:21.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> Y LOS COMANDOS Q?
+[26Sep2025 02:10:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> como que comandos?
+[26Sep2025 02:11:24.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> me vas a decir q el rayo cayo de suerte
+[26Sep2025 02:11:29.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no
+[26Sep2025 02:11:38.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> eso fue el hacha de lingote electrico
+[26Sep2025 02:11:38.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Stone Age]
+[26Sep2025 02:11:41.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[26Sep2025 02:11:45.283] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-54, 1], discarding
+[26Sep2025 02:11:45.284] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-54, 2], discarding
+[26Sep2025 02:11:45.288] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-55, 1], discarding
+[26Sep2025 02:11:45.289] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-55, 2], discarding
+[26Sep2025 02:11:45.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-56, 1], discarding
+[26Sep2025 02:11:45.294] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-56, 2], discarding
+[26Sep2025 02:11:45.298] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-57, 1], discarding
+[26Sep2025 02:11:45.299] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-57, 2], discarding
+[26Sep2025 02:11:45.303] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-58, 1], discarding
+[26Sep2025 02:11:45.304] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-58, 2], discarding
+[26Sep2025 02:11:45.308] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-59, 1], discarding
+[26Sep2025 02:11:45.309] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-59, 2], discarding
+[26Sep2025 02:11:45.313] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-60, 1], discarding
+[26Sep2025 02:11:45.314] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-60, 2], discarding
+[26Sep2025 02:11:45.317] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-61, 1], discarding
+[26Sep2025 02:11:45.318] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-61, 2], discarding
+[26Sep2025 02:11:45.323] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, 2], discarding
+[26Sep2025 02:11:45.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, 0], discarding
+[26Sep2025 02:11:45.976] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, 1], discarding
+[26Sep2025 02:11:45.977] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, 2], discarding
+[26Sep2025 02:11:45.980] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-71, 3], discarding
+[26Sep2025 02:11:45.986] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, 1], discarding
+[26Sep2025 02:11:45.987] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, 2], discarding
+[26Sep2025 02:11:45.988] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-72, 3], discarding
+[26Sep2025 02:11:45.991] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, 1], discarding
+[26Sep2025 02:11:45.992] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, 2], discarding
+[26Sep2025 02:11:45.993] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-73, 3], discarding
+[26Sep2025 02:11:45.996] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, 1], discarding
+[26Sep2025 02:11:45.997] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:mineshaft
+[26Sep2025 02:11:45.997] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, 2], discarding
+[26Sep2025 02:11:45.998] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-74, 3], discarding
+[26Sep2025 02:11:46.002] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, 1], discarding
+[26Sep2025 02:11:46.003] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, 2], discarding
+[26Sep2025 02:11:46.004] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-75, 3], discarding
+[26Sep2025 02:11:46.007] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, 1], discarding
+[26Sep2025 02:11:46.008] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, 2], discarding
+[26Sep2025 02:11:46.010] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-76, 3], discarding
+[26Sep2025 02:11:59.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> q shit
+[26Sep2025 02:12:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Getting an Upgrade]
+[26Sep2025 02:12:25.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no sabes XD?
+[26Sep2025 02:12:54.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Timed out
+[26Sep2025 02:12:54.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[26Sep2025 02:12:54.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepitogamer2301
+[26Sep2025 02:12:58.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[26Sep2025 02:13:07.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.247.235.92:34889] logged in with entity id 525232 at (189.61466783992836, 81.0, 12.12359274643403)
+[26Sep2025 02:13:07.935] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pepitogamer2301
+[26Sep2025 02:13:07.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[26Sep2025 02:13:07.978] [Server thread/INFO] [Jade/]: Syncing config to pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c)
+[26Sep2025 02:13:08.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepitogamer2301 (20)
+[26Sep2025 02:13:08.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepitogamer2301
+[26Sep2025 02:13:16.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:13:17.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 13133ebe-b886-3647-9c3a-d7746df0599c
+[26Sep2025 02:13:17.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepitogamer2301 (13133ebe-b886-3647-9c3a-d7746df0599c) successfully connected to voice chat
+[26Sep2025 02:13:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> wtf me acaban de dar una mision sin nombre
+[26Sep2025 02:13:53.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD?
+[26Sep2025 02:13:54.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> cual?
+[26Sep2025 02:14:10.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> asi se llamaba
+[26Sep2025 02:14:27.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> matiw
+[26Sep2025 02:14:28.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 moved too quickly! 8.822960084618387,1.7967356006687112,-4.645948308559287
