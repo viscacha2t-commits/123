@@ -55,9 +55,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-09-27 00:07:06 +0000",
       "minecraft:beach": "2025-09-26 22:28:41 +0000",
       "minecraft:river": "2025-09-26 22:28:11 +0000",
+      "minecraft:swamp": "2025-09-27 00:04:52 +0000",
       "minecraft:forest": "2025-09-26 22:19:38 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-09-27 00:04:17 +0000",
       "minecraft:plains": "2025-09-26 22:21:07 +0000"
     },
     "done": false
@@ -83,12 +86,6 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-26 22:28:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-09-26 22:30:24 +0000"
     },
     "done": true
   },
@@ -185,6 +182,1052 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-26 22:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-09-26 22:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-27 00:03:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_pike": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_pike": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_scythe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_boomerang": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_boomerang": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_greatsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-09-26 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_halberd": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_longsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-27 00:04:06 +0000",
+      "minecraft:spider": "2025-09-27 00:04:41 +0000",
+      "minecraft:zombie": "2025-09-27 00:04:45 +0000"
+    },
+    "done": false
+  },
+  "spartanfire:recipes/lightning_dragon_bone_rapier": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_glaive": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_warhammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_lance": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-09-26 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_javelin": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_saber": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_katana": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-09-27 00:04:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_halberd": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-09-26 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_javelin": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_spear": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_spear": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-09-26 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_boomerang": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_halberd": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_greatsword": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-09-26 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 23:40:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_saber": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_katana": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_lance": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_pike": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_javelin": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_glaive": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_longbow": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_rapier": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-09-26 23:53:37 +0000"
+    },
+    "done": true
+  },
+  "golden_apple_tree:recipes/food/enchanted_golden_apple_sapling": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-26 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-27 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-26 23:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-09-27 00:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_katana": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_scythe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-27 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_glaive": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_longbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-09-27 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_rapier": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-09-27 00:04:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_warhammer": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-09-26 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_warhammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_spear": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_greatsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-27 00:04:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-09-27 00:06:48 +0000"
+    },
+    "done": false
+  },
+  "spartanfire:recipes/lightning_dragon_bone_scythe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-09-26 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/iced_dragon_bone_lance": {
+    "criteria": {
+      "has_ice_dragon_blood": "2025-09-26 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_saber": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-09-26 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-26 23:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-26 23:36:55 +0000"
     },
     "done": true
   },

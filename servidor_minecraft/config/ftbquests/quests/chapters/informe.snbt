@@ -32,7 +32,7 @@
 			type: "item"
 		}]
 		tasks: [{
-			advancement: "minecraft:story/root"
+			advancement: "minecraft:story/mine_stone"
 			criterion: ""
 			icon: {
 				Count: 1

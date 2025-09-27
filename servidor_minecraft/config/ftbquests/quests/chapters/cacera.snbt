@@ -1027,25 +1027,6 @@
 		}
 		{
 			can_repeat: true
-			id: "1B0D2DECB0C29960"
-			rewards: [
-				{
-					count: 64
-					id: "76311F11BF829E65"
-					item: "dedsafio3:dedita"
-					type: "item"
-				}
-				{
-					id: "2917E0050DBCA485"
-					type: "xp_levels"
-					xp_levels: 32
-				}
-			]
-			x: -19.0d
-			y: -1.5d
-		}
-		{
-			can_repeat: true
 			id: "7F0794C760ACEF38"
 			rewards: [
 				{
@@ -1465,6 +1446,31 @@
 			}]
 			x: 4.5d
 			y: -0.5d
+		}
+		{
+			id: "2C82CB897F8AB7E3"
+			rewards: [
+				{
+					count: 5
+					id: "63904C2A46FB6BEA"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					id: "3902936DDA6B94BC"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "death_angels:death_angel"
+				icon: "death_angels:death_angel_bone"
+				id: "2A334CAB0AC34D2E"
+				type: "kill"
+				value: 5L
+			}]
+			x: -8.0d
+			y: -1.5d
 		}
 	]
 	title: "Cacería"

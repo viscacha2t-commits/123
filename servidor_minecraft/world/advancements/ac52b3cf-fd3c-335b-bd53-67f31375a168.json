@@ -2018,6 +2018,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-26 23:21:15 +0000",
       "chicken": "2025-07-23 21:01:15 +0000",
       "cooked_mutton": "2025-07-13 19:25:30 +0000",
       "sweet_berries": "2025-07-26 01:13:46 +0000",
@@ -6261,6 +6262,42 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-09-17 00:25:42 +0000"
+    },
+    "done": true
+  },
+  "death_angels:death_angel_advancement": {
+    "criteria": {
+      "death_angel_advancement_0": "2025-09-26 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-26 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-09-26 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "ihfr:i_hate_flesh": {
+    "criteria": {
+      "i_hate_flesh_0": "2025-09-26 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-09-26 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-09-26 22:56:08 +0000"
     },
     "done": true
   },
