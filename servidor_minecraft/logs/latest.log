@@ -1088,3 +1088,8 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [28Sep2025 22:33:24.233] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
 [28Sep2025 22:33:24.430] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
 [28Sep2025 22:33:24.628] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[28Sep2025 22:44:52.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[28Sep2025 22:44:52.585] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for UnMarshelo with unique ID travelersbackpack.ghast_28.09.2025-22.44.52.dat
+[28Sep2025 22:44:53.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Sep2025 22:44:53.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Sep2025 22:50:56.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
