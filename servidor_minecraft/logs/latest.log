@@ -1018,3 +1018,19 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [28Sep2025 21:46:21.046] [Server thread/INFO] [Scaling Health/]: Blight Vindicator was killed by C0LIGAMES
 [28Sep2025 21:47:04.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
 [28Sep2025 21:49:38.438] [Server thread/INFO] [Scaling Health/]: Blight Inquisitor has died
+[28Sep2025 21:50:36.642] [Server thread/INFO] [Scaling Health/]: Blight Vindicator was killed by C0LIGAMES
+[28Sep2025 21:54:55.872] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-33, -53], discarding
+[28Sep2025 21:54:55.948] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-32, -53], discarding
+[28Sep2025 21:54:55.950] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-31, -53], discarding
+[28Sep2025 21:55:14.379] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-34, -54], discarding
+[28Sep2025 21:55:14.380] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-33, -54], discarding
+[28Sep2025 21:55:14.381] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-32, -54], discarding
+[28Sep2025 21:55:14.382] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-31, -54], discarding
+[28Sep2025 21:55:19.710] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-35, -55], discarding
+[28Sep2025 21:55:19.720] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-34, -55], discarding
+[28Sep2025 21:55:19.731] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-33, -55], discarding
+[28Sep2025 21:55:24.761] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-37, -56], discarding
+[28Sep2025 21:55:24.762] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-36, -56], discarding
+[28Sep2025 21:55:41.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -9.519621657832886,-2.8140622002047166,-2.590774280276605
+[28Sep2025 21:56:02.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -8.796820774683056,-2.9703989891049787,4.615960544213976
+[28Sep2025 21:58:16.028] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES
