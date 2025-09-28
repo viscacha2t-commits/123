@@ -1073,3 +1073,18 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [28Sep2025 22:21:04.084] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -53], discarding
 [28Sep2025 22:21:12.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ C0LIGAMES ha consumido un tótem!
 [28Sep2025 22:25:31.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[28Sep2025 22:31:48.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.23.59.74:58639] logged in with entity id 369999 at (-1080.45465588565, 50.0, -768.7476713513189)
+[28Sep2025 22:31:48.425] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player UnMarshelo
+[28Sep2025 22:31:48.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[28Sep2025 22:31:48.522] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[28Sep2025 22:31:51.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (20)
+[28Sep2025 22:31:51.117] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[28Sep2025 22:32:01.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[28Sep2025 22:32:03.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[28Sep2025 22:32:03.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[28Sep2025 22:32:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Holas
+[28Sep2025 22:32:42.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> holas
+[28Sep2025 22:32:59.874] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by UnMarshelo
+[28Sep2025 22:33:24.233] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[28Sep2025 22:33:24.430] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[28Sep2025 22:33:24.628] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
