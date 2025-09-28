@@ -1064,3 +1064,12 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [28Sep2025 22:18:42.348] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
 [28Sep2025 22:18:42.348] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-82, -66], discarding
 [28Sep2025 22:19:52.678] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id grotesque_steve:grotesquespawn
+[28Sep2025 22:20:41.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.2761451808773927,22.149259736305538,0.5209482941422721
+[28Sep2025 22:21:04.079] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -56], discarding
+[28Sep2025 22:21:04.080] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -55], discarding
+[28Sep2025 22:21:04.081] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -54], discarding
+[28Sep2025 22:21:04.082] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -52], discarding
+[28Sep2025 22:21:04.083] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -51], discarding
+[28Sep2025 22:21:04.084] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-89, -53], discarding
+[28Sep2025 22:21:12.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ C0LIGAMES ha consumido un tótem!
+[28Sep2025 22:25:31.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
