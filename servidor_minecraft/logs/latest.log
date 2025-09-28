@@ -893,3 +893,128 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [28Sep2025 21:18:02.851] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
 [28Sep2025 21:18:02.852] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-82, -66], discarding
 [28Sep2025 21:25:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZZZ
+[28Sep2025 21:32:43.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.51.224.50:39313] logged in with entity id 187592 at (-1081.3771558757137, 114.0, -722.009998056121)
+[28Sep2025 21:32:43.943] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Anzu_ara
+[28Sep2025 21:32:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Sep2025 21:32:44.063] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[28Sep2025 21:32:45.402] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (20)
+[28Sep2025 21:32:45.403] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[28Sep2025 21:32:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[28Sep2025 21:33:14.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[28Sep2025 21:33:14.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Sep2025 21:33:14.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[28Sep2025 21:33:14.054] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Sep2025 21:33:15.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[28Sep2025 21:35:03.951] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a2a1f2f[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.51.224.50:39399) lost connection: Disconnected
+[28Sep2025 21:35:55.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[28Sep2025 21:36:02.101] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1ed84a49[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.51.224.50:49363): Took too long to log in
+[28Sep2025 21:36:02.102] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ed84a49[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.51.224.50:49363) lost connection: Took too long to log in
+[28Sep2025 21:36:02.150] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Sep2025 21:39:14.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4215664d[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.51.224.50:55387): Took too long to log in
+[28Sep2025 21:39:14.500] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4215664d[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.51.224.50:55387) lost connection: Took too long to log in
+[28Sep2025 21:39:14.550] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Sep2025 21:40:07.401] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c6bf6a6[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.51.224.50:47993) lost connection: Disconnected
+[28Sep2025 21:40:25.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.51.224.50:36501] logged in with entity id 220707 at (-1081.3771558757137, 114.0, -722.009998056121)
+[28Sep2025 21:40:25.882] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Anzu_ara
+[28Sep2025 21:40:25.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Sep2025 21:40:25.984] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[28Sep2025 21:40:26.204] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (20)
+[28Sep2025 21:40:26.204] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[28Sep2025 21:41:25.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[28Sep2025 21:41:25.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Sep2025 21:41:25.004] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[28Sep2025 21:43:18.818] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[28Sep2025 21:43:18.819] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: ASM: class ihatefleshreborn.procedures.NightmareEventProcedure onEntityEndSleep(Lnet/minecraftforge/event/entity/player/PlayerWakeUpEvent;)V
+		2: ASM: class net.silentchaos512.scalinghealth.event.CommonEvents onPlayerWakeUp(Lnet/minecraftforge/event/entity/player/PlayerWakeUpEvent;)V
+		3: ASM: class com.tiviacz.travelersbackpack.handlers.NeoForgeEventHandler playerWakeUp(Lnet/minecraftforge/event/entity/player/PlayerWakeUpEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/ihfr@0.1/ihatefleshreborn.procedures.NightmareEventProcedure.execute(NightmareEventProcedure.java:89)
+	at TRANSFORMER/ihfr@0.1/ihatefleshreborn.procedures.NightmareEventProcedure.onEntityEndSleep(NightmareEventProcedure.java:39)
+	at TRANSFORMER/ihfr@0.1/ihatefleshreborn.procedures.__NightmareEventProcedure_onEntityEndSleep_PlayerWakeUpEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPlayerWakeup(ForgeEventFactory.java:525)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6145_(Player.java:1313)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6145_(ServerPlayer.java:911)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5681_(ServerGamePacketListenerImpl.java:1376)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundPlayerCommandPacket.m_5797_(ServerboundPlayerCommandPacket.java:37)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundPlayerCommandPacket.m_5797_(ServerboundPlayerCommandPacket.java:7)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$244(MinecraftServer.java)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.wrapOperation$zcd000$managedBlock(MinecraftServer.java:1856)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[28Sep2025 21:43:18.821] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundPlayerCommandPacket@1f9c1db1, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at ihatefleshreborn.procedures.NightmareEventProcedure.execute(NightmareEventProcedure.java:89) ~[IHFR-Beta-1.jar%23231!/:?]
+	at ihatefleshreborn.procedures.NightmareEventProcedure.onEntityEndSleep(NightmareEventProcedure.java:39) ~[IHFR-Beta-1.jar%23231!/:?]
+	at ihatefleshreborn.procedures.__NightmareEventProcedure_onEntityEndSleep_PlayerWakeUpEvent.invoke(.dynamic) ~[IHFR-Beta-1.jar%23231!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPlayerWakeup(ForgeEventFactory.java:525) ~[forge-1.20.1-47.3.7-universal.jar%23282!/:?]
+	at net.minecraft.world.entity.player.Player.m_6145_(Player.java:1313) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6145_(ServerPlayer.java:911) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5681_(ServerGamePacketListenerImpl.java:1376) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerCommandPacket.m_5797_(ServerboundPlayerCommandPacket.java:37) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.network.protocol.game.ServerboundPlayerCommandPacket.m_5797_(ServerboundPlayerCommandPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$244(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zcd000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Sep2025 21:43:30.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 17.22635205166955,8.824120476062987,12.037867530954713
+[28Sep2025 21:44:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has reached the goal [Someone should put a fence here]
+[28Sep2025 21:44:53.673] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-32, -52], discarding
+[28Sep2025 21:44:53.674] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-31, -52], discarding
+[28Sep2025 21:46:21.046] [Server thread/INFO] [Scaling Health/]: Blight Vindicator was killed by C0LIGAMES
+[28Sep2025 21:47:04.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
+[28Sep2025 21:49:38.438] [Server thread/INFO] [Scaling Health/]: Blight Inquisitor has died

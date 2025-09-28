@@ -11521,6 +11521,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
+    "criteria": {
+      "has_dragonscale_gray": "2025-09-28 21:30:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/keycard_reader": {
     "criteria": {
       "has_stone": "2025-09-28 21:07:33 +0000"
@@ -11542,6 +11548,12 @@
   "securitycraft:recipes/redstone/inventory_scanner": {
     "criteria": {
       "has_stone": "2025-09-28 21:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-28 21:43:07 +0000"
     },
     "done": true
   },
@@ -11590,6 +11602,18 @@
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-09-28 21:07:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_copper_to_dragonscales_copper": {
+    "criteria": {
+      "has_dragonscale_copper": "2025-09-28 21:30:13 +0000"
+    },
+    "done": true
+  },
+  "ihfr:someoneshouldputa_fenceherre": {
+    "criteria": {
+      "someoneshouldputa_fenceherre_0": "2025-09-28 21:44:18 +0000"
     },
     "done": true
   },
