@@ -892,3 +892,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [28Sep2025 21:03:17.834] [Server thread/INFO] [Scaling Health/]: Blight Death Angel was killed by C0LIGAMES
 [28Sep2025 21:18:02.851] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
 [28Sep2025 21:18:02.852] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [-82, -66], discarding
+[28Sep2025 21:25:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZZZ
