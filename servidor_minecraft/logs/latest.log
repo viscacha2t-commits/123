@@ -196,3 +196,36 @@
 [29Sep2025 01:11:54.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
 [29Sep2025 01:11:55.804] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [29Sep2025 01:11:55.804] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[29Sep2025 01:16:41.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[29Sep2025 01:16:43.209] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:16:43.209] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Sep2025 01:16:43.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Sep2025 01:17:30.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[29Sep2025 01:17:31.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo moved too quickly! 0.40894285017270704,-10.479515988882156,-0.05911704840468701
+[29Sep2025 01:17:32.511] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:17:32.511] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Sep2025 01:18:02.391] [Server thread/INFO] [Scaling Health/]: Blight Ghost has died
+[29Sep2025 01:19:30.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
+[29Sep2025 01:19:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by UnMarshelo
+[29Sep2025 01:19:52.873] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:19:52.874] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Sep2025 01:19:58.618] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -81], discarding
+[29Sep2025 01:19:58.620] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -80], discarding
+[29Sep2025 01:19:58.621] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -79], discarding
+[29Sep2025 01:19:58.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -78], discarding
+[29Sep2025 01:19:58.623] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -77], discarding
+[29Sep2025 01:19:58.624] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -76], discarding
+[29Sep2025 01:19:58.626] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-62, -75], discarding
+[29Sep2025 01:20:39.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1100.500000, 50.500000, -756.500000]
+[29Sep2025 01:21:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[29Sep2025 01:21:55.728] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:21:55.728] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Sep2025 01:21:57.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> DX
+[29Sep2025 01:22:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[29Sep2025 01:22:34.750] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:22:34.750] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Sep2025 01:22:35.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Sep2025 01:23:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[29Sep2025 01:23:37.465] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:23:37.465] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Sep2025 01:23:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
