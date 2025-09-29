@@ -229,3 +229,35 @@
 [29Sep2025 01:23:37.465] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [29Sep2025 01:23:37.465] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [29Sep2025 01:23:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Sep2025 01:24:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[29Sep2025 01:24:52.598] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:24:52.598] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Sep2025 01:24:52.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Sep2025 01:25:22.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by C0LIGAMES
+[29Sep2025 01:25:23.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:25:23.563] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[29Sep2025 01:25:23.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Sep2025 01:26:01.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by C0LIGAMES
+[29Sep2025 01:26:03.024] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Sep2025 01:26:03.024] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[29Sep2025 01:26:03.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Sep2025 01:28:22.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[29Sep2025 01:28:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[29Sep2025 01:28:22.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[29Sep2025 01:28:29.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Sep2025 01:28:29.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Sep2025 01:28:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Sep2025 01:28:29.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Sep2025 01:28:29.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Sep2025 01:28:29.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/scprotect:scp_106
+[29Sep2025 01:28:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ihfr:the_carnage
+[29Sep2025 01:28:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bb:realend
+[29Sep2025 01:28:29.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Sep2025 01:28:29.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (scp_106): All chunks are saved
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_carnage): All chunks are saved
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (realend): All chunks are saved
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Sep2025 01:28:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
