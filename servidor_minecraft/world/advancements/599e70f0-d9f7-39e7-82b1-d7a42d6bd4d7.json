@@ -11923,15 +11923,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
     },
     "done": true
   },
@@ -11947,9 +11965,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
     },
     "done": true
   },
@@ -11971,9 +12001,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_orange_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-09-30 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
     },
     "done": true
   },
@@ -11995,9 +12037,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
     },
     "done": true
   },

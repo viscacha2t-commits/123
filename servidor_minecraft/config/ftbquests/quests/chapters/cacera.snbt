@@ -1448,10 +1448,11 @@
 			y: -0.5d
 		}
 		{
+			can_repeat: true
 			id: "2C82CB897F8AB7E3"
 			rewards: [
 				{
-					count: 5
+					count: 2
 					id: "63904C2A46FB6BEA"
 					item: "dedsafio3:deditamulticolor"
 					type: "item"
@@ -1467,9 +1468,108 @@
 				icon: "death_angels:death_angel_bone"
 				id: "2A334CAB0AC34D2E"
 				type: "kill"
-				value: 5L
+				value: 10L
 			}]
 			x: -8.0d
+			y: -1.5d
+		}
+		{
+			id: "0DBE2261FB7162A3"
+			rewards: [
+				{
+					count: 5
+					id: "2CE89EDB8C180D8B"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					id: "58664F122325E77A"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "death_angels:death_angel_queen"
+				icon: "death_angels:death_angel_meat"
+				id: "7442DFC6FFFC76A8"
+				type: "kill"
+				value: 5L
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			id: "158123341678BB1A"
+			rewards: [
+				{
+					id: "79F1983476E9542A"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					id: "3891998F3CB0F875"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "death_angels:death_angel_baby"
+				icon: "death_angels:tamable_death_angel_egg"
+				id: "18F1BC71A3F8BFA2"
+				type: "kill"
+				value: 20L
+			}]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			icon: "death_angels:hat"
+			id: "59608B3309C1699A"
+			rewards: [
+				{
+					count: 32
+					id: "770A1BA486E3486D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5D9CD4425D923FDD"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					id: "4E21B6D9546D35BC"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					id: "3FD36C6C5B7295CF"
+					type: "xp_levels"
+					xp_levels: 20
+				}
+			]
+			tasks: [
+				{
+					entity: "death_angels:death_angel"
+					id: "0233E118C0C8E23A"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "death_angels:death_angel_baby"
+					id: "32C56B2DD04A02F3"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "death_angels:death_angel_queen"
+					id: "6D77156C39DDCB86"
+					type: "kill"
+					value: 10L
+				}
+			]
+			x: -10.0d
 			y: -1.5d
 		}
 	]

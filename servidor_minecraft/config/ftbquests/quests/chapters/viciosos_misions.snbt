@@ -9,12 +9,20 @@
 	quests: [
 		{
 			id: "62D5380D5DAE2F6F"
-			rewards: [{
-				count: 8
-				id: "12180915FD84DF6D"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "12180915FD84DF6D"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "26C3CA42DD88F486"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			subtitle: "Im Invincible"
 			tasks: [{
 				count: 64L
@@ -28,12 +36,20 @@
 		}
 		{
 			id: "2B3F6351E374054A"
-			rewards: [{
-				count: 8
-				id: "078DCBDE2AF1B304"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "078DCBDE2AF1B304"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "33161461E0A6CAC8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			subtitle: "Aprovechen el bug"
 			tasks: [{
 				id: "215DCD110331031F"
@@ -47,12 +63,20 @@
 		}
 		{
 			id: "5AB630AAD6D8C060"
-			rewards: [{
-				count: 4
-				id: "7B81BB56469AC844"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "7B81BB56469AC844"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "4878AB41FACC96DD"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			subtitle: "Entre a todas!!!!"
 			tasks: [
 				{
@@ -101,12 +125,20 @@
 		}
 		{
 			id: "3F5E6CCC713CDB39"
-			rewards: [{
-				count: 8
-				id: "4A602AA21FF6E048"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "4A602AA21FF6E048"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "71AC69E718367624"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "minecraft:skeleton"
 				icon: "minecraft:skeleton_skull"
@@ -120,12 +152,20 @@
 		}
 		{
 			id: "558FC779A6704D16"
-			rewards: [{
-				count: 8
-				id: "6500E453048F8EE7"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "6500E453048F8EE7"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "6236CA64C3E26BB6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "minecraft:creeper"
 				icon: "minecraft:creeper_head"
@@ -139,12 +179,20 @@
 		}
 		{
 			id: "7424ED0A2D97251C"
-			rewards: [{
-				count: 8
-				id: "30995A91E039D95C"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "30995A91E039D95C"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "64B1734770A49F2C"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "minecraft:spider"
 				icon: "minecraft:spider_eye"
@@ -158,12 +206,20 @@
 		}
 		{
 			id: "69C055C824D58F08"
-			rewards: [{
-				count: 8
-				id: "4A5FD90AF06CE868"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "4A5FD90AF06CE868"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3424C40897F8C2D1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "minecraft:cave_spider"
 				icon: "spartanweaponry:cave_spider_head"
@@ -177,12 +233,20 @@
 		}
 		{
 			id: "48FEDC0F6F3CCE47"
-			rewards: [{
-				count: 8
-				id: "3947CBE42F2D7F53"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "3947CBE42F2D7F53"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "122A18E7F4C29FD8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+			]
 			tasks: [{
 				entity: "minecraft:enderman"
 				icon: "minecraft:ender_pearl"
