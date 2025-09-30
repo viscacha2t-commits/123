@@ -11971,6 +11971,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol_silk_touch": {
+    "criteria": {
+      "steal_crystal": "2025-09-30 01:40:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"

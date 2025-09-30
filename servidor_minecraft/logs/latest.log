@@ -1049,3 +1049,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [30Sep2025 01:32:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tradeos remodelados
 [30Sep2025 01:32:21.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 999
 [30Sep2025 01:34:13.520] [Server thread/INFO] [Scaling Health/]: Blight Death Angel Baby has died
+[30Sep2025 01:38:11.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yat
+[30Sep2025 01:38:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD+
+[30Sep2025 01:39:39.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to UnMarshelo]
+[30Sep2025 01:39:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[30Sep2025 01:39:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q fue?
+[30Sep2025 01:40:03.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -1220.360000, -38.000000, -637.810000]
+[30Sep2025 01:40:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[30Sep2025 01:40:18.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [You're Coming With Me]
+[30Sep2025 01:41:01.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1085.500000, 50.500000, -756.500000]
+[30Sep2025 01:41:37.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[30Sep2025 01:43:57.668] [Server thread/INFO] [Scaling Health/]: Blight Hippogryph has died
+[30Sep2025 01:44:06.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
