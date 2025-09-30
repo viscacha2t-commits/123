@@ -941,3 +941,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [30Sep2025 00:56:19.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no elimina todo
 [30Sep2025 00:56:25.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> la lava falsa
 [30Sep2025 00:56:36.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> esnerio pensaste q funcionaría¡
+[30Sep2025 00:56:59.783] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[30Sep2025 00:57:33.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Hot Stuff]
+[30Sep2025 00:58:17.617] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[30Sep2025 00:59:48.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo died
+[30Sep2025 00:59:50.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[30Sep2025 00:59:50.102] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[30Sep2025 00:59:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[30Sep2025 01:00:30.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> naa
+[30Sep2025 01:01:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ayudame a botar la basura
