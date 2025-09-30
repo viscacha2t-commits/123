@@ -1077,3 +1077,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [30Sep2025 02:25:07.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
 [30Sep2025 02:25:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
 [30Sep2025 02:25:07.968] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[30Sep2025 02:29:14.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has completed the challenge [Controlle Center]
+[30Sep2025 02:29:29.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Scary Mobs And Bosses
+[30Sep2025 02:29:39.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1085.500000, 50.500000, -756.500000]
+[30Sep2025 02:30:14.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[30Sep2025 02:30:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[30Sep2025 02:30:14.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[30Sep2025 02:30:22.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Sep2025 02:30:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Sep2025 02:30:22.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Sep2025 02:30:22.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Sep2025 02:30:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Sep2025 02:30:22.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Sep2025 02:30:22.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Sep2025 02:30:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/scprotect:scp_106
+[30Sep2025 02:30:22.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bb:realend
+[30Sep2025 02:30:22.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ihfr:the_carnage
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (scp_106): All chunks are saved
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (realend): All chunks are saved
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_carnage): All chunks are saved
+[30Sep2025 02:30:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -11953,6 +11953,12 @@
     },
     "done": true
   },
+  "death_angels:controlle_center": {
+    "criteria": {
+      "controlle_center_0": "2025-09-30 02:29:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
