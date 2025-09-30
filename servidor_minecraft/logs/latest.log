@@ -1069,3 +1069,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [30Sep2025 02:05:15.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sergio'/445121, l='ServerLevel[world]', x=-1077.29, y=50.00, z=-733.32] died, message: 'Sergio was slain by Death Angel'
 [30Sep2025 02:05:15.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sergio'/445121, l='ServerLevel[world]', x=-1077.29, y=50.00, z=-733.32] died: Sergio was slain by Death Angel
 [30Sep2025 02:05:27.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1085.500000, 50.500000, -756.500000]
+[30Sep2025 02:09:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Revive Me, I Have a Raygun]
+[30Sep2025 02:10:49.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[30Sep2025 02:13:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -25.500000, 63.500000, 8.500000]
