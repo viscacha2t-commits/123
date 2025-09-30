@@ -12085,6 +12085,12 @@
     },
     "done": true
   },
+  "death_angels:mass_destruction": {
+    "criteria": {
+      "mass_destruction_0": "2025-09-30 02:24:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2025-09-30 02:09:50 +0000"

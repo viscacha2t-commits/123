@@ -1072,3 +1072,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [30Sep2025 02:09:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Revive Me, I Have a Raygun]
 [30Sep2025 02:10:49.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [30Sep2025 02:13:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -25.500000, 63.500000, 8.500000]
+[30Sep2025 02:24:31.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has completed the challenge [Mass Destruction]
+[30Sep2025 02:24:48.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -0.7074613292879519,0.0,10.430659603771232
+[30Sep2025 02:25:07.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[30Sep2025 02:25:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[30Sep2025 02:25:07.968] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
