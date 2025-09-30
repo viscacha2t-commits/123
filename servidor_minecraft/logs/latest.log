@@ -1061,3 +1061,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [30Sep2025 01:41:37.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [30Sep2025 01:43:57.668] [Server thread/INFO] [Scaling Health/]: Blight Hippogryph has died
 [30Sep2025 01:44:06.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[30Sep2025 01:51:49.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> EDY?
+[30Sep2025 02:04:41.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Isac'/445135, l='ServerLevel[world]', x=-1077.33, y=50.00, z=-726.28] died, message: 'Isac was slain by Death Angel'
+[30Sep2025 02:04:41.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Isac'/445135, l='ServerLevel[world]', x=-1077.33, y=50.00, z=-726.28] died: Isac was slain by Death Angel
+[30Sep2025 02:05:10.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Luz'/445148, l='ServerLevel[world]', x=-1078.34, y=50.00, z=-726.50] died, message: 'Luz was slain by Death Angel'
+[30Sep2025 02:05:10.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Luz'/445148, l='ServerLevel[world]', x=-1078.34, y=50.00, z=-726.50] died: Luz was slain by Death Angel
+[30Sep2025 02:05:15.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sergio'/445121, l='ServerLevel[world]', x=-1077.29, y=50.00, z=-733.32] died, message: 'Sergio was slain by Death Angel'
+[30Sep2025 02:05:15.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sergio'/445121, l='ServerLevel[world]', x=-1077.29, y=50.00, z=-733.32] died: Sergio was slain by Death Angel
+[30Sep2025 02:05:27.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1085.500000, 50.500000, -756.500000]
