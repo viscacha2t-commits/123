@@ -8320,6 +8320,42 @@
     },
     "done": true
   },
+  "golden_apple_tree:recipes/food/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
+  "scprotect:rapid_eye_movement": {
+    "criteria": {
+      "rapid_eye_movement": "2025-10-01 22:42:14 +0000"
+    },
+    "done": true
+  },
+  "scprotect:its_just_a_statue": {
+    "criteria": {
+      "its_just_a_statue": "2025-10-01 22:45:33 +0000"
+    },
+    "done": true
+  },
+  "scprotect:it_moves": {
+    "criteria": {
+      "it_moves": "2025-10-01 22:46:03 +0000"
+    },
+    "done": true
+  },
+  "scprotect:dont_look_at_me": {
+    "criteria": {
+      "dont_look_at_me": "2025-10-01 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "scprotect:doctor_doctor": {
+    "criteria": {
+      "doctor_doctor": "2025-10-01 22:49:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
@@ -8374,12 +8410,6 @@
     },
     "done": true
   },
-  "scprotect:its_just_a_statue": {
-    "criteria": {
-      "its_just_a_statue": "2025-10-01 22:45:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
@@ -8431,12 +8461,6 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
-    },
-    "done": true
-  },
-  "scprotect:dont_look_at_me": {
-    "criteria": {
-      "dont_look_at_me": "2025-10-01 22:47:08 +0000"
     },
     "done": true
   },
@@ -8536,12 +8560,6 @@
     },
     "done": true
   },
-  "scprotect:doctor_doctor": {
-    "criteria": {
-      "doctor_doctor": "2025-10-01 22:49:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
@@ -8551,12 +8569,6 @@
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
-    },
-    "done": true
-  },
-  "scprotect:it_moves": {
-    "criteria": {
-      "it_moves": "2025-10-01 22:46:03 +0000"
     },
     "done": true
   },
@@ -8587,12 +8599,6 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
-    },
-    "done": true
-  },
-  "scprotect:rapid_eye_movement": {
-    "criteria": {
-      "rapid_eye_movement": "2025-10-01 22:42:14 +0000"
     },
     "done": true
   },
@@ -8695,12 +8701,6 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-10-01 22:59:01 +0000"
-    },
-    "done": true
-  },
-  "golden_apple_tree:recipes/food/apple_sapling": {
-    "criteria": {
-      "has_apple": "2025-10-01 22:38:39 +0000"
     },
     "done": true
   },
