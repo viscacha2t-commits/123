@@ -872,3 +872,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [01Oct2025 20:09:53.101] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'thursday-margin.gl.at.ply.gg:5241'
 [01Oct2025 20:09:53.102] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 5241
 [01Oct2025 20:09:53.104] [Server thread/WARN] [ModernFix/]: Dedicated server took 59.421 seconds to load
+[01Oct2025 21:14:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Oct2025 21:14:45.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Oct2025 21:14:45.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Oct2025 21:14:45.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Oct2025 21:14:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Oct2025 21:14:45.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/scprotect:scp_106
+[01Oct2025 21:14:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ihfr:the_carnage
+[01Oct2025 21:14:45.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Oct2025 21:14:45.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bb:realend
+[01Oct2025 21:14:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Oct2025 21:14:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[01Oct2025 21:14:45.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Oct2025 21:14:45.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (scp_106): All chunks are saved
+[01Oct2025 21:14:45.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_carnage): All chunks are saved
+[01Oct2025 21:14:45.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Oct2025 21:14:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (realend): All chunks are saved
+[01Oct2025 21:14:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Oct2025 21:14:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[01Oct2025 21:14:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
