@@ -6505,45 +6505,6 @@
 			y: 13.0d
 		}
 		{
-			id: "10674CCD74EB624D"
-			rewards: [
-				{
-					id: "1A71A80C3A43649E"
-					item: {
-						Count: 1
-						id: "death_angels:hearing_aid_item"
-						tag: {
-							Damage: 0
-							cooldown: 0b
-							powered: 0b
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "5B17B523E74B0D62"
-					item: {
-						Count: 1
-						id: "minecraft:writable_book"
-						tag: {
-							pages: ["Los angeles muertos unas criaturas o tambien por decirlo dificultad que es muy dificil de combatir solo hay una manera de matarlos y esta es hearing Aid al entrar al servidor se te dara 1 tiene cooldown aprovecha ese tiempo que te da al ensordeser al angel para matarlo esto es..."]
-						}
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				advancement: "minecraft:story/root"
-				criterion: ""
-				icon: "death_angels:death_angel_meat"
-				id: "5EDF19493DE41B28"
-				title: "Los angeles muertos"
-				type: "advancement"
-			}]
-			x: -1.0d
-			y: -0.5d
-		}
-		{
 			id: "724DC0824C6D411E"
 			rewards: [{
 				id: "10E859E8B050D752"
@@ -6875,7 +6836,7 @@
 				type: "advancement"
 			}]
 			x: -1.0d
-			y: 0.5d
+			y: 0.0d
 		}
 	]
 	title: "Server"

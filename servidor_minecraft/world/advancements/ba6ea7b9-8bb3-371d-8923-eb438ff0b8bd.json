@@ -10934,12 +10934,6 @@
     },
     "done": true
   },
-  "death_angels:death_angel_advancement": {
-    "criteria": {
-      "death_angel_advancement_0": "2025-09-23 22:30:44 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-23 22:30:44 +0000"
@@ -10967,6 +10961,60 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-09-23 22:30:44 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-10-01 01:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-10-01 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-10-01 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "azukaarsfairdifficultyoverhaul:bestiary/root": {
+    "criteria": {
+      "automatic": "2025-10-01 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
     },
     "done": true
   },

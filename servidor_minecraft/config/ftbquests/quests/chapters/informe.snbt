@@ -9,7 +9,7 @@
 	quests: [{
 		id: "73B34967DCE3443D"
 		rewards: [{
-			id: "7DD1FC73E9EFE4AB"
+			id: "76A5D22C57D7CDF5"
 			item: {
 				Count: 1
 				id: "minecraft:writable_book"
@@ -24,8 +24,12 @@
 						"Infernus: El fuego hace el doble de daño\n\n\nLava Mortal: La lava hace mas daño\n\n\nNo Breathing: El tiempo para respirar bajo el agua es muy corto\n\n\n                  ------>"
 						"Phanthom Shuffle: Al recibir un ataque de un fantasma este te cambia la vision y remueve tu inventario\n\n\nPies Debiles: El daño de caida es multiplicado x3\n\n\n\n                  ------>"
 						"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\n                     \n                  ------>"
-						"Angeles muertos: El final boss del servidor a mandado a los angeles muertos criaturas muy dificiles de matar en vanilla solo pueden ser eliminadas con el \"Hearing Aid\" un aparato que los hace debiles y puedes aprovechar en matarlos y escuchan el voice chat  ------>\n"
-						"Pesadilla: Se a agregado una nueva dimension oslo puedes entrar a esta durmiendo dependo de tu suerte o probabilidad si entras ahi sal lo mas rapido posible\n\n\n\nEso es todo resistan."
+						"Angeles muertos: Choclo a desarrollado una atmosfera que bloquea los meteoritos de los angeles muertos evitando que entren al mundo cubico y evitando la destruccion del servidor pero a esto vienen sus   \nconsecuencias.....\n\n                 ------>\n"
+						"Pesadilla: Se a agregado una nueva dimension oslo puedes entrar a esta durmiendo dependo de tu suerte o probabilidad si entras ahi sal lo mas rapido posible\n\n\n\n\n                  ------>"
+						"Cementerios: Que tiene que ver esto el Whiter Storm y los angeles caidos antes de ser expulsados del mundo cubico y prohibirle la entrada a estos desarrollaron unos mobs \"Espeluznantes\" no sabemos mucho de esto asi que les tocara invertigar\n\n                  ------>"
+						"Marchitación: En los asteroides de los angeles caidos se encontraba un virus el virus \"Marchito\" este virus propaga una infeccion de Wither la cual fue mandada por el Wither Storm no sabemos mucho solo que empezara si invocan un wither\n                  ------>"
+						"Mutantes: Nuevos monstruos apareceran en la noche estos son los mutantes mobs vanilla modificados para ser mas fuertes, resistentes y con habilidades unicas de ellos \n\n\n\n                  ------>"
+						"Dificultades: Se han añadido 3 nuevas dificultades las cuales son Experto, Pesadilla y Apocalíptica la maxima dificultad a la que llegara el servidor sera a Pesadilla la dificultad Apocalíptica seran en ocasiones especiales y en ciertas dificultades la IA de los mobs se multiplica"
 					]
 				}
 			}

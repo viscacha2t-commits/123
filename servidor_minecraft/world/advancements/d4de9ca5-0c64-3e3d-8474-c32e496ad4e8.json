@@ -26,24 +26,36 @@
       "minecraft:sunflower_plains": "2025-07-17 01:06:22 +0000",
       "minecraft:cherry_grove": "2025-07-26 02:38:09 +0000",
       "minecraft:birch_forest": "2025-07-22 01:30:13 +0000",
+      "minecraft:windswept_hills": "2025-10-01 00:37:41 +0000",
+      "minecraft:badlands": "2025-10-01 00:59:34 +0000",
       "minecraft:savanna_plateau": "2025-07-22 01:24:46 +0000",
       "minecraft:beach": "2025-07-16 23:32:49 +0000",
       "minecraft:stony_peaks": "2025-07-22 01:24:42 +0000",
       "minecraft:dark_forest": "2025-09-20 02:03:50 +0000",
+      "minecraft:mangrove_swamp": "2025-10-01 01:15:04 +0000",
+      "minecraft:sparse_jungle": "2025-10-01 00:46:16 +0000",
       "minecraft:river": "2025-07-16 21:35:07 +0000",
       "minecraft:lukewarm_ocean": "2025-07-22 01:23:34 +0000",
       "minecraft:stony_shore": "2025-07-22 01:23:21 +0000",
       "minecraft:dripstone_caves": "2025-07-26 02:45:29 +0000",
       "minecraft:snowy_taiga": "2025-09-21 18:24:17 +0000",
       "minecraft:grove": "2025-07-22 01:21:01 +0000",
+      "minecraft:swamp": "2025-10-01 00:37:46 +0000",
       "minecraft:jagged_peaks": "2025-07-22 01:23:04 +0000",
       "minecraft:cold_ocean": "2025-09-21 18:22:16 +0000",
       "minecraft:forest": "2025-07-16 21:34:45 +0000",
+      "minecraft:lush_caves": "2025-10-01 01:13:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-10-01 00:34:05 +0000",
+      "minecraft:desert": "2025-10-01 00:59:09 +0000",
       "minecraft:jungle": "2025-07-22 01:29:50 +0000",
       "minecraft:ocean": "2025-07-22 01:23:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-20 16:53:15 +0000",
+      "minecraft:windswept_savanna": "2025-10-01 00:57:58 +0000",
+      "minecraft:warm_ocean": "2025-10-01 00:58:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-21 18:21:08 +0000",
       "minecraft:flower_forest": "2025-07-22 01:21:55 +0000",
+      "minecraft:frozen_peaks": "2025-10-01 00:36:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-10-01 00:35:49 +0000",
       "minecraft:deep_dark": "2025-09-19 00:45:19 +0000",
       "minecraft:meadow": "2025-07-20 16:57:09 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-19 01:30:29 +0000",
@@ -501,6 +513,7 @@
       "minecraft:witch": "2025-07-20 21:16:48 +0000",
       "minecraft:wither_skeleton": "2025-09-20 01:23:48 +0000",
       "minecraft:husk": "2025-07-17 02:15:58 +0000",
+      "minecraft:piglin": "2025-09-30 23:48:19 +0000",
       "minecraft:enderman": "2025-07-19 01:12:40 +0000",
       "minecraft:zombie": "2025-07-16 23:29:32 +0000"
     },
@@ -5787,7 +5800,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-07-22 01:29:03 +0000",
-      "entered_deep_crypt": "2025-09-21 18:17:06 +0000"
+      "entered_deep_crypt": "2025-09-21 18:17:06 +0000",
+      "entered_ruined_building": "2025-09-30 23:53:42 +0000"
     },
     "done": false
   },
@@ -6129,6 +6143,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "wither_skeleton_skull": "2025-09-30 23:52:09 +0000",
       "skeleton_skull": "2025-09-18 22:49:34 +0000"
     },
     "done": false
@@ -7684,12 +7699,6 @@
     },
     "done": true
   },
-  "death_angels:death_angel_advancement": {
-    "criteria": {
-      "death_angel_advancement_0": "2025-09-26 00:56:44 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-26 00:56:45 +0000"
@@ -7906,18 +7915,6 @@
     },
     "done": true
   },
-  "death_angels:throwable_bottle_advancement": {
-    "criteria": {
-      "throwable_bottle_advancement_0": "2025-09-26 03:25:07 +0000"
-    },
-    "done": true
-  },
-  "death_angels:broken_shield_advancement": {
-    "criteria": {
-      "broken_shield_advancement_0": "2025-09-26 03:30:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-26 03:42:07 +0000"
@@ -8035,6 +8032,174 @@
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2025-09-27 00:36:53 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-10-01 01:01:26 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-09-30 23:47:58 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-10-01 01:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-09-30 23:47:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-01 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-01 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_bomber": {
+    "criteria": {
+      "ambusher": "2025-10-01 01:03:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-10-01 01:04:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-10-01 01:08:33 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-30 23:48:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2025-10-01 01:10:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-10-01 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-10-01 01:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-30 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-09-30 23:29:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-09-30 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-30 23:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-10-01 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "azukaarsfairdifficultyoverhaul:bestiary/root": {
+    "criteria": {
+      "automatic": "2025-09-30 23:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-01 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-10-01 00:54:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-10-01 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-30 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-30 23:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-01 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-10-01 00:47:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-10-01 01:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-30 23:52:09 +0000"
     },
     "done": true
   },
