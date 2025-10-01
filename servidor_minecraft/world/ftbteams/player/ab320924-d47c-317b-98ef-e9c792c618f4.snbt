@@ -1,0 +1,17 @@
+{
+	id: "ab320924-d47c-317b-98ef-e9c792c618f4"
+	type: "player"
+	player_name: "nachopachomazo"
+	ranks: {
+		ab320924-d47c-317b-98ef-e9c792c618f4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "nachopachomazo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF9C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

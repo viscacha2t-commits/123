@@ -11024,15 +11024,75 @@
     },
     "done": true
   },
+  "withering_away_reborn:burrow_and_wither_tools": {
+    "criteria": {
+      "burrow_and_wither_tools_0": "2025-10-01 01:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-10-01 01:43:42 +0000"
     },
     "done": true
   },
-  "withering_away_reborn:burrow_and_wither_tools": {
+  "scprotect:its_just_a_statue": {
     "criteria": {
-      "burrow_and_wither_tools_0": "2025-10-01 01:33:37 +0000"
+      "its_just_a_statue": "2025-10-01 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-10-01 21:51:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-10-01 21:52:57 +0000"
+    },
+    "done": true
+  },
+  "scprotect:dont_look_at_me": {
+    "criteria": {
+      "dont_look_at_me": "2025-10-01 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-10-01 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-10-01 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "scprotect:rapid_eye_movement": {
+    "criteria": {
+      "rapid_eye_movement": "2025-10-01 22:42:14 +0000"
+    },
+    "done": true
+  },
+  "scprotect:a_decayed_march": {
+    "criteria": {
+      "a_decayed_march": "2025-10-01 22:34:56 +0000"
+    },
+    "done": true
+  },
+  "withering_away_reborn:wither_bone_advancment": {
+    "criteria": {
+      "wither_bone_advancment_0": "2025-10-01 22:20:23 +0000"
+    },
+    "done": true
+  },
+  "scprotect:no_mans_land": {
+    "criteria": {
+      "no_mans_land": "2025-10-01 22:35:29 +0000"
     },
     "done": true
   },
