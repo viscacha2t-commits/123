@@ -8038,12 +8038,6 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_normal": {
-    "criteria": {
-      "is_triggered": "2025-09-30 23:29:25 +0000"
-    },
-    "done": true
-  },
   "azukaarsfairdifficultyoverhaul:bestiary/root": {
     "criteria": {
       "automatic": "2025-09-30 23:29:25 +0000"
@@ -8053,12 +8047,6 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-09-30 23:47:30 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:game_stage_expert": {
-    "criteria": {
-      "is_triggered": "2025-09-30 23:47:30 +0000"
     },
     "done": true
   },
@@ -8224,18 +8212,6 @@
     },
     "done": true
   },
-  "majruszsdifficulty:undead_army": {
-    "criteria": {
-      "army_defeated": "2025-10-01 21:29:54 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:undead_army_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-10-01 21:29:57 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-10-01 21:52:52 +0000"
@@ -8257,12 +8233,6 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-10-01 21:59:11 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/bandage": {
-    "criteria": {
-      "has_string": "2025-10-01 22:18:20 +0000"
     },
     "done": true
   },
