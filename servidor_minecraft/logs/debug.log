@@ -8561,3 +8561,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [01Oct2025 20:09:53.484] [Server thread/DEBUG] [mixin/]: Mixing MixinEnchantmentHelper from majruszlibrary-common.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
 [01Oct2025 20:14:53.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Oct2025 20:14:53.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 20:19:53.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 20:19:53.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 20:24:53.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 20:24:53.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
