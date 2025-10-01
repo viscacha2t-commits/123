@@ -10964,27 +10964,9 @@
     },
     "done": true
   },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-10-01 01:10:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-10-01 01:03:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
     },
     "done": true
   },
@@ -10997,6 +10979,18 @@
   "azukaarsfairdifficultyoverhaul:bestiary/root": {
     "criteria": {
       "automatic": "2025-10-01 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
     },
     "done": true
   },
@@ -11015,6 +11009,30 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-10-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-10-01 01:10:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-10-01 01:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-10-01 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "withering_away_reborn:burrow_and_wither_tools": {
+    "criteria": {
+      "burrow_and_wither_tools_0": "2025-10-01 01:33:37 +0000"
     },
     "done": true
   },
