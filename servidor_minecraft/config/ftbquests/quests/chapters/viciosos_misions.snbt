@@ -22,6 +22,11 @@
 					item: "dedsafio3:dedita"
 					type: "item"
 				}
+				{
+					id: "572DCD31C872E7B3"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
 			]
 			subtitle: "Im Invincible"
 			tasks: [{
@@ -47,6 +52,11 @@
 					count: 64
 					id: "33161461E0A6CAC8"
 					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "771B21AECF4D03F6"
+					item: "dedsafio3:dedita_roja"
 					type: "item"
 				}
 			]
@@ -76,17 +86,17 @@
 					item: "dedsafio3:dedita"
 					type: "item"
 				}
+				{
+					id: "7215E423017581BD"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
 			]
 			subtitle: "Entre a todas!!!!"
 			tasks: [
 				{
 					dimension: "minecraft:overworld"
 					id: "5576A12D918760D4"
-					type: "dimension"
-				}
-				{
-					dimension: "grotesque_steve:stomach"
-					id: "02DFC810BC3A7D88"
 					type: "dimension"
 				}
 				{
@@ -97,6 +107,11 @@
 				{
 					dimension: "minecraft:the_nether"
 					id: "1610018075492597"
+					type: "dimension"
+				}
+				{
+					dimension: "ihfr:the_carnage"
+					id: "6FEC6B69177943CF"
 					type: "dimension"
 				}
 			]
