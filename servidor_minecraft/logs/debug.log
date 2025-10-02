@@ -8140,3 +8140,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [02Oct2025 21:59:31.529] [Server thread/DEBUG] [mixin/]: Mixing EnchantmentHelperMixin from combatroll.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
 [02Oct2025 22:04:31.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 22:04:31.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:09:30.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:09:30.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:14:30.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:14:30.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
