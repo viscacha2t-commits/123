@@ -8194,24 +8194,6 @@
     },
     "done": true
   },
-  "withering_away_reborn:wither_bone_advancment": {
-    "criteria": {
-      "wither_bone_advancment_0": "2025-10-01 01:47:09 +0000"
-    },
-    "done": true
-  },
-  "withering_away_reborn:burrow_and_wither_tools": {
-    "criteria": {
-      "burrow_and_wither_tools_0": "2025-10-01 01:51:49 +0000"
-    },
-    "done": true
-  },
-  "withering_away_reborn:potion_of_plage_advancment": {
-    "criteria": {
-      "potion_of_plage_advancment_0": "2025-10-01 21:28:30 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-10-01 21:52:52 +0000"
@@ -8743,6 +8725,18 @@
   "legendary_monsters:defeat_spiky_bug": {
     "criteria": {
       "spiky_bug": "2025-10-02 00:07:50 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-10-02 00:18:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-10-02 00:20:00 +0000"
     },
     "done": true
   },
