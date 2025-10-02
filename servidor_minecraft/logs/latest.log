@@ -924,3 +924,518 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [02Oct2025 21:59:30.942] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [02Oct2025 21:59:30.959] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'thursday-margin.gl.at.ply.gg:5241'
 [02Oct2025 21:59:30.961] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 5241
+[02Oct2025 22:47:29.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:55351] logged in with entity id 28 at (746.6199183760017, 135.0, -2067.4165400512775)
+[02Oct2025 22:47:29.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[02Oct2025 22:47:29.731] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[02Oct2025 22:47:34.056] [Worker-Main-41/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Oct2025 22:47:34.058] [Worker-Main-41/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Oct2025 22:47:34.407] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (20)
+[02Oct2025 22:47:34.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[02Oct2025 22:47:34.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[02Oct2025 22:47:40.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
+[02Oct2025 22:47:41.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
+[02Oct2025 22:47:41.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8) successfully connected to voice chat
+[02Oct2025 22:48:02.803] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[02Oct2025 22:48:02.805] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[02Oct2025 22:48:09.317] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.317] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.321] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.321] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.321] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.322] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.322] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.322] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Oct2025 22:48:09.322] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.322] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.323] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.323] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.327] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.330] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.331] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Oct2025 22:48:09.332] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.333] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.333] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Oct2025 22:48:09.334] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.334] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Oct2025 22:48:09.335] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02Oct2025 22:48:09.335] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.336] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.336] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.339] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.339] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.339] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.340] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.340] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.340] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.345] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:09.347] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02Oct2025 22:48:19.825] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehillspurce
+[02Oct2025 22:48:19.825] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehillspurce' in chunk [75, -101], discarding
+[02Oct2025 22:48:22.161] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -96], discarding
+[02Oct2025 22:48:22.162] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -94], discarding
+[02Oct2025 22:48:22.164] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -95], discarding
+[02Oct2025 22:48:22.166] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -93], discarding
+[02Oct2025 22:48:22.167] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -92], discarding
+[02Oct2025 22:48:22.168] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -91], discarding
+[02Oct2025 22:48:22.171] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -90], discarding
+[02Oct2025 22:48:22.173] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -89], discarding
+[02Oct2025 22:48:22.174] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -88], discarding
+[02Oct2025 22:48:22.175] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, -87], discarding
+[02Oct2025 22:48:24.252] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -93], discarding
+[02Oct2025 22:48:24.254] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -94], discarding
+[02Oct2025 22:48:24.256] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -92], discarding
+[02Oct2025 22:48:24.258] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -91], discarding
+[02Oct2025 22:48:24.260] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -90], discarding
+[02Oct2025 22:48:24.263] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -89], discarding
+[02Oct2025 22:48:24.264] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -88], discarding
+[02Oct2025 22:48:24.268] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -87], discarding
+[02Oct2025 22:48:24.290] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [75, -95], discarding
+[02Oct2025 22:48:24.294] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -95], discarding
+[02Oct2025 22:48:24.296] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -94], discarding
+[02Oct2025 22:48:24.298] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -93], discarding
+[02Oct2025 22:48:24.299] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -92], discarding
+[02Oct2025 22:48:24.301] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -91], discarding
+[02Oct2025 22:48:24.303] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -90], discarding
+[02Oct2025 22:48:24.305] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -89], discarding
+[02Oct2025 22:48:24.307] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -88], discarding
+[02Oct2025 22:48:24.308] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, -87], discarding
+[02Oct2025 22:48:34.359] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, -62], discarding
+[02Oct2025 22:48:34.361] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -62], discarding
+[02Oct2025 22:48:34.369] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -62], discarding
+[02Oct2025 22:48:34.371] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -62], discarding
+[02Oct2025 22:48:34.780] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, -61], discarding
+[02Oct2025 22:48:34.782] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -61], discarding
+[02Oct2025 22:48:34.783] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -61], discarding
+[02Oct2025 22:48:34.784] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -61], discarding
+[02Oct2025 22:48:34.914] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, -60], discarding
+[02Oct2025 22:48:34.917] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -60], discarding
+[02Oct2025 22:48:34.918] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -60], discarding
+[02Oct2025 22:48:34.920] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -60], discarding
+[02Oct2025 22:48:35.449] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, -59], discarding
+[02Oct2025 22:48:35.451] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -59], discarding
+[02Oct2025 22:48:35.452] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -59], discarding
+[02Oct2025 22:48:36.848] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -58], discarding
+[02Oct2025 22:48:36.850] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -58], discarding
+[02Oct2025 22:48:36.857] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -58], discarding
+[02Oct2025 22:48:37.694] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -57], discarding
+[02Oct2025 22:48:37.695] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -57], discarding
+[02Oct2025 22:48:37.697] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -57], discarding
+[02Oct2025 22:48:39.254] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -56], discarding
+[02Oct2025 22:48:39.255] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -56], discarding
+[02Oct2025 22:48:43.913] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -55], discarding
+[02Oct2025 22:48:43.914] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -55], discarding
+[02Oct2025 22:48:43.944] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -54], discarding
+[02Oct2025 22:48:43.945] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [63, -54], discarding
+[02Oct2025 22:48:43.946] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -54], discarding
+[02Oct2025 22:48:43.956] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, -53], discarding
+[02Oct2025 22:48:43.957] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [64, -53], discarding
+[02Oct2025 22:48:48.513] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id grotesque_steve:grotesquespawn
+[02Oct2025 22:48:52.553] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:48:54.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:48:57.859] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_prowler
+[02Oct2025 22:48:59.659] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_aftermath
+[02Oct2025 22:48:59.659] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:withering_spider
+[02Oct2025 22:48:59.660] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:withering_spider
+[02Oct2025 22:48:59.660] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:withering_spider
+[02Oct2025 22:49:01.386] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:new_withering_creeper
+[02Oct2025 22:49:01.387] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:new_withering_creeper
+[02Oct2025 22:49:02.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:agoning_walker_1
+[02Oct2025 22:49:02.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:agoning_remnent_2
+[02Oct2025 22:49:02.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:agoning_remnent_1
+[02Oct2025 22:49:02.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:agoning_remnent_2
+[02Oct2025 22:49:03.600] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:49:03.600] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:49:03.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:03.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:49:03.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:03.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:03.602] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:49:03.603] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:04.099] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:04.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:04.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_aftermath
+[02Oct2025 22:49:04.180] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_aftermath
+[02Oct2025 22:49:05.461] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:07.591] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13302, l='ServerLevel[world]', x=881.57, y=64.00, z=-443.41, removed=DISCARDED]
+[02Oct2025 22:49:07.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13299, l='ServerLevel[world]', x=875.18, y=62.00, z=-440.50, removed=DISCARDED]
+[02Oct2025 22:49:07.747] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13298, l='ServerLevel[world]', x=874.81, y=59.00, z=-438.93, removed=DISCARDED]
+[02Oct2025 22:49:07.789] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13300, l='ServerLevel[world]', x=872.47, y=66.63, z=-437.61, removed=DISCARDED]
+[02Oct2025 22:49:07.854] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13301, l='ServerLevel[world]', x=872.45, y=67.50, z=-436.43, removed=DISCARDED]
+[02Oct2025 22:49:08.094] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13374, l='ServerLevel[world]', x=924.62, y=68.00, z=-435.49, removed=DISCARDED]
+[02Oct2025 22:49:46.104] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:49:59.279] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 17], discarding
+[02Oct2025 22:49:59.282] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 17], discarding
+[02Oct2025 22:49:59.283] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 17], discarding
+[02Oct2025 22:49:59.292] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 18], discarding
+[02Oct2025 22:49:59.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 18], discarding
+[02Oct2025 22:49:59.294] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 18], discarding
+[02Oct2025 22:50:01.318] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 19], discarding
+[02Oct2025 22:50:01.320] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 19], discarding
+[02Oct2025 22:50:02.343] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 20], discarding
+[02Oct2025 22:50:02.344] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 20], discarding
+[02Oct2025 22:50:02.345] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 20], discarding
+[02Oct2025 22:50:02.346] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 20], discarding
+[02Oct2025 22:50:02.759] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 21], discarding
+[02Oct2025 22:50:02.760] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 21], discarding
+[02Oct2025 22:50:02.761] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 21], discarding
+[02Oct2025 22:50:02.762] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 21], discarding
+[02Oct2025 22:50:02.763] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 21], discarding
+[02Oct2025 22:50:03.710] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:03.710] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:04.447] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 22], discarding
+[02Oct2025 22:50:04.448] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 22], discarding
+[02Oct2025 22:50:04.449] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:mineshaft
+[02Oct2025 22:50:04.449] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 22], discarding
+[02Oct2025 22:50:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 22], discarding
+[02Oct2025 22:50:04.452] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 22], discarding
+[02Oct2025 22:50:04.454] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 22], discarding
+[02Oct2025 22:50:12.969] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 23], discarding
+[02Oct2025 22:50:12.970] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 23], discarding
+[02Oct2025 22:50:12.975] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 23], discarding
+[02Oct2025 22:50:12.992] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 24], discarding
+[02Oct2025 22:50:12.995] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 24], discarding
+[02Oct2025 22:50:12.997] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 24], discarding
+[02Oct2025 22:50:13.000] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 24], discarding
+[02Oct2025 22:50:13.042] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 25], discarding
+[02Oct2025 22:50:13.045] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 25], discarding
+[02Oct2025 22:50:13.047] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 25], discarding
+[02Oct2025 22:50:13.048] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 25], discarding
+[02Oct2025 22:50:13.136] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 23], discarding
+[02Oct2025 22:50:13.151] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 24], discarding
+[02Oct2025 22:50:13.152] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 25], discarding
+[02Oct2025 22:50:13.170] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 23], discarding
+[02Oct2025 22:50:13.171] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 24], discarding
+[02Oct2025 22:50:13.172] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 25], discarding
+[02Oct2025 22:50:13.214] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_aftermath
+[02Oct2025 22:50:15.106] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:50:18.353] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:50:18.354] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:50:18.354] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:18.354] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:18.354] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:18.354] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:18.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:18.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:50:18.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:50:18.357] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:50:23.336] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 40], discarding
+[02Oct2025 22:50:23.369] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 40], discarding
+[02Oct2025 22:50:23.370] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 41], discarding
+[02Oct2025 22:50:23.391] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 41], discarding
+[02Oct2025 22:50:23.414] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 42], discarding
+[02Oct2025 22:52:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Take Aim]
+[02Oct2025 22:55:54.182] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 39], discarding
+[02Oct2025 22:55:54.183] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 39], discarding
+[02Oct2025 22:55:54.190] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 40], discarding
+[02Oct2025 22:55:54.191] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 40], discarding
+[02Oct2025 22:55:54.200] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 41], discarding
+[02Oct2025 22:55:54.201] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 41], discarding
+[02Oct2025 22:55:54.211] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [28, 28], discarding
+[02Oct2025 22:55:54.213] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:grotesquehill
+[02Oct2025 22:55:54.213] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:grotesquehill' in chunk [28, 29], discarding
+[02Oct2025 22:55:54.246] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 42], discarding
+[02Oct2025 22:55:54.247] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 42], discarding
+[02Oct2025 22:55:54.272] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 43], discarding
+[02Oct2025 22:55:54.273] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 43], discarding
+[02Oct2025 22:55:54.298] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 44], discarding
+[02Oct2025 22:55:54.300] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 44], discarding
+[02Oct2025 22:55:54.313] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 45], discarding
+[02Oct2025 22:55:54.314] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 45], discarding
+[02Oct2025 22:56:34.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Set own game mode to Spectator Mode]
+[02Oct2025 22:56:46.008] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 17], discarding
+[02Oct2025 22:56:46.010] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 17], discarding
+[02Oct2025 22:56:46.011] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 17], discarding
+[02Oct2025 22:56:46.016] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 18], discarding
+[02Oct2025 22:56:46.017] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 18], discarding
+[02Oct2025 22:56:46.018] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 18], discarding
+[02Oct2025 22:56:46.032] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 19], discarding
+[02Oct2025 22:56:46.033] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 19], discarding
+[02Oct2025 22:56:46.037] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 20], discarding
+[02Oct2025 22:56:46.038] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 20], discarding
+[02Oct2025 22:56:46.039] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 20], discarding
+[02Oct2025 22:56:46.040] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 20], discarding
+[02Oct2025 22:56:46.054] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 21], discarding
+[02Oct2025 22:56:46.055] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 21], discarding
+[02Oct2025 22:56:46.057] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 21], discarding
+[02Oct2025 22:56:46.058] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 21], discarding
+[02Oct2025 22:56:46.059] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 21], discarding
+[02Oct2025 22:56:46.062] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 22], discarding
+[02Oct2025 22:56:46.063] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 22], discarding
+[02Oct2025 22:56:46.064] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:mineshaft
+[02Oct2025 22:56:46.065] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 22], discarding
+[02Oct2025 22:56:46.066] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 22], discarding
+[02Oct2025 22:56:46.067] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 22], discarding
+[02Oct2025 22:56:46.068] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 22], discarding
+[02Oct2025 22:56:46.073] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 23], discarding
+[02Oct2025 22:56:46.074] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 23], discarding
+[02Oct2025 22:56:46.076] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 23], discarding
+[02Oct2025 22:56:46.077] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 23], discarding
+[02Oct2025 22:56:46.078] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 23], discarding
+[02Oct2025 22:56:46.092] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 24], discarding
+[02Oct2025 22:56:46.093] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 24], discarding
+[02Oct2025 22:56:46.094] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 24], discarding
+[02Oct2025 22:56:46.096] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 24], discarding
+[02Oct2025 22:56:46.096] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 24], discarding
+[02Oct2025 22:56:46.097] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 24], discarding
+[02Oct2025 22:56:46.100] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [76, 25], discarding
+[02Oct2025 22:56:46.101] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [77, 25], discarding
+[02Oct2025 22:56:46.102] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 25], discarding
+[02Oct2025 22:56:46.103] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 25], discarding
+[02Oct2025 22:56:46.104] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 25], discarding
+[02Oct2025 22:56:46.105] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 25], discarding
+[02Oct2025 22:57:39.353] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 39], discarding
+[02Oct2025 22:57:39.357] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 40], discarding
+[02Oct2025 22:57:39.362] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 41], discarding
+[02Oct2025 22:57:39.365] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 42], discarding
+[02Oct2025 22:57:39.369] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 43], discarding
+[02Oct2025 22:57:39.388] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 44], discarding
+[02Oct2025 22:57:39.391] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 45], discarding
+[02Oct2025 22:57:39.455] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 55], discarding
+[02Oct2025 22:57:39.456] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 55], discarding
+[02Oct2025 22:57:42.041] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:57:42.046] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hunter
+[02Oct2025 22:57:42.047] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:57:42.047] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:57:42.047] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:57:42.817] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 56], discarding
+[02Oct2025 22:57:42.819] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 56], discarding
+[02Oct2025 22:57:42.851] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 57], discarding
+[02Oct2025 22:57:42.853] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 57], discarding
+[02Oct2025 22:57:42.869] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 58], discarding
+[02Oct2025 22:57:42.870] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 58], discarding
+[02Oct2025 22:57:42.919] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 59], discarding
+[02Oct2025 22:57:42.921] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 59], discarding
+[02Oct2025 22:57:42.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:00.144] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:58:00.145] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:58:00.145] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:00.145] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:58:00.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:00.146] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.143] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_wither_patrol
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.147] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_wither_patrol
+[02Oct2025 22:58:01.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.148] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.699] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:patrolspawnenmtitty
+[02Oct2025 22:58:01.699] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:01.702] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.703] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:01.703] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:02.437] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:58:02.437] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:02.437] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:02.451] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:02.452] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/185600, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02Oct2025 22:58:02.453] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/185600, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[02Oct2025 22:58:02.453] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid[' '/185600, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[02Oct2025 22:58:02.454] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@2ba1a859, net.minecraft.world.item.trading.MerchantOffer@33579021, net.minecraft.world.item.trading.MerchantOffer@6c608e1b, net.minecraft.world.item.trading.MerchantOffer@74199a96, net.minecraft.world.item.trading.MerchantOffer@525c172c, net.minecraft.world.item.trading.MerchantOffer@5d8543de, net.minecraft.world.item.trading.MerchantOffer@35fd1e23, net.minecraft.world.item.trading.MerchantOffer@d88ef20, net.minecraft.world.item.trading.MerchantOffer@3f5f7cca, net.minecraft.world.item.trading.MerchantOffer@4833534c, net.minecraft.world.item.trading.MerchantOffer@1562406f, net.minecraft.world.item.trading.MerchantOffer@5fd94c0c] for Humanoid[' '/185600, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[02Oct2025 22:58:02.454] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:02.455] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:03.410] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.410] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.434] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:58:03.434] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:58:03.434] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.435] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.435] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.435] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.435] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.842] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:03.847] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:04.832] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:04.836] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_hive_1
+[02Oct2025 22:58:04.836] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:04.836] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:04.836] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:04.836] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:04.836] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:04.838] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:58:05.495] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_multitude
+[02Oct2025 22:58:06.683] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185037, l='ServerLevel[world]', x=944.76, y=66.00, z=809.62, removed=DISCARDED]
+[02Oct2025 22:58:08.491] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185666, l='ServerLevel[world]', x=911.11, y=20.00, z=878.31, removed=DISCARDED]
+[02Oct2025 22:58:08.529] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185667, l='ServerLevel[world]', x=911.13, y=20.00, z=879.62, removed=DISCARDED]
+[02Oct2025 22:58:09.341] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185673, l='ServerLevel[world]', x=947.13, y=11.00, z=872.14, removed=DISCARDED]
+[02Oct2025 22:58:09.695] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 60], discarding
+[02Oct2025 22:58:09.696] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 60], discarding
+[02Oct2025 22:58:09.705] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 61], discarding
+[02Oct2025 22:58:09.706] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 61], discarding
+[02Oct2025 22:58:09.876] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:sign
+[02Oct2025 22:58:09.876] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:sign' in chunk [30, 65], discarding
+[02Oct2025 22:58:09.902] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [35, 71], discarding
+[02Oct2025 22:58:09.903] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 71], discarding
+[02Oct2025 22:58:09.904] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 71], discarding
+[02Oct2025 22:58:09.905] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [38, 71], discarding
+[02Oct2025 22:58:09.918] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [35, 72], discarding
+[02Oct2025 22:58:09.920] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 72], discarding
+[02Oct2025 22:58:09.921] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 72], discarding
+[02Oct2025 22:58:09.922] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [38, 72], discarding
+[02Oct2025 22:58:09.938] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [39, 72], discarding
+[02Oct2025 22:58:09.939] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [40, 72], discarding
+[02Oct2025 22:58:09.940] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [41, 72], discarding
+[02Oct2025 22:58:09.942] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [42, 72], discarding
+[02Oct2025 22:58:09.954] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [35, 73], discarding
+[02Oct2025 22:58:09.955] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 73], discarding
+[02Oct2025 22:58:09.956] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 73], discarding
+[02Oct2025 22:58:09.957] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [38, 73], discarding
+[02Oct2025 22:58:09.959] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [39, 73], discarding
+[02Oct2025 22:58:09.960] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [40, 73], discarding
+[02Oct2025 22:58:09.961] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [41, 73], discarding
+[02Oct2025 22:58:09.963] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [42, 73], discarding
+[02Oct2025 22:58:10.010] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [35, 74], discarding
+[02Oct2025 22:58:10.011] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [36, 74], discarding
+[02Oct2025 22:58:10.013] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [37, 74], discarding
+[02Oct2025 22:58:10.015] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [38, 74], discarding
+[02Oct2025 22:58:10.016] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [39, 74], discarding
+[02Oct2025 22:58:10.017] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [40, 74], discarding
+[02Oct2025 22:58:10.019] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [41, 74], discarding
+[02Oct2025 22:58:10.020] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [42, 74], discarding
+[02Oct2025 22:58:10.184] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [43, 75], discarding
+[02Oct2025 22:58:10.185] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [44, 75], discarding
+[02Oct2025 22:58:10.195] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [53, 75], discarding
+[02Oct2025 22:58:10.196] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [54, 75], discarding
+[02Oct2025 22:58:10.197] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [55, 75], discarding
+[02Oct2025 22:58:10.198] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [56, 75], discarding
+[02Oct2025 22:58:10.199] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [57, 75], discarding
+[02Oct2025 22:58:10.200] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [58, 75], discarding
+[02Oct2025 22:58:10.202] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [59, 75], discarding
+[02Oct2025 22:58:10.203] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [60, 75], discarding
+[02Oct2025 22:58:16.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185666, l='ServerLevel[world]', x=911.11, y=20.00, z=878.31, removed=DISCARDED]
+[02Oct2025 22:58:16.401] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185667, l='ServerLevel[world]', x=911.13, y=20.00, z=879.62, removed=DISCARDED]
+[02Oct2025 22:58:26.627] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 22:58:27.085] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185980, l='ServerLevel[world]', x=938.13, y=16.00, z=914.13, removed=DISCARDED]
+[02Oct2025 22:58:27.352] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185673, l='ServerLevel[world]', x=947.13, y=11.00, z=872.14, removed=DISCARDED]
+[02Oct2025 22:58:27.791] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, 75], discarding
+[02Oct2025 22:58:27.793] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, 75], discarding
+[02Oct2025 22:58:27.805] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [53, 76], discarding
+[02Oct2025 22:58:27.828] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [54, 76], discarding
+[02Oct2025 22:58:27.829] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [55, 76], discarding
+[02Oct2025 22:58:27.830] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [56, 76], discarding
+[02Oct2025 22:58:27.832] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [57, 76], discarding
+[02Oct2025 22:58:27.833] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [58, 76], discarding
+[02Oct2025 22:58:27.834] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [59, 76], discarding
+[02Oct2025 22:58:27.835] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [60, 76], discarding
+[02Oct2025 22:58:27.836] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, 76], discarding
+[02Oct2025 22:58:27.842] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, 76], discarding
+[02Oct2025 22:58:27.850] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [53, 77], discarding
+[02Oct2025 22:58:27.851] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [54, 77], discarding
+[02Oct2025 22:58:27.853] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [55, 77], discarding
+[02Oct2025 22:58:27.854] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [56, 77], discarding
+[02Oct2025 22:58:27.855] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [57, 77], discarding
+[02Oct2025 22:58:27.856] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:mineshaft
+[02Oct2025 22:58:27.856] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [58, 77], discarding
+[02Oct2025 22:58:27.858] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [59, 77], discarding
+[02Oct2025 22:58:27.859] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [60, 77], discarding
+[02Oct2025 22:58:27.860] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, 77], discarding
+[02Oct2025 22:58:27.861] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, 77], discarding
+[02Oct2025 22:58:27.877] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [53, 78], discarding
+[02Oct2025 22:58:27.896] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [54, 78], discarding
+[02Oct2025 22:58:27.897] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [55, 78], discarding
+[02Oct2025 22:58:27.898] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [56, 78], discarding
+[02Oct2025 22:58:27.899] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [57, 78], discarding
+[02Oct2025 22:58:27.900] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [58, 78], discarding
+[02Oct2025 22:58:27.902] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [59, 78], discarding
+[02Oct2025 22:58:27.903] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [60, 78], discarding
+[02Oct2025 22:58:27.904] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, 78], discarding
+[02Oct2025 22:58:27.905] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, 78], discarding
+[02Oct2025 22:58:27.919] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [71, 75], discarding
+[02Oct2025 22:58:27.920] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [71, 76], discarding
+[02Oct2025 22:58:27.921] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [71, 77], discarding
+[02Oct2025 22:58:27.922] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [71, 78], discarding
+[02Oct2025 22:58:27.923] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [53, 79], discarding
+[02Oct2025 22:58:27.925] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [54, 79], discarding
+[02Oct2025 22:58:27.926] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [55, 79], discarding
+[02Oct2025 22:58:27.927] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [56, 79], discarding
+[02Oct2025 22:58:27.929] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [57, 79], discarding
+[02Oct2025 22:58:27.930] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [58, 79], discarding
+[02Oct2025 22:58:27.931] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [59, 79], discarding
+[02Oct2025 22:58:27.933] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [60, 79], discarding
+[02Oct2025 22:58:27.934] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [61, 79], discarding
+[02Oct2025 22:58:27.935] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [62, 79], discarding
+[02Oct2025 22:58:27.943] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [71, 79], discarding
+[02Oct2025 22:58:27.965] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [72, 75], discarding
+[02Oct2025 22:58:27.966] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [72, 76], discarding
+[02Oct2025 22:58:27.967] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [72, 77], discarding
+[02Oct2025 22:58:27.968] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [72, 78], discarding
+[02Oct2025 22:58:27.969] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [72, 79], discarding
+[02Oct2025 22:58:27.983] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [73, 75], discarding
+[02Oct2025 22:58:27.984] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [73, 78], discarding
+[02Oct2025 22:58:27.985] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [73, 79], discarding
+[02Oct2025 22:58:27.996] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, 76], discarding
+[02Oct2025 22:58:27.997] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, 77], discarding
+[02Oct2025 22:58:27.998] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, 78], discarding
+[02Oct2025 22:58:27.999] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [74, 79], discarding
+[02Oct2025 22:58:29.189] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.190] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.198] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_wither_patrol
+[02Oct2025 22:58:29.198] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:29.198] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.992] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:29.993] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.993] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:the_wither_patrol
+[02Oct2025 22:58:29.993] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.993] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:soulspread_entity
+[02Oct2025 22:58:29.993] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:29.993] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id withering_away_reborn:spreedentity
+[02Oct2025 22:58:31.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185037, l='ServerLevel[world]', x=944.76, y=66.00, z=809.62, removed=DISCARDED]
+[02Oct2025 22:58:34.192] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [78, 40], discarding
+[02Oct2025 22:58:34.193] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 40], discarding
+[02Oct2025 22:58:34.221] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [79, 41], discarding
+[02Oct2025 22:58:34.223] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [80, 41], discarding
+[02Oct2025 22:58:34.232] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [81, 42], discarding
+[02Oct2025 22:58:37.937] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185980, l='ServerLevel[world]', x=938.13, y=16.00, z=914.13, removed=DISCARDED]
+[02Oct2025 22:58:38.129] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185666, l='ServerLevel[world]', x=911.11, y=20.00, z=878.31, removed=DISCARDED]
+[02Oct2025 22:58:38.129] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185667, l='ServerLevel[world]', x=911.13, y=20.00, z=879.62, removed=DISCARDED]
+[02Oct2025 22:58:45.790] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 22:58:47.926] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:00:30.378] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:01:14.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[02Oct2025 23:01:49.730] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:02:18.476] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:02:34.590] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:03:07.830] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:05:27.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[02Oct2025 23:05:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[02Oct2025 23:06:06.222] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/185980, l='ServerLevel[world]', x=938.13, y=16.00, z=914.13, removed=DISCARDED]
+[02Oct2025 23:06:06.774] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:06:16.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:06:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[02Oct2025 23:06:50.985] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/186111, l='ServerLevel[world]', x=887.88, y=31.00, z=953.53, removed=DISCARDED]
+[02Oct2025 23:08:55.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 64 [Heart Crystal] to ServerZero]
