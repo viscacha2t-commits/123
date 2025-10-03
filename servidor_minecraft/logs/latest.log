@@ -1046,3 +1046,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [03Oct2025 22:23:46.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [03Oct2025 22:23:47.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [03Oct2025 22:23:47.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[03Oct2025 22:24:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HOLAS
+[03Oct2025 22:24:31.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> VOICE CHAT?
+[03Oct2025 22:24:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mierda
+[03Oct2025 22:24:43.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo creo primero DX
+[03Oct2025 22:24:46.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> yes
+[03Oct2025 22:24:51.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[03Oct2025 22:24:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> progreso
+[03Oct2025 22:24:57.740] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[03Oct2025 22:25:17.072] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "C0LIGAMES" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-1018, y=114, z=-697}] too quickly!
+[03Oct2025 22:26:35.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -2.305421435671974,11.812510866073183,-6.104833108017715
+[03Oct2025 22:27:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mira tu xd
+[03Oct2025 22:27:26.261] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 42], discarding
+[03Oct2025 22:27:26.275] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 43], discarding
+[03Oct2025 22:27:26.277] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 43], discarding
+[03Oct2025 22:27:26.279] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 43], discarding
+[03Oct2025 22:27:26.289] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 44], discarding
+[03Oct2025 22:27:26.291] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 44], discarding
+[03Oct2025 22:27:26.292] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 44], discarding
+[03Oct2025 22:27:26.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 44], discarding
+[03Oct2025 22:27:26.346] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [15, 43], discarding
+[03Oct2025 22:27:26.347] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [15, 44], discarding
+[03Oct2025 22:27:26.368] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [14, 42], discarding
+[03Oct2025 22:27:26.369] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [14, 43], discarding
+[03Oct2025 22:27:26.370] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [14, 44], discarding
+[03Oct2025 22:28:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: xd puro error del grotesco
+[03Oct2025 22:31:22.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ C0LIGAMES ha consumido un tótem!
+[03Oct2025 22:32:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[03Oct2025 22:32:50.301] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['entity.easy_npc.humanoid'/16, l='ServerLevel[world]', x=-66.50, y=68.00, z=14.50] with [net.minecraft.world.item.trading.MerchantOffer@5c322379, net.minecraft.world.item.trading.MerchantOffer@626585f, net.minecraft.world.item.trading.MerchantOffer@14a24767, net.minecraft.world.item.trading.MerchantOffer@479a2b39, net.minecraft.world.item.trading.MerchantOffer@afef158, net.minecraft.world.item.trading.MerchantOffer@3e2ea4f8, net.minecraft.world.item.trading.MerchantOffer@38315525, net.minecraft.world.item.trading.MerchantOffer@2ee472f9, net.minecraft.world.item.trading.MerchantOffer@53ed324c, net.minecraft.world.item.trading.MerchantOffer@182f55ad, net.minecraft.world.item.trading.MerchantOffer@2a05a3f0, net.minecraft.world.item.trading.MerchantOffer@277b6ff3] from ServerPlayer['C0LIGAMES'/4311, l='ServerLevel[world]', x=-63.71, y=68.00, z=13.44], ServerPlayer['joaocover'/19, l='ServerLevel[world]', x=-64.27, y=68.00, z=14.67] is still trading.
+[03Oct2025 22:34:07.003] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/135680, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[03Oct2025 22:34:07.004] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/135680, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[03Oct2025 22:34:07.004] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['entity.easy_npc.humanoid'/135680, l='ServerLevel[world]', x=-66.50, y=68.00, z=10.50] ...
+[03Oct2025 22:34:07.004] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['entity.easy_npc.humanoid'/135680, l='ServerLevel[world]', x=-66.50, y=68.00, z=10.50] ...
