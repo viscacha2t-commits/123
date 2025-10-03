@@ -8190,9 +8190,10 @@
       "minecraft:crimson_forest": "2025-09-12 03:12:23 +0000",
       "minecraft:nether_wastes": "2025-08-13 00:26:43 +0000",
       "minecraft:soul_sand_valley": "2025-09-14 01:54:54 +0000",
-      "minecraft:warped_forest": "2025-09-12 02:50:31 +0000"
+      "minecraft:warped_forest": "2025-09-12 02:50:31 +0000",
+      "minecraft:basalt_deltas": "2025-10-03 04:49:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
