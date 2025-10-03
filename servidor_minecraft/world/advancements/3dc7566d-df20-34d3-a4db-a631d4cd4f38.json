@@ -8511,6 +8511,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-10-03 04:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-10-03 03:37:33 +0000"
@@ -8526,6 +8532,24 @@
   "toughasnails:recipes/food/cactus_juice": {
     "criteria": {
       "has_cactus": "2025-10-03 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-03 04:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-03 04:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-03 04:13:18 +0000"
     },
     "done": true
   },
