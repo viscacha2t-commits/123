@@ -4105,3 +4105,18 @@ thursday-margin.gl.at.ply.gg:5241 => 127.0.0.1:5241 (proto: Udp, port count: 1)
 TUNNELS
 income-locking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 thursday-margin.gl.at.ply.gg:5241 => 127.0.0.1:5241 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 520, "error code: 520"))
+[2J8[0mplayit (v0.16.3): 1759458456754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+income-locking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+thursday-margin.gl.at.ply.gg:5241 => 127.0.0.1:5241 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1759458460614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+income-locking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+thursday-margin.gl.at.ply.gg:5241 => 127.0.0.1:5241 (proto: Udp, port count: 1)
