@@ -773,3 +773,178 @@
 [03Oct2025 01:00:29.763] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [40, 73], discarding
 [03Oct2025 01:00:29.764] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [41, 73], discarding
 [03Oct2025 01:00:29.765] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [42, 73], discarding
+[03Oct2025 01:01:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Killed 198 entities]
+[03Oct2025 01:01:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[03Oct2025 01:02:19.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported 180 entities to 728.650000, 72.000000, 744.250000]
+[03Oct2025 01:02:19.341] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[03Oct2025 01:02:28.918] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem has died
+[03Oct2025 01:03:07.418] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 43], discarding
+[03Oct2025 01:03:07.428] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 44], discarding
+[03Oct2025 01:03:07.431] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 44], discarding
+[03Oct2025 01:03:07.549] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 55], discarding
+[03Oct2025 01:03:07.550] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 55], discarding
+[03Oct2025 01:03:07.551] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [20, 55], discarding
+[03Oct2025 01:03:07.552] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [21, 55], discarding
+[03Oct2025 01:03:07.553] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [22, 55], discarding
+[03Oct2025 01:03:07.554] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [23, 55], discarding
+[03Oct2025 01:03:07.585] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 43], discarding
+[03Oct2025 01:03:07.586] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 44], discarding
+[03Oct2025 01:03:07.596] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 55], discarding
+[03Oct2025 01:03:07.597] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 56], discarding
+[03Oct2025 01:03:07.598] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 56], discarding
+[03Oct2025 01:03:07.599] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 56], discarding
+[03Oct2025 01:03:07.600] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [20, 56], discarding
+[03Oct2025 01:03:07.601] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [21, 56], discarding
+[03Oct2025 01:03:07.602] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [22, 56], discarding
+[03Oct2025 01:03:07.603] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [23, 56], discarding
+[03Oct2025 01:03:07.620] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 42], discarding
+[03Oct2025 01:03:07.621] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 43], discarding
+[03Oct2025 01:03:07.622] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 44], discarding
+[03Oct2025 01:03:07.628] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 55], discarding
+[03Oct2025 01:03:07.630] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 56], discarding
+[03Oct2025 01:03:07.631] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 57], discarding
+[03Oct2025 01:03:07.632] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 57], discarding
+[03Oct2025 01:03:07.633] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 57], discarding
+[03Oct2025 01:03:07.634] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 57], discarding
+[03Oct2025 01:03:07.646] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [20, 57], discarding
+[03Oct2025 01:03:07.648] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [21, 57], discarding
+[03Oct2025 01:03:07.649] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [22, 57], discarding
+[03Oct2025 01:03:07.650] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [23, 57], discarding
+[03Oct2025 01:03:07.653] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 58], discarding
+[03Oct2025 01:03:07.654] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 58], discarding
+[03Oct2025 01:03:07.654] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 58], discarding
+[03Oct2025 01:03:07.655] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 58], discarding
+[03Oct2025 01:03:07.656] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [20, 58], discarding
+[03Oct2025 01:03:07.657] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [21, 58], discarding
+[03Oct2025 01:03:07.659] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [22, 58], discarding
+[03Oct2025 01:03:07.660] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [23, 58], discarding
+[03Oct2025 01:03:07.663] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 59], discarding
+[03Oct2025 01:03:07.665] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 59], discarding
+[03Oct2025 01:03:07.666] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 59], discarding
+[03Oct2025 01:03:07.667] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 59], discarding
+[03Oct2025 01:03:07.668] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [20, 59], discarding
+[03Oct2025 01:03:07.669] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: grotesque_steve:mineshaft
+[03Oct2025 01:03:07.669] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [21, 59], discarding
+[03Oct2025 01:03:07.670] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [22, 59], discarding
+[03Oct2025 01:03:07.671] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [23, 59], discarding
+[03Oct2025 01:03:07.715] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [16, 60], discarding
+[03Oct2025 01:03:07.716] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [17, 60], discarding
+[03Oct2025 01:03:07.717] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [18, 60], discarding
+[03Oct2025 01:03:07.718] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [19, 60], discarding
+[03Oct2025 01:03:07.719] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [20, 60], discarding
+[03Oct2025 01:03:07.720] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [21, 60], discarding
+[03Oct2025 01:03:07.721] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [22, 60], discarding
+[03Oct2025 01:03:07.722] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [23, 60], discarding
+[03Oct2025 01:03:21.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported 114 entities to 613.720000, 70.000000, 645.810000]
+[03Oct2025 01:03:31.178] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[03Oct2025 01:03:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Killed 103 entities]
+[03Oct2025 01:03:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[03Oct2025 01:04:22.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported 231 entities to 558.320000, 81.000000, 561.030000]
+[03Oct2025 01:04:29.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero died
+[03Oct2025 01:04:29.270] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ServerZero with unique ID travelersbackpack.netherite_03.10.2025-01.04.29.dat
+[03Oct2025 01:04:29.317] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[03Oct2025 01:04:29.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Killed 100 entities]
+[03Oct2025 01:04:32.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Oct2025 01:04:32.234] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Oct2025 01:04:32.285] [Server thread/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.CrashReport.m_127521_(CrashReport.java:208) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:895) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Oct2025 01:04:32.315] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at com.google.common.collect.Iterators$1.next(Iterators.java:146) ~[guava-31.1-jre.jar%2372!/:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:175) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287189_(ChunkHolder.java:346) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_143003_(ChunkHolder.java:416) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.DistanceManager.m_183906_(DistanceManager.java:120) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.server.level.DistanceManager.m_140805_(DistanceManager.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8489_(ServerChunkCache.java:273) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	... 5 more
+[03Oct2025 01:04:32.397] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d91c7375-519d-4f6a-a720-87dcde8bfe6c
+[03Oct2025 01:04:32.398] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/123/servidor_minecraft/./crash-reports/crash-2025-10-03_01.04.32-server.txt
+[03Oct2025 01:04:32.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Oct2025 01:04:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Oct2025 01:04:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Oct2025 01:04:32.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Oct2025 01:04:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Oct2025 01:04:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Oct2025 01:04:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Oct2025 01:04:32.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bb:realend
+[03Oct2025 01:04:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ihfr:the_carnage
+[03Oct2025 01:04:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/scprotect:scp_106
+[03Oct2025 01:04:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Oct2025 01:04:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Oct2025 01:04:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Oct2025 01:04:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Oct2025 01:04:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (realend): All chunks are saved
+[03Oct2025 01:04:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_carnage): All chunks are saved
+[03Oct2025 01:04:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (scp_106): All chunks are saved
+[03Oct2025 01:04:32.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

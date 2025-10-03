@@ -8920,6 +8920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-03 01:03:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_silver_neck": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
