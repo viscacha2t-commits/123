@@ -4339,7 +4339,7 @@
 			icon: "minecraft:clock"
 			id: "62EDB33F9704F48D"
 			rewards: [{
-				id: "20CFAF11F46A7794"
+				id: "2FF328F5AE622007"
 				item: "dedsafio3:deditamulticolor"
 				type: "item"
 			}]
@@ -4357,7 +4357,7 @@
 			id: "1482431AB379E916"
 			rewards: [{
 				count: 2
-				id: "2BDC70141A89BE5A"
+				id: "4DC234F0678EBE9F"
 				item: "dedsafio3:deditamulticolor"
 				type: "item"
 			}]
@@ -4376,7 +4376,7 @@
 			id: "6E236BC93B616D75"
 			rewards: [{
 				count: 3
-				id: "643FF98270764874"
+				id: "6D977594684661B7"
 				item: "dedsafio3:deditamulticolor"
 				type: "item"
 			}]
@@ -4396,7 +4396,7 @@
 			id: "24623148FB673C05"
 			rewards: [{
 				count: 4
-				id: "6037426EFDC1253A"
+				id: "551918DB625DCBDC"
 				item: "dedsafio3:deditamulticolor"
 				type: "item"
 			}]
