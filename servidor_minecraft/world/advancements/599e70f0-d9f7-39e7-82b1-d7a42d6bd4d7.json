@@ -12085,6 +12085,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-10-03 04:40:52 +0000"
+    },
+    "done": true
+  },
   "azukaarsfairdifficultyoverhaul:bestiary/root": {
     "criteria": {
       "automatic": "2025-10-03 03:09:18 +0000"
@@ -12094,6 +12100,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-10-03 04:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-10-03 04:40:52 +0000"
     },
     "done": true
   },

@@ -1774,3 +1774,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [03Oct2025 04:37:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> es q me olvide de mate tmb ps
 [03Oct2025 04:37:53.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> recupera tus cosas XD
 [03Oct2025 04:38:18.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> weno
+[03Oct2025 04:39:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tiene pinta de boss XD
+[03Oct2025 04:39:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q cosa?
+[03Oct2025 04:40:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q haces aquí?
+[03Oct2025 04:41:42.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo moved wrongly!
+[03Oct2025 04:45:47.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> exploro
+[03Oct2025 04:45:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> si quieres
+[03Oct2025 04:46:39.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> me ire a chisear o a hacer mate, lo que salga primero
+[03Oct2025 04:46:53.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[03Oct2025 04:46:59.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> Bye, Byron
+[03Oct2025 04:47:01.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[03Oct2025 04:47:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[03Oct2025 04:47:02.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[03Oct2025 04:48:07.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[03Oct2025 04:48:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
