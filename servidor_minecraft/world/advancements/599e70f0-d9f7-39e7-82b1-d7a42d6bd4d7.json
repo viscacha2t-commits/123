@@ -11191,12 +11191,6 @@
     },
     "done": true
   },
-  "death_angels:death_angel_advancement": {
-    "criteria": {
-      "death_angel_advancement_0": "2025-09-23 22:16:01 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-23 22:16:02 +0000"
@@ -11455,12 +11449,6 @@
     },
     "done": true
   },
-  "death_angels:deadly_best_friends": {
-    "criteria": {
-      "deadly_best_friends_0": "2025-09-28 20:56:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab": {
     "criteria": {
       "has_block": "2025-09-28 21:07:33 +0000"
@@ -11626,12 +11614,6 @@
   "ihfr:someoneshouldputa_fenceherre": {
     "criteria": {
       "someoneshouldputa_fenceherre_0": "2025-09-28 21:44:18 +0000"
-    },
-    "done": true
-  },
-  "death_angels:radioactive_age": {
-    "criteria": {
-      "radioactive_age_0": "2025-09-28 22:05:38 +0000"
     },
     "done": true
   },
@@ -11869,6 +11851,30 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-09-30 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-30 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/cactus_juice": {
+    "criteria": {
+      "has_cactus": "2025-09-30 00:47:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-09-30 00:57:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
@@ -11878,12 +11884,6 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-09-30 00:47:34 +0000"
     },
     "done": true
   },
@@ -11923,39 +11923,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-09-30 01:18:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-09-30 01:18:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-09-30 01:18:32 +0000"
-    },
-    "done": true
-  },
-  "death_angels:controlle_center": {
-    "criteria": {
-      "controlle_center_0": "2025-09-30 02:29:14 +0000"
     },
     "done": true
   },
@@ -11971,27 +11947,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2025-09-30 01:18:45 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol_silk_touch": {
-    "criteria": {
-      "steal_crystal": "2025-09-30 01:40:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-09-30 01:18:45 +0000"
     },
     "done": true
   },
@@ -12013,57 +11971,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/building_blocks/dye_orange_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-09-30 01:18:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-09-30 00:47:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-09-30 01:18:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
     },
     "done": true
   },
-  "toughasnails:recipes/food/cactus_juice": {
-    "criteria": {
-      "has_cactus": "2025-09-30 00:47:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-09-30 00:57:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-09-30 01:18:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-09-30 01:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-09-30 01:18:45 +0000"
     },
     "done": true
   },
@@ -12091,15 +12007,75 @@
     },
     "done": true
   },
-  "death_angels:mass_destruction": {
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
-      "mass_destruction_0": "2025-09-30 02:24:31 +0000"
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-30 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_orange_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_silk_touch": {
+    "criteria": {
+      "steal_crystal": "2025-09-30 01:40:18 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2025-09-30 02:09:50 +0000"
+    },
+    "done": true
+  },
+  "azukaarsfairdifficultyoverhaul:bestiary/root": {
+    "criteria": {
+      "automatic": "2025-10-03 03:09:18 +0000"
     },
     "done": true
   },
