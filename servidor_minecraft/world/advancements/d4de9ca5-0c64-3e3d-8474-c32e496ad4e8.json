@@ -8746,6 +8746,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-02 23:32:27 +0000"
@@ -8848,6 +8860,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/fire_dragonsteel_heavy_crossbow": {
     "criteria": {
       "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
@@ -8881,6 +8899,36 @@
   "spartanfire:recipes/fire_dragonsteel_flanged_mace": {
     "criteria": {
       "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -8968,6 +9016,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/ice_dragonsteel_boomerang": {
     "criteria": {
       "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
@@ -8992,6 +9052,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_silver_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/fire_dragonsteel_pike": {
     "criteria": {
       "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
@@ -9001,6 +9073,12 @@
   "mca:recipes/decorations/cyan_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9118,9 +9196,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_copper_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/ice_dragonsteel_javelin": {
     "criteria": {
       "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9133,6 +9235,12 @@
   "iceandfire:recipes/tools/dragonsteel_fire_axe": {
     "criteria": {
       "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9220,6 +9328,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_diamond_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
     "criteria": {
       "has_item": "2025-10-02 23:18:37 +0000"
@@ -9256,9 +9382,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9304,6 +9448,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_silver_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/fire_dragonsteel_battle_hammer": {
     "criteria": {
       "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
@@ -9313,6 +9463,12 @@
   "spartanfire:recipes/ice_dragonsteel_halberd": {
     "criteria": {
       "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9349,6 +9505,12 @@
   "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
     "criteria": {
       "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_sword": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9430,6 +9592,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_sword": {
     "criteria": {
       "has_item": "2025-10-02 23:18:22 +0000"
@@ -9460,6 +9628,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/fire_dragonsteel_quarterstaff": {
     "criteria": {
       "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
@@ -9469,6 +9643,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-10-02 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9487,6 +9667,12 @@
   "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
     "criteria": {
       "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9568,6 +9754,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragonsteel_battle_hammer": {
     "criteria": {
       "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
@@ -9628,6 +9820,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-10-02 23:59:44 +0000"
@@ -9637,6 +9835,12 @@
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9676,9 +9880,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/ice_dragonsteel_longsword": {
     "criteria": {
       "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9703,6 +9925,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
