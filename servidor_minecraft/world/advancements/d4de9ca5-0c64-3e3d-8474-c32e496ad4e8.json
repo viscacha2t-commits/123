@@ -8740,21 +8740,651 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-02 22:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-10-02 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-10-02 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-10-02 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-10-02 23:10:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
     "criteria": {
       "has_item": "2025-10-02 23:18:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/copper_shovel": {
+  "spartanfire:recipes/fire_dragonsteel_longbow": {
     "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
     "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_lance": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_heavy_crossbow": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_flanged_mace": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_katana": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_halberd": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_parrying_dagger": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_battleaxe": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_pike": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_glaive": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_dagger": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_longsword": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_spear": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_boomerang": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_battle_hammer": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_saber": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_scythe": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_quarterstaff": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_greatsword": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_javelin": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_rapier": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_tomahawk": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_warhammer": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/fire_dragonsteel_throwing_knife": {
+    "criteria": {
+      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_greatsword": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_boomerang": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_battleaxe": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_spear": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_glaive": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_javelin": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_dagger": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_throwing_knife": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_flanged_mace": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_saber": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_battle_hammer": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_longbow": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_tomahawk": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_halberd": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_scythe": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_heavy_crossbow": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_quarterstaff": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_lance": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_warhammer": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_katana": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_parrying_dagger": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_pike": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_rapier": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_longsword": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_dagger": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_warhammer": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_rapier": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_longbow": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_parrying_dagger": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_halberd": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_quarterstaff": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_battleaxe": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_tomahawk": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_throwing_knife": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_glaive": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_spear": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_scythe": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_boomerang": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_saber": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_javelin": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_longsword": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_lance": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_pike": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_greatsword": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_flanged_mace": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_battle_hammer": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_katana": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragonsteel_heavy_crossbow": {
+    "criteria": {
+      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
     },
     "done": true
   },
@@ -8782,207 +9412,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/fire_dragonsteel_longbow": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_dagger": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_warhammer": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_rapier": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_lance": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/scanner_trapdoor": {
-    "criteria": {
-      "has_reinforced_trapdoor": "2025-10-03 00:15:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel": {
-    "criteria": {
-      "steel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_longbow": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_greatsword": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_heavy_crossbow": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-10-02 22:52:05 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/decorations/thermoregulator": {
-    "criteria": {
-      "has_thermometer": "2025-10-03 00:04:40 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_flanged_mace": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/copper_axe": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_copper_head": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-10-03 01:03:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_axe": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_parrying_dagger": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_katana": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
-    "criteria": {
-      "has_dragonsteel_fire_ingot": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_halberd": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-10-02 23:10:26 +0000"
     },
     "done": true
   },
@@ -8992,117 +9424,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragonsteel_quarterstaff": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_battleaxe": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_halberd": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_parrying_dagger": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/redstone/temperature_gauge": {
-    "criteria": {
-      "has_thermometer": "2025-10-03 00:04:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_sword": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_boomerang": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_battleaxe": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_silver_tail": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_copper_body": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_pike": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_gold_head": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_tomahawk": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_throwing_knife": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
     },
     "done": true
   },
@@ -9112,147 +9436,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragonsteel_glaive": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/white_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_battleaxe": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_spear": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_spear": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_scythe": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_boomerang": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_glaive": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-10-02 23:10:26 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_glaive": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "ghoul": "2025-10-02 23:32:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_copper_tail": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_javelin": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/copper_hoe": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_head": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_dagger": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_pickaxe": {
-    "criteria": {
-      "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_dagger": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
     },
     "done": true
   },
@@ -9274,21 +9460,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/green_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_throwing_knife": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
     },
     "done": true
   },
@@ -9304,9 +9478,63 @@
     },
     "done": true
   },
-  "spartanfire:recipes/ice_dragonsteel_flanged_mace": {
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-10-02 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-10-02 23:32:55 +0000"
     },
     "done": true
   },
@@ -9316,21 +9544,285 @@
     },
     "done": true
   },
-  "spartanfire:recipes/ice_dragonsteel_saber": {
+  "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
+      "has_planks": "2025-10-02 23:59:44 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragonsteel_saber": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
+      "has_planks": "2025-10-02 23:59:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "mca:recipes/decorations/cyan_oak_crib": {
     "criteria": {
-      "has_rail": "2025-10-02 23:10:26 +0000"
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-10-02 23:59:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-10-03 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-10-03 00:04:40 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-10-03 00:04:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_trapdoor": {
+    "criteria": {
+      "has_reinforced_trapdoor": "2025-10-03 00:15:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_neck": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_silver_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_body": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_copper_tail": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
@@ -9352,51 +9844,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_battle_hammer": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_longsword": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
-    "criteria": {
-      "has_dragonsteel_lightning_ingot": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_gray_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_longbow": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
     },
     "done": true
   },
@@ -9412,63 +9862,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/blue_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_spear": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_boomerang": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_tomahawk": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-10-03 00:04:24 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonarmor_silver_body": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_battle_hammer": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_halberd": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
     },
     "done": true
   },
@@ -9478,123 +9874,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/purple_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/red_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_scythe": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/copper_sword": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_javelin": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_longsword": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_heavy_crossbow": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_saber": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/magenta_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_quarterstaff": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_lance": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_lance": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
     },
     "done": true
   },
@@ -9604,51 +9886,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_scythe": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_copper_metal_boots": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_quarterstaff": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-10-02 23:10:26 +0000"
     },
     "done": true
   },
@@ -9658,105 +9898,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_pike": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonarmor_copper_neck": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_warhammer": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_greatsword": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_greatsword": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_katana": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_flanged_mace": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
-    "criteria": {
-      "has_dragonsteel_ice_ingot": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_parrying_dagger": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_pike": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_javelin": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/lime_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_rapier": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
     },
     "done": true
   },
@@ -9766,81 +9910,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/lightning_dragonsteel_battle_hammer": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_tomahawk": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/black_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/fire_dragonsteel_warhammer": {
-    "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/silver_hoe": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/pink_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/orange_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
     },
     "done": true
   },
@@ -9850,51 +9922,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/brown_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_rapier": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/yellow_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_katana": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/lightning_dragonsteel_heavy_crossbow": {
-    "criteria": {
-      "has_lightning_dragonsteel": "2025-10-02 23:18:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonarmor_gold_body": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/ice_dragonsteel_longsword": {
-    "criteria": {
-      "has_ice_dragonsteel": "2025-10-02 23:18:35 +0000"
     },
     "done": true
   },
@@ -9910,45 +9940,129 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
-    "criteria": {
-      "has_item": "2025-10-02 23:18:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_blue_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_oak_crib": {
-    "criteria": {
-      "has_oak_planks": "2025-10-02 23:59:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
-    "criteria": {
-      "has_stick": "2025-10-02 23:32:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_silver_metal_leggings": {
     "criteria": {
       "has_item": "2025-10-03 00:22:18 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_item": "2025-10-02 23:18:22 +0000"
+      "has_poppy": "2025-10-03 01:03:22 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/fire_dragonsteel_throwing_knife": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_fire_dragonsteel": "2025-10-02 23:18:22 +0000"
+      "cabbage_seeds": "2025-10-03 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-03 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-10-03 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-10-03 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-10-03 01:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-10-03 01:10:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-10-03 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-10-03 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-10-03 01:49:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-10-03 01:50:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2025-10-03 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-10-03 01:50:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2025-10-03 01:52:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-10-03 01:52:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither_smithing": {
+    "criteria": {
+      "has_wither": "2025-10-03 01:53:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2025-10-03 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden_smithing": {
+    "criteria": {
+      "has_warden": "2025-10-03 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-10-03 01:54:38 +0000"
+    },
+    "done": true
+  },
+  "golden_apple_tree:recipes/food/golden_apple_sapling": {
+    "criteria": {
+      "has_oak_sapling": "2025-10-03 02:06:27 +0000"
     },
     "done": true
   },
