@@ -1447,6 +1447,32 @@
 			x: 4.5d
 			y: -0.5d
 		}
+		{
+			can_repeat: true
+			id: "2F973D5E74EFAA52"
+			rewards: [
+				{
+					count: 10
+					id: "17BAF71800AAE9C7"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1D25B55CEDF92421"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "minecraft:phantom_membrane"
+				id: "59835CA306DDD3B6"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
 	]
 	title: "Cacería"
 }
