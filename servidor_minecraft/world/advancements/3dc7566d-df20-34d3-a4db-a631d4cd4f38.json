@@ -7646,12 +7646,6 @@
     },
     "done": true
   },
-  "death_angels:death_angel_advancement": {
-    "criteria": {
-      "death_angel_advancement_0": "2025-09-26 02:40:36 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-26 02:40:36 +0000"
@@ -8474,15 +8468,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2025-09-30 01:09:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-09-30 00:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-09-30 01:09:39 +0000"
     },
     "done": true
   },
@@ -8501,6 +8495,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-09-30 01:09:43 +0000"
+    },
+    "done": true
+  },
+  "azukaarsfairdifficultyoverhaul:bestiary/root": {
+    "criteria": {
+      "automatic": "2025-10-03 03:23:45 +0000"
     },
     "done": true
   },

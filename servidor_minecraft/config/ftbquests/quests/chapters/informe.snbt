@@ -8,6 +8,33 @@
 	quest_links: [ ]
 	quests: [{
 		id: "73B34967DCE3443D"
+		rewards: [{
+			id: "330A22A4B844EA90"
+			item: {
+				Count: 1
+				id: "minecraft:writable_book"
+				tag: {
+					pages: [
+						"Hola con todos\nLos saluda ServerZero\n(Choclo \"admin\")\n\n\n\n\n\n\n\n\n\n                 ----->"
+						"En este libro les dare los cambios de dificultad y lo actualizare y como no se de editar el libro para todos vengar a recoger uno por cada cambio de dificultad añadido XD\n\n\n\n\n                  ----->"
+						"Damage Cactus:\nLos cactus hacen daño infinito \n(Cancelado por bug)\n\n\nFuego Eterno: \nEl fuego no se apaga a menos con agua, nieve en polvo o entres a un caldero\n\n\n               ------>"
+						"Fiebre Aracnida:\nAl romper una telaraña saldra una araña venenosa\n\n\n\nLava Purificadora:\nLa lava quita todos los efectos de pocion, manzanas, etc\n\n\n                  ------>"
+						"Damage Buttons: Los botones hacen daño infinito\n\n\n\nEnder Vision: Los endermans al golpearte te dan su vision\n\n\n\n                  ------>"
+						"Fiebre Tejedora: Las arañas te dejan telarañas en los pies al atacarte\n\n\nInfection: Al golpearte un zombi te da Zombificacion se cura con manzana dorada y pocion de debilidad (Si no lo curas popea totem o te mata)\n                  ------>"
+						"Infernus: El fuego hace el doble de daño\n\n\nLava Mortal: La lava hace mas daño\n\n\nNo Breathing: El tiempo para respirar bajo el agua es muy corto\n\n\n                  ------>"
+						"Phanthom Shuffle: Al recibir un ataque de un fantasma este te cambia la vision y remueve tu inventario\n\n\nPies Debiles: El daño de caida es multiplicado x3\n\n\n\n                  ------>"
+						"Plague Control: Los animales ya no spawnean naturalmente todos fueron extintos\n\n\nRadiacion: La radiacion solo a las plantas evitan que crezcan\n\n\n                     \n                  ------>"
+						"Angeles muertos: Choclo a desarrollado una atmosfera que bloquea los meteoritos de los angeles muertos evitando que entren al mundo cubico y evitando la destruccion del servidor pero a esto vienen sus   \nconsecuencias.....\n\n                 ------>\n"
+						"Pesadilla: Se a agregado una nueva dimension oslo puedes entrar a esta durmiendo dependo de tu suerte o probabilidad si entras ahi sal lo mas rapido posible\n\n\n\n\n                  ------>"
+						"Cementerios: Que tiene que ver esto el Whiter Storm y los angeles caidos antes de ser expulsados del mundo cubico y prohibirle la entrada a estos desarrollaron unos mobs \"Espeluznantes\" no sabemos mucho de esto asi que les tocara invertigar\n\n                  ------>"
+						"Marchitación: Culito Games junto a la ayuda de Joaocover desarrollaron la cura entrando a la dimension wither eliminando el virus permanentemente del servidor o eso creemos\n\n\n\n                  ------>"
+						"Mutantes: Nuevos monstruos apareceran en la noche estos son los mutantes mobs vanilla modificados para ser mas fuertes, resistentes y con habilidades unicas de ellos \n\n\n\n                  ------>"
+						"Dificultades: Se han añadido 3 nuevas dificultades las cuales son Experto, Pesadilla y Apocalíptica la maxima dificultad a la que llegara el servidor sera a Pesadilla la dificultad Apocalíptica seran en ocasiones especiales y en ciertas dificultades la IA de los mobs se multiplica"
+					]
+				}
+			}
+			type: "item"
+		}]
 		tasks: [{
 			advancement: "minecraft:story/mine_stone"
 			criterion: ""

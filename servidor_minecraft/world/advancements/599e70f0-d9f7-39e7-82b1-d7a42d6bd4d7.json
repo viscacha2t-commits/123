@@ -12073,6 +12073,18 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-10-03 03:14:08 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_dragon_breath": "2025-10-03 03:18:09 +0000"
+    },
+    "done": true
+  },
   "azukaarsfairdifficultyoverhaul:bestiary/root": {
     "criteria": {
       "automatic": "2025-10-03 03:09:18 +0000"

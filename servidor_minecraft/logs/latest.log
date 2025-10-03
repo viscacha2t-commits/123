@@ -1017,3 +1017,89 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4:
 [03Oct2025 03:15:18.643] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Oct2025 03:15:18.644] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [03Oct2025 03:15:18.644] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[03Oct2025 03:22:34.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@36e97f36[id=3dc7566d-df20-34d3-a4db-a631d4cd4f38,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:38417): You are not white-listed on this server!
+[03Oct2025 03:22:34.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36e97f36[id=3dc7566d-df20-34d3-a4db-a631d4cd4f38,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:38417) lost connection: You are not white-listed on this server!
+[03Oct2025 03:22:34.384] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 03:22:42.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@49b082[id=3dc7566d-df20-34d3-a4db-a631d4cd4f38,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:36295): You are not white-listed on this server!
+[03Oct2025 03:22:42.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49b082[id=3dc7566d-df20-34d3-a4db-a631d4cd4f38,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:36295) lost connection: You are not white-listed on this server!
+[03Oct2025 03:22:42.931] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 03:22:57.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5588a6f5[id=3dc7566d-df20-34d3-a4db-a631d4cd4f38,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:58729): You are not white-listed on this server!
+[03Oct2025 03:22:57.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5588a6f5[id=3dc7566d-df20-34d3-a4db-a631d4cd4f38,name=UnMarshelo,properties={},legacy=false] (/127.23.59.74:58729) lost connection: You are not white-listed on this server!
+[03Oct2025 03:22:57.082] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 03:23:23.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Added UnMarshelo to the whitelist]
+[03Oct2025 03:23:44.985] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:hearing_aid_item is
+[03Oct2025 03:23:44.986] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:burned_stone is
+[03Oct2025 03:23:44.986] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:hearing_aid_item is
+[03Oct2025 03:23:44.986] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:death_angel_meat is
+[03Oct2025 03:23:44.986] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:death_angel_baby is
+[03Oct2025 03:23:44.987] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:death_angel is
+[03Oct2025 03:23:44.987] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:burned_stone is
+[03Oct2025 03:23:44.987] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:tamable_death_angel_egg is
+[03Oct2025 03:23:44.987] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:death_angel_meat is
+[03Oct2025 03:23:44.987] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:hearing_aid_item is
+[03Oct2025 03:23:44.988] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:burned_stone is
+[03Oct2025 03:23:44.989] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json: Don't know what death_angels:death_angel_meat is
+[03Oct2025 03:23:45.157] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'death_angels:death_angel_advancement' in progress file ./world/advancements/3dc7566d-df20-34d3-a4db-a631d4cd4f38.json - it doesn't exist anymore?
+[03Oct2025 03:23:45.169] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: death_angels:throwable_bottle removed now.
+[03Oct2025 03:23:45.170] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: death_angels:hearing_aid removed now.
+[03Oct2025 03:23:45.171] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: death_angels:throwable_bottle removed now.
+[03Oct2025 03:23:45.171] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: death_angels:hearing_aid removed now.
+[03Oct2025 03:23:45.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.23.59.74:40671] logged in with entity id 85920 at (-1220.36, -38.0, -637.81)
+[03Oct2025 03:23:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[03Oct2025 03:23:45.262] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[03Oct2025 03:23:47.437] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (20)
+[03Oct2025 03:23:47.437] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[03Oct2025 03:23:48.271] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-99, -51], discarding
+[03Oct2025 03:23:48.274] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-98, -51], discarding
+[03Oct2025 03:23:56.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[03Oct2025 03:23:58.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[03Oct2025 03:23:58.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[03Oct2025 03:24:05.443] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Oct2025 03:24:05.443] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[03Oct2025 03:24:36.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> hola
+[03Oct2025 03:25:07.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> holas
+[03Oct2025 03:25:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q hace
+[03Oct2025 03:25:20.344] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-98, -52], discarding
+[03Oct2025 03:25:20.345] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-98, -51], discarding
+[03Oct2025 03:25:20.381] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'grotesque_steve:mineshaft' in chunk [-99, -51], discarding
+[03Oct2025 03:25:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> aca chill
+[03Oct2025 03:25:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> tmb yo
+[03Oct2025 03:25:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: The difficulty has been set to Peaceful]
+[03Oct2025 03:26:16.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty did not change; it is already set to peaceful
+[03Oct2025 03:26:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES died
+[03Oct2025 03:26:33.595] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[03Oct2025 03:26:33.595] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[03Oct2025 03:26:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q?
+[03Oct2025 03:26:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> no q chil?
+[03Oct2025 03:26:40.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1063.500000, 114.500000, -721.500000]
+[03Oct2025 03:26:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q crjo?
+[03Oct2025 03:28:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q paso ps
+[03Oct2025 03:28:34.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no se XD
+[03Oct2025 03:30:22.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> olle, nc antoy
+[03Oct2025 03:30:27.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[03Oct2025 03:30:37.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported UnMarshelo to -1028.410000, 114.000000, -704.030000]
+[03Oct2025 03:30:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> gracias
+[03Oct2025 03:30:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dnd
+[03Oct2025 03:30:53.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya no?
+[03Oct2025 03:30:54.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[03Oct2025 03:30:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> toma
+[03Oct2025 03:31:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tengo mucho pero ya gracias
+[03Oct2025 03:31:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> ow
+[03Oct2025 03:31:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q paso?
+[03Oct2025 03:31:35.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> necesito cama XD
+[03Oct2025 03:31:49.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> abajo hay,
+[03Oct2025 03:34:19.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q paso?
+[03Oct2025 03:34:48.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> no nd, ando husbando hacer un ender chest
+[03Oct2025 03:34:52.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[03Oct2025 03:34:54.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> duda, no q soy del otro team?
+[03Oct2025 03:35:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[03Oct2025 03:35:02.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> cierto
+[03Oct2025 03:35:10.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pero ta destruida
+[03Oct2025 03:35:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> quedate por mientras
+[03Oct2025 03:35:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> gracias?
+[03Oct2025 03:35:19.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> igual es dia chill
+[03Oct2025 03:35:29.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: The difficulty has been set to Easy]
+[03Oct2025 03:35:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> wenop
+[03Oct2025 03:36:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q fue?
+[03Oct2025 03:36:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> escuche algo XD
+[03Oct2025 03:36:13.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> averigua xd
