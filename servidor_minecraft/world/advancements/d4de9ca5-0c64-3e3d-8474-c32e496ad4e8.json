@@ -8818,6 +8818,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/scanner_trapdoor": {
+    "criteria": {
+      "has_reinforced_trapdoor": "2025-10-03 00:15:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-10-02 23:18:22 +0000"
