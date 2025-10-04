@@ -8499,9 +8499,9 @@
     },
     "done": true
   },
-  "mutantmonsters:root": {
+  "azukaarsfairdifficultyoverhaul:bestiary/root": {
     "criteria": {
-      "killed_something": "2025-10-03 03:37:37 +0000"
+      "automatic": "2025-10-03 03:23:45 +0000"
     },
     "done": true
   },
@@ -8511,27 +8511,27 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-10-03 04:13:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-10-03 03:37:33 +0000"
     },
     "done": true
   },
-  "azukaarsfairdifficultyoverhaul:bestiary/root": {
-    "criteria": {
-      "automatic": "2025-10-03 03:23:45 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/food/cactus_juice": {
     "criteria": {
       "has_cactus": "2025-10-03 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-10-03 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-10-03 04:13:18 +0000"
     },
     "done": true
   },

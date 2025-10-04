@@ -41,18 +41,6 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_normal": {
-    "criteria": {
-      "is_triggered": "2025-10-01 22:59:21 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:game_stage_expert": {
-    "criteria": {
-      "is_triggered": "2025-10-01 22:59:21 +0000"
-    },
-    "done": true
-  },
   "azukaarsfairdifficultyoverhaul:bestiary/root": {
     "criteria": {
       "automatic": "2025-10-01 22:59:21 +0000"
@@ -67,9 +55,40 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert": "2025-10-04 00:10:25 +0000",
       "minecraft:plains": "2025-10-01 22:59:22 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-04 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-10-04 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_desert": "2025-10-04 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-10-04 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-10-04 00:10:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
