@@ -79,25 +79,6 @@
 			}]
 			title: "end dimension?"
 			x: 2.0d
-			y: -0.5d
-		}
-		{
-			id: "3D5A1A057F54B8E0"
-			rewards: [{
-				count: 3
-				id: "64FE4FDAD1429FC8"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
-			subtitle: "Go "
-			tasks: [{
-				icon: "minecraft:purpur_block"
-				id: "44F590EC3B124062"
-				structure: "minecraft:end_city"
-				title: "End city"
-				type: "structure"
-			}]
-			x: 2.0d
 			y: 0.5d
 		}
 		{
@@ -134,59 +115,8 @@
 				type: "item"
 			}]
 			title: "EGG"
-			x: 3.0d
-			y: -1.0d
-		}
-		{
-			id: "2323647B6154C495"
-			rewards: [{
-				count: 5
-				id: "75AD092C029ED79F"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
-			subtitle: "Otra vez tu?"
-			tasks: [
-				{
-					advancement: "minecraft:end/respawn_dragon"
-					criterion: ""
-					icon: "minecraft:dragon_head"
-					id: "6C9F63A99C8E1661"
-					title: "Otra vez?"
-					type: "advancement"
-				}
-				{
-					advancement: "minecraft:end/respawn_dragon"
-					criterion: ""
-					id: "73BBC3CCB2F8AD55"
-					type: "advancement"
-				}
-			]
-			x: 3.0d
-			y: 1.0d
-		}
-		{
-			id: "0C69A61ADB639DF2"
-			rewards: [{
-				count: 4
-				id: "5229D99948ECC95D"
-				item: "dedsafio3:deditamulticolor"
-				type: "item"
-			}]
-			tasks: [{
-				id: "662F021F8201C897"
-				item: {
-					Count: 1
-					id: "minecraft:elytra"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			title: "Fly"
-			x: 3.0d
-			y: 0.0d
+			x: 2.0d
+			y: -0.5d
 		}
 		{
 			icon: "iceandfire:dragon_skull_lightning"
@@ -6836,6 +6766,29 @@
 				type: "advancement"
 			}]
 			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "3A13601CDE62D1E8"
+			rewards: [{
+				id: "61B4B4632460277C"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "0DAA96E8DD09BF21"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
 			y: 0.0d
 		}
 	]

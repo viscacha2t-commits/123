@@ -921,6 +921,7 @@
       "bread": "2025-07-13 23:22:25 +0000",
       "golden_apple": "2025-07-21 22:11:28 +0000",
       "rotten_flesh": "2025-07-13 23:26:24 +0000",
+      "glow_berries": "2025-10-04 02:49:44 +0000",
       "salmon": "2025-07-19 01:29:34 +0000",
       "melon_slice": "2025-07-23 23:26:43 +0000",
       "golden_carrot": "2025-08-10 22:02:11 +0000",
@@ -7183,6 +7184,7 @@
     "criteria": {
       "creeper_head": "2025-09-03 22:41:17 +0000",
       "zombie_head": "2025-09-15 22:36:14 +0000",
+      "illager_head": "2025-10-04 01:21:38 +0000",
       "wither_skeleton_skull": "2025-09-20 01:31:12 +0000",
       "skeleton_skull": "2025-08-13 23:19:54 +0000"
     },
@@ -11075,6 +11077,60 @@
   "packedup:basic_backpack": {
     "criteria": {
       "has_backpack": "2025-10-03 22:35:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-10-04 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/sea_serpent_scale_block_deepblue_to_sea_serpent_scales_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scale_block_deepblue": "2025-10-04 00:37:27 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-10-04 01:19:48 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-10-04 01:32:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-10-04 01:58:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-10-04 01:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-10-04 02:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-10-04 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-10-04 03:37:09 +0000"
     },
     "done": true
   },
