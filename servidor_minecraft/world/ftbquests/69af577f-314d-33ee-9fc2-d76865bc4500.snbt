@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "69af577f314d33ee9fc2d76865bc4500"
+	name: "BabyChoclo#69af577f"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		1B87C0190E43E496: 1
+		0E5EA8F49DE1FEA4: 1
+	}
+	started: {
+		0000000000000001: 1762655320604L
+		37FA910CEC46ACAC: 1762655320604L
+		1B87C0190E43E496: 1762655320604L
+		480F04378052F701: 1762655320604L
+		5956BE6845EBC9D7: 1762655528536L
+		0E5EA8F49DE1FEA4: 1762655528536L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

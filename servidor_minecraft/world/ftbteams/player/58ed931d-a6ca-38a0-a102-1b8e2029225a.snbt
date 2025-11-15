@@ -1,0 +1,17 @@
+{
+	id: "58ed931d-a6ca-38a0-a102-1b8e2029225a"
+	type: "player"
+	player_name: "LancelotAstro"
+	ranks: {
+		58ed931d-a6ca-38a0-a102-1b8e2029225a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LancelotAstro"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF88"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

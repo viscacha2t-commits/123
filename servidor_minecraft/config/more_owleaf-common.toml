@@ -1,0 +1,28 @@
+
+#Configuración de la Fogata
+[fogata]
+	#Número de almas
+	#Range: 0 ~ 10
+	almasRequeridas = 1
+	#Número de vidas
+	#Range: 1 ~ 10
+	vidasIniciales = 1
+	#Uso de alma (formato: modid:item)
+	itemCuchara = "modminds:cuchara_de_resurreccion"
+	#No uso de alma (formato: modid:item)
+	itemTenedor = "modminds:tenedor_de_resurreccion"
+	#Define el método por el cual un jugador es expulsado al morir y cómo es reingresado al ser revivido.
+	#WHITELIST: Se remueve de la whitelist.
+	#BAN: Se banea al jugador.
+	#BANIP: Se banea la IP del jugador.
+	#Allowed Values: WHITELIST, BAN, BANIP
+	metodoExpulsion = "BAN"
+	#Cantidad de segundos antes de ser expulsado.
+	#Range: 1 ~ 10
+	cooldownExpulsion = 10
+	#Modo de juego al que se cambia el jugador antes de ser expulsado (SPECTATOR, SURVIVAL, CREATIVE, ADVENTURE).
+	#Allowed Values: SURVIVAL, CREATIVE, ADVENTURE, SPECTATOR
+	gamemodeBeforeExpulsion = "SPECTATOR"
+	#Coordenadas X Y Z (separadas por espacio) donde el jugador aparecerá al ser revivido.
+	coorsPosRevive = "-2033 67 -722"
+

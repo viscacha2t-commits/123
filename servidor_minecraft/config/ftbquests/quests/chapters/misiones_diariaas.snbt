@@ -1,0 +1,344 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_diariaas"
+	group: ""
+	id: "722682B071BE0944"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2F3139851F203DB5"
+			tasks: [
+				{
+					id: "385C7C6A12DB74F8"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A85F900D0712356"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C27F9F09A5732F8"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "005236568BE9E03A"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Full diamante"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "629FE47D58417CD9"
+			rewards: [{
+				id: "39E722D350D3C972"
+				item: {
+					Count: 1
+					id: "minecraft:shulker_box"
+					tag: {
+						BlockEntityTag: {
+							ForgeCaps: { }
+							Items: [
+								{
+									Count: 10b
+									Slot: 0b
+									id: "modminds:dedita_naranja"
+								}
+								{
+									Count: 1b
+									Slot: 1b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 1b
+									Slot: 2b
+									id: "iceandfire:dragon_horn"
+								}
+								{
+									Count: 1b
+									Slot: 3b
+									id: "modminds:cuchara_de_resurreccion"
+								}
+								{
+									Count: 5b
+									Slot: 4b
+									id: "modminds:dedita_azul"
+								}
+								{
+									Count: 1b
+									Slot: 5b
+									id: "modminds:tenedor_de_resurreccion"
+								}
+								{
+									Count: 20b
+									Slot: 6b
+									id: "iceandfire:dragon_meal"
+								}
+								{
+									Count: 1b
+									Slot: 7b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 10b
+									Slot: 8b
+									id: "modminds:dedita_naranja"
+								}
+								{
+									Count: 1b
+									Slot: 9b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 1b
+									Slot: 10b
+									id: "modminds:nutritotem"
+								}
+								{
+									Count: 1b
+									Slot: 11b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 5b
+									Slot: 12b
+									id: "modminds:dedita_azul"
+								}
+								{
+									Count: 1b
+									Slot: 13b
+									id: "dedsafio3:dedita_mision"
+								}
+								{
+									Count: 5b
+									Slot: 14b
+									id: "modminds:dedita_azul"
+								}
+								{
+									Count: 1b
+									Slot: 15b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 1b
+									Slot: 16b
+									id: "modminds:nutritotem"
+								}
+								{
+									Count: 1b
+									Slot: 17b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 10b
+									Slot: 18b
+									id: "modminds:dedita_naranja"
+								}
+								{
+									Count: 1b
+									Slot: 19b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 1b
+									Slot: 20b
+									id: "iceandfire:dragon_stick"
+								}
+								{
+									Count: 1b
+									Slot: 21b
+									id: "modminds:cuchara_de_madera"
+								}
+								{
+									Count: 5b
+									Slot: 22b
+									id: "modminds:dedita_azul"
+								}
+								{
+									Count: 1b
+									Slot: 23b
+									id: "modminds:tenedor_normal"
+								}
+								{
+									Count: 1b
+									Slot: 24b
+									id: "iceandfire:dragon_flute"
+								}
+								{
+									Count: 1b
+									Slot: 25b
+									id: "dedsafio3:deditamulticolor"
+								}
+								{
+									Count: 10b
+									Slot: 26b
+									id: "modminds:dedita_naranja"
+								}
+							]
+							id: "minecraft:shulker_box"
+						}
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Recompensa Dragones\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					advancement: "iceandfire:iceandfire/kill_if_dragon"
+					criterion: ""
+					id: "690E732D1994DC6B"
+					type: "advancement"
+				}
+				{
+					count: 25L
+					id: "2176874B1BA0179A"
+					item: "iceandfire:fire_dragon_blood"
+					type: "item"
+				}
+				{
+					count: 25L
+					id: "1E971CCDD2AE665E"
+					item: "iceandfire:ice_dragon_blood"
+					type: "item"
+				}
+				{
+					count: 25L
+					id: "00A5B1D9CD2159B2"
+					item: "iceandfire:lightning_dragon_blood"
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "2432BBC0111E0018"
+					item: { Count: 10, id: "iceandfire:dragon_bone_block" }
+					type: "item"
+				}
+				{
+					id: "77AB54466FBABB21"
+					item: "iceandfire:fire_dragon_heart"
+					type: "item"
+				}
+				{
+					id: "34865C5A2A501A20"
+					item: "iceandfire:ice_dragon_heart"
+					type: "item"
+				}
+				{
+					id: "10DBBE70A26822C6"
+					item: "iceandfire:lightning_dragon_heart"
+					type: "item"
+				}
+				{
+					id: "774FEB7FF94CBA35"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "243FCC76D650C930"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F43BB2898268E52"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36C7DBF376E06641"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "104095017457B36C"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "265E69F80B3D8E24"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonbone_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "66B335EC05DA10BC"
+					item: { Count: 16, id: "iceandfire:witherbone" }
+					type: "item"
+				}
+			]
+			title: "Los dragones"
+			x: 0.5d
+			y: 0.0d
+		}
+	]
+	title: "Misiones Diarias"
+}

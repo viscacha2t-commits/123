@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "item_predicate": {
+        "items": [
+          "dungeons_and_combat:combat_style_manual"
+        ]
+      },
+      "groups": [
+        "default"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "default",
+      "properties": {}
+    }
+  ]
+}

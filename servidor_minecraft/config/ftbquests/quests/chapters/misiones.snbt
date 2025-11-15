@@ -1,0 +1,1338 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones"
+	group: ""
+	id: "37FA910CEC46ACAC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "26C49232681FB220"
+			rewards: [{
+				id: "212AF4B705DD106B"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "0988615A43014FDA"
+				title: "XP"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "3C44BCF3870C6B48"
+			rewards: [{
+				count: 5
+				id: "20272C18EA3263E8"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "16AB0EF26C387705"
+				item: {
+					Count: 1
+					id: "wom:tormented_mind"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "71DB16310B7A0D99"
+			rewards: [{
+				count: 5
+				id: "03822D8C5E05DF1A"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E8322F912BE303D"
+				item: {
+					Count: 1
+					id: "wom:agony"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "19E38B77C6AC5C9E"
+			rewards: [{
+				count: 5
+				id: "1D2855283C6AEB58"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "317000ACF40A4391"
+				item: {
+					Count: 1
+					id: "wom:moonless"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "3713539626B11DBC"
+			rewards: [{
+				count: 5
+				id: "72391559C8D494E6"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37D1F8D6C9A9487A"
+				item: {
+					Count: 1
+					id: "wom:ruine"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "780C1025C3EE10AC"
+			rewards: [{
+				count: 5
+				id: "07B1D504CA00A3AE"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3F1516F0CF7330F4"
+					item: {
+						Count: 1
+						id: "wom:ender_blaster"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C7732AAE082DEEE"
+					item: {
+						Count: 1
+						id: "wom:ender_blaster"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "76CA1BAC8420DEAA"
+			rewards: [{
+				count: 5
+				id: "074345627B4DDD37"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E664B1E20406FE3"
+				item: {
+					Count: 1
+					id: "wom:diamond_greataxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "11B51F00AB047DCC"
+			rewards: [{
+				count: 5
+				id: "35DD9ED9B5DD7232"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "703F831B2BA84E7E"
+				item: {
+					Count: 1
+					id: "wom:diamond_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "26A2CCE8539B34A9"
+			rewards: [{
+				count: 5
+				id: "791D31F89E4EF021"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5854079D315A0577"
+				item: {
+					Count: 1
+					id: "wom:antitheus"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "681B479D3C3A159B"
+			rewards: [{
+				count: 5
+				id: "046B60B977C2E7A9"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DDBAB88848770A8"
+				item: {
+					Count: 1
+					id: "wom:satsujin"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			id: "664F1B052F0F9571"
+			rewards: [{
+				count: 5
+				id: "0DB69F8FFEFAEAD7"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A949D1CC817B35F"
+				item: {
+					Count: 1
+					id: "wom:solar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "03037A2F3E0ABAB0"
+			rewards: [{
+				count: 5
+				id: "70D29460AEEBAAA8"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "13F836D45D521C0F"
+					item: {
+						Count: 1
+						id: "wom:herrscher"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24068FAA5B01267A"
+					item: {
+						Count: 1
+						id: "wom:gesetz"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "1BF1AB7904F63B1A"
+			rewards: [{
+				id: "183D1EDBE4A9C056"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D448D50B6D63DC6"
+				item: "golden_apple_tree:apple_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "2BC3114C28FCEFA2"
+			rewards: [{
+				count: 2
+				id: "045A4CCC9CB91763"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A84E5E4124237D5"
+				item: "golden_apple_tree:golden_apple_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			id: "43F3DBEEC4012C29"
+			rewards: [{
+				count: 5
+				id: "5A060130E191BC8E"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C3715ABB5B13D8D"
+				item: "golden_apple_tree:enchanted_golden_apple_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			id: "5FDE38DAF18F2AB3"
+			rewards: [{
+				count: 5
+				id: "19CDCB822A4EF126"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/totem_of_undying"
+				criterion: ""
+				id: "09FA689AB9DB6139"
+				title: "Tu primera popeada"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "4A4E2AC99289251A"
+			rewards: [{
+				count: 2
+				id: "3431F0209F9CDF1B"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AC4DA8304402545"
+				item: "structurecompass:structure_compass"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "3076230B20703DAB"
+			rewards: [{
+				count: 2
+				id: "27B997242C82907E"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				id: "138FFB54D81E70D2"
+				item: {
+					Count: 1
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "0E748F1E06B664CF"
+			rewards: [{
+				count: 2
+				id: "079DCF26CE265C55"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "5FC600BD39B01C14"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "5956BE6845EBC9D7"
+			rewards: [{
+				count: 2
+				id: "2D6EC53F1D048A70"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "0E5EA8F49DE1FEA4"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "501CC9665AD20CB8"
+			rewards: [{
+				count: 2
+				id: "41EEFD33AC629D58"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: "spartanweaponry:drowned_head"
+				id: "5F6F9F23173B3F96"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "53085CD9B158F654"
+			rewards: [{
+				count: 2
+				id: "675912FD31385323"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "spartanweaponry:spider_head"
+				id: "0E9A089725ED07AF"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "662C678D4366F8CE"
+			rewards: [{
+				count: 2
+				id: "16A45B5ABED0582A"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "349A05C53BEA08CA"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			icon: "spartanweaponry:blaze_head"
+			id: "404D4F546CCFE4B3"
+			rewards: [{
+				count: 2
+				id: "24E96061E1B63D80"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: "spartanweaponry:blaze_head"
+				id: "4A2CC91FCA320997"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			hide_dependency_lines: false
+			icon: "spartanweaponry:witch_head"
+			id: "3F9F85459C9709A8"
+			rewards: [{
+				count: 2
+				id: "5E01C67D85DB080E"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: "minecraft:zombie_head"
+				id: "7E78A6F373FED8A7"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "09CBC48FAEE2C8DE"
+			rewards: [{
+				count: 2
+				id: "6EFB6F301915C033"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "10DEF085D3CF1504"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "391C4844E9D27BEC"
+			rewards: [{
+				count: 2
+				id: "6497030F34B3FA81"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				icon: "minecraft:magma_cream"
+				id: "29205D3261B570D7"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "20CC59094209350B"
+			rewards: [{
+				count: 2
+				id: "261512B9866EBC3F"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ravager"
+				icon: "minecraft:saddle"
+				id: "73B8C1B7A6C0811F"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			id: "6BFF881DC2029748"
+			rewards: [
+				{
+					count: 32
+					id: "456A38D90E89F24B"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "7B17D39957E96BE9"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "0DBED4A50D1CBEA1"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			id: "3E322606F609EE80"
+			rewards: [{
+				count: 2
+				id: "79CCB526FF6BB25F"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "spartanweaponry:enderman_head"
+				id: "45AF9372AF89FFC8"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			id: "6C7AA36C518B9954"
+			rewards: [{
+				count: 2
+				id: "791E6E7350700C67"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:endermite"
+				icon: "mofus_better_end_:endermite_swarmer_wing"
+				id: "24C896F872728352"
+				type: "kill"
+				value: 10L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			id: "29FAF95B3A36588C"
+			rewards: [{
+				count: 2
+				id: "3EC2C6E91E49F39F"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:stray"
+				icon: {
+					Count: 1
+					id: "minecraft:tipped_arrow"
+					tag: {
+						Potion: "minecraft:slowness"
+					}
+				}
+				id: "6514E2917CA2CB3E"
+				type: "kill"
+				value: 50L
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "405876E4E58F4173"
+			rewards: [{
+				count: 2
+				id: "2B81925AEE5DEEA4"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: "minecraft:wither_skeleton_skull"
+				id: "0ABBCEB59E33C1BF"
+				type: "kill"
+				value: 25L
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "22DDF33A00F4BFAE"
+			rewards: [{
+				count: 2
+				id: "0238D11C3B51F21D"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "minecraft:phantom_membrane"
+				id: "70146381702FBC90"
+				type: "kill"
+				value: 25L
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "380F638B549D78A0"
+			rewards: [{
+				count: 2
+				id: "28CB532BA40BB903"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ghast"
+				icon: "minecraft:ghast_tear"
+				id: "6CC85391984A6EDE"
+				type: "kill"
+				value: 15L
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:prismarine_shard"
+			id: "67B68E4D56F24B83"
+			rewards: [{
+				count: 2
+				id: "416708E1DBB715B6"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:guardian"
+				id: "3F4444D2F958CC5A"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			id: "665E9A751A6D148A"
+			rewards: [
+				{
+					count: 5
+					id: "7C975D5D68769D5F"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "612E2EDB83B29F63"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: "minecraft:sponge"
+				id: "30B849D467D2C0E5"
+				type: "kill"
+				value: 3L
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "1CED5B5F7D33F8D6"
+			rewards: [{
+				count: 2
+				id: "65592BA30B833CB1"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:hoglin"
+				icon: "minecraft:cooked_porkchop"
+				id: "76896893600408C8"
+				type: "kill"
+				value: 25L
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			id: "48BD9070260E3BA0"
+			rewards: [{
+				count: 3
+				id: "10DD185B4F138C5A"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:evoker"
+				icon: "minecraft:totem_of_undying"
+				id: "59F036B86D6A49C7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			id: "0EA0A957F701C4CF"
+			rewards: [{
+				count: 2
+				id: "063D0112F9257DA0"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:silverfish"
+				icon: "minecraft:infested_cracked_stone_bricks"
+				id: "24927B5C700B922F"
+				type: "kill"
+				value: 10L
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:piglin_head"
+			id: "5DF939F341E9C0EE"
+			rewards: [{
+				count: 2
+				id: "1CDE6718BD5DF17B"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin"
+				id: "52CE70E6FC2B2B0E"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			id: "64C40534D0ECF4D2"
+			rewards: [{
+				count: 3
+				id: "351D87543B77133E"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				icon: {
+					Count: 1
+					id: "minecraft:golden_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "1C8EC10C366C97C4"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			id: "480F04378052F701"
+			rewards: [{
+				count: 2
+				id: "13EE3B4EC6646A2C"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:pillager"
+				icon: "easy_npc:pillager_spawn_egg"
+				id: "1B87C0190E43E496"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			id: "6B810698F23D3468"
+			rewards: [{
+				count: 2
+				id: "782BBD2719F154BA"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:shulker"
+				icon: "minecraft:shulker_shell"
+				id: "130726D2827B42A4"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			id: "7CD5116483E37483"
+			rewards: [{
+				count: 2
+				id: "64EE1CCADEB62CBF"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:slime"
+				icon: "minecraft:slime_ball"
+				id: "31DF8F7540BD94BD"
+				type: "kill"
+				value: 25L
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			id: "20BDADFF870D8F30"
+			rewards: [{
+				count: 2
+				id: "2D5BC2A23529B2BA"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:vex"
+				icon: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "61362C3E618CD2FD"
+				type: "kill"
+				value: 25L
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			id: "711B8C889916894B"
+			rewards: [
+				{
+					count: 5
+					id: "0D74E8289FB72342"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "30229103815E7BAE"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: {
+					Count: 1
+					id: "travelersbackpack:warden"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				id: "126BF526032D6694"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "09BFC6427F219EC9"
+			rewards: [
+				{
+					count: 5
+					id: "05CF9702320C7F59"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4B07963C942C0505"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "minecraft:wither_rose"
+				id: "045D7A8580A3FF5B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			icon: "minecraft:rotten_flesh"
+			id: "38516726B2BC4FB1"
+			rewards: [{
+				count: 2
+				id: "43E97EC5841FD09F"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:husk"
+				id: "4DC46D9C089AD02E"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			id: "1725E0B24C3B2B50"
+			rewards: [{
+				count: 2
+				id: "3444E99D6A4282EE"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:ghost"
+				icon: "iceandfire:ectoplasm"
+				id: "690B8F0D02CF83C7"
+				type: "kill"
+				value: 10L
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "11FCA37D8B7F6B80"
+			rewards: [{
+				count: 2
+				id: "7F6CA1A0A498BFA0"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:siren"
+				icon: {
+					Count: 1
+					id: "iceandfire:siren_flute"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "78C4A98A69D2942E"
+				type: "kill"
+				value: 3L
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "2230CC101525E26E"
+			rewards: [{
+				count: 3
+				id: "6EED02043C568059"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				icon: {
+					Count: 1
+					id: "iceandfire:cyclops_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "725E6E7C72948E86"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "5F7B5A7A4C2EB1C0"
+			rewards: [{
+				count: 2
+				id: "3A4F0B6E4AD809BE"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: {
+					Count: 1
+					id: "iceandfire:gorgon_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "70970D25AC745084"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "15A89FBBE4569AE8"
+			rewards: [{
+				count: 2
+				id: "76C1601F58B2C839"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:hippogryph"
+				icon: "iceandfire:hippogryph_skull"
+				id: "44C982D7356440C8"
+				type: "kill"
+				value: 5L
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "391B3B9A8123B6CF"
+			rewards: [{
+				count: 2
+				id: "4BE01F43D3C1F534"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "dedsafio3:hydra"
+				icon: "iceandfire:hydra_heart"
+				id: "37072F708D7202F9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "6604959837172EA5"
+			rewards: [{
+				count: 3
+				id: "2E0A15CE96E31E95"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:sea_serpent"
+				icon: "iceandfire:seaserpent_skull"
+				id: "47596876F384F39F"
+				type: "kill"
+				value: 5L
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "0DAF8B6E03DE5FD6"
+			rewards: [{
+				count: 2
+				id: "395397C3F257F306"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:stymphalian_bird"
+				icon: "iceandfire:stymphalian_skull"
+				id: "154E651FA81CF4AC"
+				type: "kill"
+				value: 5L
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "7AA25A125413E286"
+			rewards: [{
+				count: 2
+				id: "1F2CD919479BEF89"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:cockatrice"
+				icon: "iceandfire:cockatrice_skull"
+				id: "4096B004CFF9F39E"
+				type: "kill"
+				value: 5L
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "4843FDAF033F1717"
+			rewards: [{
+				count: 2
+				id: "102D25B050F3F3E0"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:troll"
+				icon: "iceandfire:troll_skull"
+				id: "6FC76F0B7BF61A71"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "16B7B2F9AF308E9D"
+			rewards: [
+				{
+					count: 5
+					id: "7D159E905F911742"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					id: "03E505F98D3F7481"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_blood"
+				id: "6A588027F2E112BA"
+				type: "kill"
+				value: 3L
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			dependency_requirement: "one_completed"
+			id: "20C3B29FF0AD7B36"
+			rewards: [
+				{
+					count: 5
+					id: "2D737F0A18C5DB60"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "371E021086208F17"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_blood"
+				id: "76159DFE2C1ACA42"
+				type: "kill"
+				value: 2L
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "3E9EF4E5F9794046"
+			rewards: [
+				{
+					count: 5
+					id: "63AC17FFF3D116C3"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2807FEBC29D5FE61"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_blood"
+				id: "542C1FDC38063CC5"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+	]
+	title: "Misiones"
+}
